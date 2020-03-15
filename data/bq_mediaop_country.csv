@@ -1,0 +1,1224 @@
+Actor1Name,Actor2CountryCode,Actor2Type1Code,Actor2Type2Code,AvgTone,MonthYear,NumSources,SOURCEURL
+FRENCH,FRA,GOV,,-3.07692307692307,202003,1,https://www.politico.eu/article/france-bans-gatherings-of-1000-people-to-contain-coronavirus/
+HEALTH MINIST,ISR,GOV,,2.41545893719806,202003,1,http://www.israelnationalnews.com/News/News.aspx/276997
+HEALTH MINIST,ISR,GOV,MED,1.8018018018018,202003,1,http://www.israelnationalnews.com/News/Flash.aspx/490610
+ISRAEL,ISR,GOV,MED,1.8018018018018,202003,1,http://www.israelnationalnews.com/News/Flash.aspx/490610
+HEALTH OFFICIAL,JPN,GOV,,-3.74115267947421,202003,1,https://www.independent.co.uk/news/world/americas/us-politics/coronavirus-trump-cdc-health-officials-overruled-elderly-flying-mike-pence-a9385121.html
+HEALTH DEPARTMENT,USA,GOV,HLH,-2.77777777777777,202003,1,http://www.baltimoresun.com/coronavirus/bs-md-coronavirus-saturday-20200308-7bzmbv4znvamdbdlqrfooduevu-story.html
+HEALTH DEPARTMENT,USA,GOV,HLH,-2.77777777777777,202003,1,http://www.baltimoresun.com/coronavirus/bs-md-coronavirus-saturday-20200308-7bzmbv4znvamdbdlqrfooduevu-story.html
+HEALTH MINIST,SAU,GOV,MED,-2.63157894736842,202003,1,http://www.gdnonline.com/Details/785221/Saudi-asks-people-arriving-from-four-countries-to-self-quarantine
+WORLD HEALTH ORGANIZATION,EGY,GOV,,-1.69898298640813,202003,2,https://www.abcactionnews.com/news/national/coronavirus/egypt-says-cruise-ship-quarantined-over-new-virus-cluster
+WORLD HEALTH ORGANIZATION,USA,GOV,,-4.67625899280576,202003,1,https://www.bnnbloomberg.ca/coronavirus-s-true-lethal-power-still-eludes-disease-experts-1.1401142
+HEALTH DEPARTMENT,IND,GOV,,-2.6364193746168,202003,1,https://indianexpress.com/article/india/coronavirus-delhi-hyderabad-india-china-wuhan-covid-19-6304375/
+WORLD HEALTH ORGANIZATION,IRN,GOV,,-3.23723460962094,202003,2,http://www.xinhuanet.com/english/2020-03/08/c_138856121.htm
+HEALTH MINIST,ISR,GOV,,-4.91803278688525,202003,1,https://hamodia.com/2020/03/08/israel-edging-toward-state-emergency-due-coronavirus/
+HEALTH MINIST,ISR,GOV,HLH,-2.82979608822305,202003,1,https://www.timesofisrael.com/doctor-sees-feminist-medicine-as-cure-for-medical-gender-discrimination/
+HEALTH MINIST,ISR,GOV,HLH,-2.82979608822305,202003,1,https://www.timesofisrael.com/doctor-sees-feminist-medicine-as-cure-for-medical-gender-discrimination/
+HEALTH MINIST,ISR,GOV,HLH,-2.82979608822305,202003,1,https://www.timesofisrael.com/doctor-sees-feminist-medicine-as-cure-for-medical-gender-discrimination/
+WORLD HEALTH ORGANIZATION,ITA,GOV,,-3.52220520673813,202003,1,https://www.thenews.com.pk/print/625445-pope-s-sunday-prayer-to-be-livestreamed-as-coronavirus-spreads
+WORLD HEALTH ORGANIZATION,ITA,GOV,,-3.52220520673813,202003,1,https://www.thenews.com.pk/print/625445-pope-s-sunday-prayer-to-be-livestreamed-as-coronavirus-spreads
+ITALY,ITA,GOV,,-1.81818181818182,202003,1,https://www.maltatoday.com.mt/news/national/100842/coronavirus_in_cabinet_abela_and_health_minister_disagree_over_stopping_flights
+HEALTH MINIST,SAU,GOV,,-3.7593984962406,202003,1,https://www.malaysiakini.com/news/513794
+HEALTH MINIST,SAU,GOV,MED,-2.58620689655173,202003,1,http://www.gdnonline.com/Details/785309
+HEALTH MINIST,AFR,GOV,,-2.60336906584993,202003,1,https://www.iol.co.za/sunday-tribune/news/coronavirus-and-south-africa-heres-what-you-need-to-know-44357807
+HEALTH MINIST,ZAF,GOV,,-2.60336906584993,202003,1,https://www.iol.co.za/sunday-tribune/news/coronavirus-and-south-africa-heres-what-you-need-to-know-44357807
+HEALTH OFFICIAL,USA,GOV,,-2.8328611898017,202003,1,https://news.yahoo.com/coronavirus-trump-administration-overruled-health-111137335.html
+HEALTH OFFICIAL,USA,GOV,,-0.85470085470085,202003,1,https://www.msn.com/en-us/news/us/regal-princess-cruise-ship-held-at-sea-off-florida-coast-as-two-crew-are-tested-for-coronavirus/ar-BB10UNh3
+HEALTH OFFICIAL,USA,GOV,,-0.85470085470085,202003,1,https://www.msn.com/en-us/news/us/regal-princess-cruise-ship-held-at-sea-off-florida-coast-as-two-crew-are-tested-for-coronavirus/ar-BB10UNh3
+WORLD HEALTH ORGANIZATION,EGY,GOV,,-4.91329479768787,202003,1,https://www.wtsp.com/article/news/health/coronavirus/2-presumptive-positive-florida-cases-linked-to-egyptian-river-cruise/67-cef0cd4b-4743-41ff-ab9f-a23b5b138ba9
+HEALTH OFFICIAL,USA,GOV,,-2.39130434782609,202003,1,http://www.sun-sentinel.com/coronavirus/fl-ne-coronavirus-florida-cruise-ship-off-fort-lauderdale-20200308-6gzozs5u2bgnhhzlppolviqdlq-story.html
+HEALTH OFFICIAL,USA,GOV,,-1.62300260126347,202003,2,http://www.sun-sentinel.com/coronavirus/fl-ne-coronavirus-florida-cruise-ship-off-fort-lauderdale-20200308-6gzozs5u2bgnhhzlppolviqdlq-story.html
+UNITED STATES,USA,GOV,,1.89155107187894,202003,1,https://www.wpbf.com/article/mayor-of-palm-beach-county-holds-press-conference-on-coronavirus/31274053
+UNITED STATES,USA,GOV,,1.89155107187894,202003,1,https://www.wpbf.com/article/mayor-of-palm-beach-county-holds-press-conference-on-coronavirus/31274053
+WORLD HEALTH ORGANIZATION,USA,GOV,,-3.53477765108324,202003,1,https://www.mainepublic.org/post/international-cruise-ships-reach-maine-next-month-amid-coronavirus-fears
+RED CROSS,JPN,GOV,,2.5531914893617,202003,1,https://www.daily-sun.com/post/467964/CRP-inaugurates-divisional-center-in-Barishal
+HEALTH MINIST,LKA,GOV,,-3.38983050847458,202003,1,http://www.dailynews.lk/2020/03/09/local/213792/dambadiva-tours-temporarily-suspended
+HEALTH OFFICIAL,IRL,GOV,,-3.89105058365758,202003,1,https://www.newsy.com/stories/france-germany-aim-to-minimize-crowds-due-to-coronavirus/
+HEALTH MINIST,FRA,GOV,,-2.91777188328913,202003,1,https://www.c21media.net/virus-fears-cause-cabsat-delay-new-french-ban/
+HEALTH MINIST,FRA,GOV,,-2.91777188328913,202003,1,https://www.c21media.net/virus-fears-cause-cabsat-delay-new-french-ban/
+MINIST OF HEALTH,ISR,GOV,,-0.70921985815603,202003,1,http://www.israelnationalnews.com/News/Flash.aspx/490736
+MINIST OF HEALTH,ISR,GOV,,-0.70921985815603,202003,1,http://www.israelnationalnews.com/News/Flash.aspx/490736
+HEALTH MINIST,ISR,GOV,,-1.13636363636364,202003,1,https://unitedwithisrael.org/cov-19-battle-israeli-woman-so-proud-of-her-country-for-valuing-health-above-wealth/
+HEALTH MINIST,IND,GOV,,-3.23741007194244,202003,1,https://www.firstpost.com/india/coronavirus-cases-in-india-at-45-after-karnataka-and-punjab-report-first-patients-aircraft-sent-to-bring-back-indians-stranded-in-iran-8135091.html
+HEALTH OFFICIAL,USA,GOV,,-6.86406460296097,202003,1,https://www.aljazeera.com/news/2020/03/experts-trump-wrong-compare-coronavirus-flu-200309145951552.html
+WORLD HEALTH ORGANIZATION,EGY,GOV,,-0.49972237645752,202003,1,https://www.freep.com/story/travel/cruises/2020/03/07/coronavirus-grand-princess-cruise-ship-california/4978565002/
+HEALTH MINIST,IND,GOV,,-3.38983050847457,202003,1,https://english.jagran.com/india/coronavirus-in-india-latest-updates-delhi-noida-gurgaon-number-of-cases-patient-count-symptoms-precautions-health-ministry-10009495
+HEALTH MINIST,IND,GOV,,-5.02293577981651,202003,2,https://www.aninews.in/news/national/general-news/300-more-isolation-wards-will-be-opened-in-madurai-trichy-chennai-tn-health-minister20200309145519/
+WORLD HEALTH ORGANIZATION,ITA,GOV,,-5.84558406870755,202003,7,https://ca.news.yahoo.com/europe-told-act-now-coronavirus-113710630.html
+HEALTH OFFICIAL,USA,GOV,,0,202003,1,https://www.wibwnewsnow.com/kansas-woman-with-coronavirus-being-treated-at-university-of-kansas-hospital/
+HEALTH OFFICIAL,USA,GOV,,-1.13122171945701,202003,1,https://www.nbcwashington.com/news/local/dc-high-school-closed-monday-after-staffer-had-contact-with-coronavirus-patient/2234810/
+HEALTH DEPARTMENT,USA,GOV,AGR,-0.233785591782542,202003,5,https://www.mankatofreepress.com/news/state_news/editorial-roundup-excerpts-from-recent-minnesota-editorials/article_b36f748b-580c-5170-8f94-3890160e0f6e.html
+HEALTH DEPARTMENT,USA,GOV,AGR,-0.233785591782542,202003,5,https://www.mankatofreepress.com/news/state_news/editorial-roundup-excerpts-from-recent-minnesota-editorials/article_b36f748b-580c-5170-8f94-3890160e0f6e.html
+TEVA PHARMACEUTICAL,ISR,MNC,HLH,-8.7561814248184,202003,2,https://www.planadviser.com/counterarguments-filed-erisa-lawsuit-targeting-teva-pharmaceuticals/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.55555555555555,202003,1,https://www.bworldonline.com/shares-slump-further-on-fears-over-virus-outbreak/
+MEDICAL OFFICIAL,IRN,GOV,MED,-6.56370656370656,202003,1,https://www.middleeasteye.net/news/iran-supreme-leader-khamenei-adviser-dies-coronavirus
+MEDICAL OFFICIAL,IRN,GOV,MED,-6.56370656370656,202003,1,https://www.middleeasteye.net/news/iran-supreme-leader-khamenei-adviser-dies-coronavirus
+HEALTH OFFICIAL,COK,GOV,,-5.83333333333334,202003,1,https://www.rnz.co.nz/international/pacific-news/410833/cruise-ship-carrying-italian-passengers-banned-from-cooks-aitutaki
+HEALTH OFFICIAL,COK,GOV,,-5.83333333333334,202003,1,https://www.rnz.co.nz/international/pacific-news/410833/cruise-ship-carrying-italian-passengers-banned-from-cooks-aitutaki
+BELARUS,IRN,GOV,,-1.76991150442478,202003,1,https://en.trend.az/iran/politics/3200237.html
+WASHINGTON,USA,GOV,,-3.6775179654615,202003,2,https://www.geo.tv/latest/275214-us-confirms-second-coronavirus-death-new-york-reports-first-case
+WASHINGTON,USA,GOV,,-3.5,202003,1,http://nna-leb.gov.lb/en/show-news/113023/Washington-state-confirms-second-coronavirus-death-New-York-reports-first-case
+MINIST OF HEALTH,TUN,GOV,,-0.91185410334346,202003,1,https://africatimes.com/2020/03/03/morocco-senegal-and-tunisia-add-to-africas-covid19-count/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.55555555555555,202003,1,https://www.bworldonline.com/shares-slump-further-on-fears-over-virus-outbreak/
+MINIST OF HEALTH,GMB,GOV,,0,202003,1,https://foroyaa.gm/health-minister-reaffirms-governments-commitment-in-tackling-coronavirus/
+HEALTH DEPARTMENT,ARE,GOV,HLH,-1.14503816793893,202003,1,https://www.siasat.com/delhi-hyderabad-report-first-coronavirus-cases-1844655/
+HEALTH OFFICIAL,AFG,GOV,,-7.01754385964912,202003,1,http://www.afghanistantimes.af/1501-infected-66-dead-from-coronavirus-in-iran/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.92960209881942,202003,1,https://www.fpri.org/article/2020/03/asian-politics-in-time-of-corona/
+IRELAND,IRL,GOV,,-1.46674286351472,202003,2,http://www.irishnews.com/news/northernirelandnews/2020/03/02/news/republic-s-first-coronavirus-patient-being-treated-in-dublin-hospital-1855985/
+SINGAPORE,IDN,GOV,,-0.26178010471205,202003,1,https://www.straitstimes.com/asia/se-asia/mum-daughter-indonesias-first-confirmed-cases
+GHULAM NABI AZAD,IND,GOV,HLH,-6.73211781206171,202003,1,https://www.thehindu.com/news/national/cong-bjp-mps-get-into-scuffle-in-ls/article30965579.ece
+GHULAM NABI AZAD,IND,GOV,HLH,-6.73211781206171,202003,1,https://www.thehindu.com/news/national/cong-bjp-mps-get-into-scuffle-in-ls/article30965579.ece
+MEDICAL OFFICIAL,IRN,GOV,MED,-6.56370656370656,202003,1,https://www.middleeasteye.net/news/iran-supreme-leader-khamenei-adviser-dies-coronavirus
+MEDICAL OFFICIAL,IRN,GOV,MED,-6.56370656370656,202003,1,https://www.middleeasteye.net/news/iran-supreme-leader-khamenei-adviser-dies-coronavirus
+HEALTH OFFICIAL,GBR,GOV,,-4.01891252955083,202003,1,https://www.manchestereveningnews.co.uk/news/uk-news/boris-johnson-cobra-meeting-coronavirus-17843730
+HEALTH MINIST,GBR,GOV,,-0.42872454448017,202003,1,https://www.walesonline.co.uk/news/politics/latest-welsh-coronavirus-advice-six-17847011
+HEALTH MINIST,GBR,GOV,,-0.42872454448017,202003,1,https://www.walesonline.co.uk/news/politics/latest-welsh-coronavirus-advice-six-17847011
+WORLD HEALTH ORGANIZATION,USA,GOV,,-3.51170568561873,202003,1,https://www.theedgemarkets.com/article/us-officials-talk-down-coronavirus-market-panic-tout-economic-strength
+WORLD HEALTH ORGANIZATION,USA,GOV,,-3.51170568561873,202003,1,https://www.theedgemarkets.com/article/us-officials-talk-down-coronavirus-market-panic-tout-economic-strength
+WASHINGTON,USA,GOV,,-3.70381568073014,202003,18,https://edmontonsun.com/news/world/trump-vows-to-screen-travelers-after-first-american-dies-of-coronavirus/wcm/235a23b7-0686-4870-8271-71e1b8645a4a
+HEALTH OFFICIAL,USA,GOV,,-3.12891113892366,202003,1,https://www.msn.com/en-us/news/us/two-connecticut-residents-tested-negative-for-coronavirus-over-the-weekend-gov-ned-lamont-briefed-by-us-surgeon-general/ar-BB10DRbL
+HEALTH OFFICIAL,USA,GOV,,1.69491525423729,202003,1,http://www.chicagotribune.com/politics/ct-obama-no-primary-endorsement-pritzker-fitch-spin-20200302-m24q4bz5lbd7vbrtgwayobx73m-story.html
+HEALTH OFFICIAL,USA,GOV,,-4.21348314606741,202003,1,https://news.wbfo.org/post/new-york-confirms-its-first-case-coronavirus-24-now-canada
+HEALTH OFFICIAL,USA,GOV,,-4.21348314606741,202003,1,https://news.wbfo.org/post/new-york-confirms-its-first-case-coronavirus-24-now-canada
+WORLD HEALTH ORGANIZATION,BHR,GOV,,4.98812351543943,202003,1,https://www.newsofbahrain.com/bahrain/61765.html
+IRAN,FRA,GOV,,0.560747663551401,202003,1,http://www.china.org.cn/world/Off_the_Wire/2020-03/05/content_75775105.htm
+IRAN,FRA,GOV,,0.560747663551401,202003,1,http://www.china.org.cn/world/Off_the_Wire/2020-03/05/content_75775105.htm
+IRAN,FRA,GOV,,0.560747663551401,202003,1,http://www.china.org.cn/world/Off_the_Wire/2020-03/05/content_75775105.htm
+IRAN,IRN,GOV,,-6.88709771116533,202003,5,https://krdo.com/news/national-world/2020/03/04/iran-to-temporarily-free-54000-prisoners-as-coronavirus-spreads/
+GOVERNMENT,IND,GOV,,-0.76045627376425,202003,1,http://www.newsonair.com/Main-News-Details.aspx?id=382356
+HEALTH MINIST,IRN,GOV,,-5.27777777777778,202003,1,https://silverbirdtv.com/health/71214/coronavirus-outbreak-iran-to-temporarily-free-54000-prisoners/
+IRAN,IRN,GOV,,-5.27777777777778,202003,1,https://silverbirdtv.com/health/71214/coronavirus-outbreak-iran-to-temporarily-free-54000-prisoners/
+WORLD HEALTH ORGANIZATION,IRN,GOV,,-6.83012259194396,202003,1,https://www.theglobeandmail.com/canada/article-how-deadly-is-the-coronavirus-it-may-take-months-to-find-out/
+HEALTH OFFICIAL,KOR,GOV,,-2.87872089596227,202003,2,https://www.journalnow.com/news/state/unc-wilmington-cancels-study-in-europe-due-to-coronavirus/article_3e2daebf-247a-519d-937f-43cd1c5e0482.html
+ICRC,LBN,GOV,,-2.4390243902439,202003,1,https://www.lbcgroup.tv/news/lebanon-news/505273/pm-diab-meets-with-icrc-head-in-lebanon/en
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-1.17647058823529,202003,1,http://www.econotimes.com/The-urban-history-that-makes-Chinas-coronavirus-lockdown-possible-1576329
+HEALTH DEPARTMENT,CHN,GOV,,-2.38008191289615,202003,5,http://www.polity.org.za/article/no-sa-coronavirus-cancellations-or-travel-bans-for-now---zweli-mkhize-2020-03-04
+UNITED KINGDOM,CAN,GOV,HLH,-0.70093457943925,202003,1,https://www.fortmcmurraytoday.com/news/local-news/wood-buffalo-primary-care-network-cuts-weekday-hours-for-after-hours-clinic
+HEALTH OFFICIAL,USA,GOV,,-2.77777777777778,202003,1,https://www.upi.com/Top_News/US/2020/03/03/Trump-participates-in-COVID-19-roundtable/7901583262514/
+MINIST OF HEALTH,ARM,GOV,,-1.48992112182296,202003,1,https://armenianweekly.com/2020/03/04/officials-locals-remain-cautious-as-no-new-coronavirus-cases-reported-in-armenia/
+HEALTH DEPARTMENT,CHN,GOV,,-2.38008191289615,202003,5,http://www.polity.org.za/article/no-sa-coronavirus-cancellations-or-travel-bans-for-now---zweli-mkhize-2020-03-04
+HEALTH MINIST,IND,GOV,,-3.7593984962406,202003,1,https://www.freepressjournal.in/india/coronavirus-outbreak-dial-011-23978046-to-inform-the-govt-of-any-suspected-cases
+HEALTH MINIST,IND,GOV,,-4.10331384015595,202003,2,http://origin-businesstoday.intoday.in/latest/trends/coronavirus-outbreak-update-news-live-updates-govt-confirmed-cases-rise-6-pm-modi/story/397475.html
+HEALTH MINIST,IND,GOV,,-4.24148003894839,202003,2,https://english.jagran.com/india/coronavirus-in-india-latest-updates-noida-schools-harsh-vardhan-pm-narendra-modi-preparedness-n-95-masks-10009365
+HEALTH MINIST,IND,GOV,,-4.91259500542889,202003,2,https://indianexpress.com/article/india/coronavirus-outbreak-live-updates-delhi-hyderabad-agra-jaipur-china-6298349/
+HEALTH OFFICIAL,IND,GOV,,-1.88679245283018,202003,1,https://www.republicworld.com/india-news/politics/rahul-gandhi-came-from-italy-he-too-must-get-checked-bjp-mp-bidhuri.html
+HEALTH MINIST,IND,GOV,HLH,-2.16121183099429,202003,2,https://www.mapsofindia.com/my-india/health/covid19-live-updates-coronavirus-outbreak-in-india-where-to-report-and-how-to-prevent
+IRAN,IRN,GOV,,-7.05456095481671,202003,2,https://www.cnn.com/2020/03/04/middleeast/iran-coronavirus-response-intl/
+IRAN,FRA,GOV,,1.89327705758215,202003,1,http://www.china.org.cn/world/Off_the_Wire/2020-03/05/content_75774802.htm
+HEALTH MINIST,ISR,GOV,,0.59523809523809,202003,1,https://hamodia.com/2020/03/04/health-ministry-israelis-returning-france-germany-switzerland-spain-austria-quarantined/
+HEALTH MINIST,ISR,GOV,HLH,0.59523809523809,202003,1,https://hamodia.com/2020/03/04/health-ministry-israelis-returning-france-germany-switzerland-spain-austria-quarantined/
+HEALTH MINIST,ISR,GOV,,-2.29885057471265,202003,1,https://www.haaretz.com/israel-news/.premium-two-more-israelis-catch-coronavirus-at-toy-store-bringing-total-to-15-1.8626908
+HEALTH MINIST,JPN,GOV,,-3.27868852459017,202003,1,https://www.irishmirror.ie/news/irish-news/coronavirus-ireland-irish-holiday-destinations-21629863
+RUDYARD SPENCER,JAM,GOV,LAB,-2.33918128654971,202003,1,http://www.jamaicaobserver.com/latestnews/PNPs_Duncan_Sutherland_apologises_for_Observer_ploy_
+KENYA,KEN,GOV,,-1.94274028629857,202003,1,https://www.msn.com/en-sg/news/other/coronavirus-kenya-becomes-latest-african-nation-to-suspend-flights-from-cities-at-heart-of-italian-outbreak/ar-BB10K2CF
+KENYAN,KEN,GOV,,-1.94274028629857,202003,1,https://www.msn.com/en-sg/news/other/coronavirus-kenya-becomes-latest-african-nation-to-suspend-flights-from-cities-at-heart-of-italian-outbreak/ar-BB10K2CF
+ICRC,LBN,GOV,,-2.27277423087254,202003,1,http://nna-leb.gov.lb/en/show-news/113125/Diab-meets-ICRC-Lebanon-Chief
+HEALTH MINIST,THA,GOV,,-9.44932053196543,202003,3,https://www.bnnbloomberg.ca/thailand-mulls-mandatory-14-day-coronavirus-quarantine-on-high-risk-arrivals-1.1399797
+UGANDA,UGA,GOV,,-1.6597510373444,202003,1,https://allafrica.com/stories/202003040018.html
+PFIZER,USA,GOV,,-1.41242937853108,202003,1,https://www.independent.ie/world-news/coronavirus/human-trials-of-vaccine-to-begin-next-month-say-scientists-39012699.html
+PFIZER,USA,GOV,,-1.41242937853108,202003,1,https://www.independent.ie/world-news/coronavirus/human-trials-of-vaccine-to-begin-next-month-say-scientists-39012699.html
+MINIST OF HEALTH,UKR,GOV,,4.57516339869281,202003,1,https://www.kyivpost.com/ukraine-politics/first-briefing-of-new-health-minister-will-be-on-covid-19.html
+HEALTH OFFICIAL,USA,GOV,HLH,-1.99203187250996,202003,1,https://www.msn.com/en-us/health/medical/updated-1st-california-coronavirus-death-former-princess-cruise-ship-passenger-from-placer-county/ar-BB10K8SD
+HEALTH OFFICIAL,USA,GOV,HLH,-1.99203187250996,202003,1,https://www.msn.com/en-us/health/medical/updated-1st-california-coronavirus-death-former-princess-cruise-ship-passenger-from-placer-county/ar-BB10K8SD
+WORLD HEALTH ORGANIZATION,USA,GOV,,0.313087981137885,202003,8,https://www.jsonline.com/story/news/nation/2020/03/04/handshake-elbow-bump-new-greetings-coronavirus-outbreak/4937302002/
+WORLD HEALTH ORGANIZATION,USA,GOV,,0,202003,1,https://news.yahoo.com/goodbye-handshake-hello-elbow-bump-105740673.html
+HEALTH OFFICIAL,USA,GOV,,-0.93457943925234,202003,1,https://www.washingtontimes.com/news/2020/mar/4/unc-wilmington-cancels-study-in-europe-due-to-coro/
+HEALTH MINIST,USA,GOV,HLH,5,202003,1,https://a1plus.am/en/article/361287
+UNITED STATES,USA,GOV,HLH,5,202003,1,https://a1plus.am/en/article/361287
+UNITED STATES,USA,GOV,,0,202003,1,https://www.theadvocate.com/baton_rouge/news/article_7c081542-5db7-11ea-8b10-afd93706fdec.html
+HEALTH DEPARTMENT,USA,GOV,,0.141643059490081,202003,1,https://newstalkkgvo.com/city-council-meeting-on-precautions-against-coronavirus-and-debunking-mask-myths/
+HEALTH DEPARTMENT,USA,GOV,,0.141643059490081,202003,1,https://newstalkkgvo.com/city-council-meeting-on-precautions-against-coronavirus-and-debunking-mask-myths/
+HEALTH OFFICIAL,USA,GOV,,-4.60333006856023,202003,1,https://www.swissinfo.ch/eng/bloomberg/cdc-expands-testing--more-infections-in-nyc-suburb--virus-update/45594682
+HEALTH OFFICIAL,USA,GOV,,-4.60333006856023,202003,1,https://www.swissinfo.ch/eng/bloomberg/cdc-expands-testing--more-infections-in-nyc-suburb--virus-update/45594682
+HEALTH OFFICIAL,USA,GOV,,-4.60333006856023,202003,1,https://www.swissinfo.ch/eng/bloomberg/cdc-expands-testing--more-infections-in-nyc-suburb--virus-update/45594682
+HEALTH OFFICIAL,USA,GOV,,-4.60333006856023,202003,1,https://www.swissinfo.ch/eng/bloomberg/cdc-expands-testing--more-infections-in-nyc-suburb--virus-update/45594682
+NOVARTIS,CHE,MNC,HLH,-2.49307479224377,202003,1,https://www.tmcnet.com/usubmit/2020/03/10/9112797.htm
+HEALTH DEPARTMENT,USA,GOV,HLH,-3.44827586206896,202003,1,https://www.wdtv.com/content/news/Monongalia-County-health-officials-prepared-for-potential-Coronavirus-cases-568641951.html
+HEALTH MINIST,ISR,GOV,,-1.13636363636364,202003,1,https://unitedwithisrael.org/proud-of-israel-for-valuing-health-above-wealth-in-confronting-coronavirus/
+MINIST OF HEALTH,JAM,GOV,AGR,-1.96049528301887,202003,2,http://guyanachronicle.com/2020/03/10/jamaica-confirms-first-case-of-coronavirus
+WORLD HEALTH ORGANIZATION,ARE,GOV,,-1.12781954887218,202003,1,https://www.arabnews.com/node/1639366/middle-east
+WORLD HEALTH ORGANIZATION,SAU,GOV,,-1.12781954887218,202003,1,https://www.arabnews.com/node/1639366/middle-east
+GLAXOSMITHKLINE,USA,MNC,HLH,-3.0556498657366,202003,2,https://www.prnewswire.com/news-releases/the-global-ent-disorder-treatment-market-is-expected-to-grow-by-usd-2-1-bn-during-2020-2024--progressing-at-a-cagr-of-2-during-the-forecast-period-301020500.html
+MINIST FOR HEALTH,BEL,GOV,HLH,1.05263157894736,202003,1,https://www.imt.ie/news/harris-attends-second-eu-health-ministers-covid-19-emergency-meeting-10-03-2020/
+MINIST FOR HEALTH,EUR,GOV,HLH,1.05263157894736,202003,1,https://www.imt.ie/news/harris-attends-second-eu-health-ministers-covid-19-emergency-meeting-10-03-2020/
+SINGAPORE,SGP,GOV,LAB,-4.55528889858551,202003,2,https://www.business-standard.com/article/pti-stories/transmitted-coronavirus-cases-in-singapore-result-of-socially-irresponsible-action-minister-120031000711_1.html
+RED CROSS,CHN,GOV,,-4.32232268067044,202003,3,https://gizmodo.com/in-china-social-media-users-speak-in-code-to-avoid-cor-1842243943
+WORLD HEALTH ORGANIZATION,ITA,GOV,,-5.88832487309644,202003,1,https://www.metro.us/news/the-big-stories/stocks-savaged-bars-deserted-prisons-uproar-coronavirus-spreads
+SINGAPORE,SGP,GOV,LAB,-3.93258426966292,202003,1,https://www.republicworld.com/world-news/global-event-news/singapore-health-min-on-coronavirus.html
+SINGAPORE,SGP,GOV,LAB,-5.17799352750809,202003,1,https://www.business-standard.com/article/pti-stories/transmitted-coronavirus-cases-in-singapore-result-of-socially-irresponsible-action-minister-120031000711_1.html
+HEALTH OFFICIAL,CHN,GOV,,-2.84237726098191,202003,1,https://www.berkeleyside.com/2020/03/10/opinion-air-five-and-elbow-bump-what-the-coronavirus-outbreak-has-taught-us
+THE WHITE HOUSE,USA,GOV,,-1.25964851417663,202003,7,https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-u-s-europe-brace-infection-spread-italy-n1153801/ncrd1154496
+HEALTH OFFICIAL,USA,GOV,,-4.95049504950495,202003,1,https://www.theglobeandmail.com/opinion/article-even-the-stable-genius-donald-trump-cant-bully-a-deadly-virus/
+RED CROSS,USA,GOV,,4.41640378548896,202003,1,https://www.wmtw.com/article/larry-lord-honored-as-real-hero-by-american-red-cross/31345493
+WORLD HEALTH ORGANIZATION,USA,GOV,,-2.23546944858421,202003,1,https://www.theepochtimes.com/sec-becomes-first-federal-agency-to-ask-staff-to-work-from-home-amid-epidemic_3266520.html
+HEALTH DEPARTMENT,USA,GOV,HLH,-3.44827586206896,202003,1,https://www.wdtv.com/content/news/Monongalia-County-health-officials-prepared-for-potential-Coronavirus-cases-568641951.html
+GLAXOSMITHKLINE,ISR,MNC,HLH,0,202003,1,https://www.openpr.com/news/1956344/multiple-ion-beam-microscopes-market-economic-forecasting
+HEALTH OFFICIAL,USA,GOV,,-0.30581039755352,202003,1,https://www.14news.com/2020/03/05/henderson-holding-community-conversation-coronavirus/
+AUSTIN,CHN,GOV,HLH,-3.125,202003,1,https://www.hypebot.com/hypebot/2020/03/apple-netflix-join-companies-pulling-out-of-sxsw-2020-over-coronavirus-concerns.html
+IRAN,FRA,GOV,,0.56603773584905,202003,1,http://www.china.org.cn/world/2020-03/05/content_75776048.htm
+IRAN,FRA,GOV,,0.56603773584905,202003,1,http://www.china.org.cn/world/2020-03/05/content_75776048.htm
+IRAN,FRA,GOV,,0.56603773584905,202003,1,http://www.china.org.cn/world/2020-03/05/content_75776048.htm
+HEALTH OFFICIAL,USA,GOV,,-4.00835073068894,202003,1,https://www.bangkokpost.com/world/1872179/virus-update-china-deaths-top-3-000-california-declares-emergency
+HEALTH OFFICIAL,USA,GOV,,-4.00835073068894,202003,1,https://www.bangkokpost.com/world/1872179/virus-update-china-deaths-top-3-000-california-declares-emergency
+HEALTH OFFICIAL,USA,GOV,,-3.56025039123631,202003,1,https://www.msn.com/en-us/news/us/china-deaths-top-3000-california-calls-emergency-virus-update/ar-BB10L9VA
+HEALTH OFFICIAL,USA,GOV,,-3.56025039123631,202003,1,https://www.msn.com/en-us/news/us/china-deaths-top-3000-california-calls-emergency-virus-update/ar-BB10L9VA
+STATE HOSPITAL,JPN,GOV,,3.2345013477089,202003,1,http://www.kpress.info/index.php?option=com_content&view=article&id=1356:grant-contract-signing-ceremony-for-the-project-for-procuring-a-portable-x-ray-machine-in-chuuk-state&catid=8:news&Itemid=103
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-1.17647058823529,202003,1,https://www.sbs.com.au/news/dateline/the-urban-history-that-makes-china-s-coronavirus-lockdown-possible
+IRAN,FRA,GOV,,-1.65580739369125,202003,3,http://www.xinhuanet.com/english/2020-03/05/c_138844164.htm
+HEALTH DEPARTMENT,USA,GOV,,-0.50251256281407,202003,1,http://www.chicagotribune.com/suburbs/aurora-beacon-news/ct-abn-aurora-virus-st-0306-20200305-vfeciqm2xrg5lkgko2trirq5wy-story.html
+WORLD HEALTH ORGANIZATION,USA,GOV,,-2.734375,202003,1,https://medcitynews.com/2020/03/quest-diagnostics-to-start-coronavirus-testing-monday/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-3.38164251207729,202003,1,https://www.endtime.com/prophecy-news/can-we-please-be-sober-minded-about-the-coronavirus/
+WORLD HEALTH ORGANIZATION,USA,GOV,,-2.734375,202003,1,https://medcitynews.com/2020/03/quest-diagnostics-to-start-coronavirus-testing-monday/
+HEALTH MINIST,IND,GOV,,-1.75438596491228,202003,1,https://www.indiatoday.in/mail-today/story/a-scramble-to-contain-coronavirus-1652538-2020-03-05
+HEALTH MINIST,IND,GOV,,-1.75438596491228,202003,1,https://www.indiatoday.in/mail-today/story/a-scramble-to-contain-coronavirus-1652538-2020-03-05
+HEALTH MINIST,ITA,GOV,,0.36429872495447,202003,1,https://www.deccanherald.com/national/coronavirus-takes-out-colour-of-political-gatherings-810658.html
+HEALTH MINIST,ITA,GOV,,0.36429872495447,202003,1,https://www.deccanherald.com/national/coronavirus-takes-out-colour-of-political-gatherings-810658.html
+IRAN,FRA,GOV,,-1.77252584933531,202003,1,http://www.ecns.cn/news/2020-03-05/detail-ifzuhesu4119850.shtml
+IRAN,FRA,GOV,,0.56603773584905,202003,1,http://www.china.org.cn/world/2020-03/05/content_75776048.htm
+WORLD HEALTH ORGANIZATION,IRQ,GOV,,-2.03924162257495,202003,2,https://reliefweb.int/report/iraq/iraq-covid-19-situation-report-no-3-5-march-2020
+HEALTH OFFICIAL,USA,GOV,,-3.30959363217428,202003,1,https://www.msn.com/en-us/health/medical/california-declares-emergency-dog-tests-positive-virus-update/ar-BB10L9VA
+HEALTH OFFICIAL,USA,GOV,,-3.30959363217428,202003,1,https://www.msn.com/en-us/health/medical/california-declares-emergency-dog-tests-positive-virus-update/ar-BB10L9VA
+HEALTH DEPARTMENT,PHL,GOV,,-3.89713092715022,202003,2,https://www.manilatimes.net/2020/03/05/news/latest-stories/saudi-arabia-imposes-temporary-travel-ban-on-ph-tourists-amid-covid-19-fears/700495/
+HEALTH DEPARTMENT,PHL,GOV,,-3.89713092715022,202003,2,https://www.manilatimes.net/2020/03/05/news/latest-stories/saudi-arabia-imposes-temporary-travel-ban-on-ph-tourists-amid-covid-19-fears/700495/
+WORLD HEALTH ORGANIZATION,PHL,GOV,,-2.42718446601941,202003,1,https://newsinfo.inquirer.net/1237499/woman-allegedly-from-ph-tests-positive-for-covid-19-in-australia
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-3.38164251207729,202003,1,https://www.endtime.com/prophecy-news/can-we-please-be-sober-minded-about-the-coronavirus/
+HEALTH OFFICIAL,USA,GOV,,-2.41868223519599,202003,1,https://www.politico.com/newsletters/playbook-pm/2020/03/05/warren-is-out-but-vows-to-keep-fighting-488486
+HEALTH OFFICIAL,USA,GOV,,-2.41868223519599,202003,1,https://www.politico.com/newsletters/playbook-pm/2020/03/05/warren-is-out-but-vows-to-keep-fighting-488486
+WORLD HEALTH ORGANIZATION,USA,GOV,,-2.734375,202003,1,https://medcitynews.com/2020/03/quest-diagnostics-to-start-coronavirus-testing-monday/
+WORLD HEALTH ORGANIZATION,USA,GOV,,-1.08695652173913,202003,1,https://www.newsweek.com/world-health-organization-praise-donald-trump-pence-involvement-coronavirus-response-1490817
+TENNESSEE,USA,GOV,HLH,1.67597765363129,202003,1,https://www.wcvb.com/article/tennessee-man-diagnosed-with-covid-19-flew-in-out-of-logan-health-officials-say/31249595
+HEALTH DEPARTMENT,USA,GOV,,0.141643059490081,202003,3,https://kyssfm.com/city-council-meeting-on-precautions-against-coronavirus-and-debunking-mask-myths/
+HEALTH DEPARTMENT,USA,GOV,,0.141643059490081,202003,3,https://kyssfm.com/city-council-meeting-on-precautions-against-coronavirus-and-debunking-mask-myths/
+HEALTH OFFICIAL,USA,GOV,HLH,-4.46009389671361,202003,1,https://www.fayobserver.com/news/20200304/cape-fear-hospitals-cumberland-county-prepped-for-coronavirus
+NOVO NORDISK,USA,GOV,,2.76548672566371,202003,1,https://www.wraltechwire.com/2020/03/05/talent-talk-novo-nordisk-grifol-execs-discuss-biotech-workforce-pipelines-with-ecu-johnston-county-cc/
+HEALTH OFFICIAL,USA,GOV,,-2.41868223519599,202003,1,https://www.politico.com/newsletters/playbook-pm/2020/03/05/warren-is-out-but-vows-to-keep-fighting-488486
+HEALTH OFFICIAL,USA,GOV,,-3.60961128633396,202003,2,https://www.msn.com/en-us/health/medical/california-declares-emergency-dog-tests-positive-virus-update/ar-BB10L9VA
+HEALTH OFFICIAL,USA,GOV,,-3.60961128633396,202003,2,https://www.msn.com/en-us/health/medical/california-declares-emergency-dog-tests-positive-virus-update/ar-BB10L9VA
+COLUMBUS,USA,GOV,,-1.94552529182879,202003,1,https://www.wfmj.com/story/41859875/valley-stores-report-product-shortages-due-to-covid-19
+HEALTH OFFICIAL,USA,GOV,,-3.04347826086956,202003,1,https://www.fox19.com/2020/03/05/ohio-use-disease-detectives-if-coronavirus-spreads-into-state/
+HEALTH OFFICIAL,USA,GOV,,-3.27355687606113,202003,1,https://buckeyecountry1037.iheart.com/content/2020-03-05-preparation-not-panic-advised-for-coronavirus/
+MINIST OF HEALTH,BHR,GOV,,-1.61779575328615,202003,1,https://www.msn.com/en-ae/news/middleeast/coronavirus-in-middle-east-17-deaths-1234-new-cases-reported-in-iran/ar-BB10Qkdh
+ASSAM,BTN,GOV,HLH,-0.763358778625956,202003,1,https://www.indiatoday.in/india/story/coronavirus-outbreak-assam-government-sounds-high-alert-127-people-quarantined-1653428-2020-03-07
+ITALY,ITA,GOV,,-6.90335305719921,202003,1,https://www.newsbytesapp.com/timeline/India/58365/272151/coronavirus-two-suspected-cases-emerge-in-j-k
+HEALTH MINIST,KOR,GOV,,-7.42574257425742,202003,1,https://www.indiatvnews.com/news/world/coronavirus-live-updates-covid-19-positive-cases-death-toll-595949
+HEALTH MINIST,SAU,GOV,,0,202003,1,http://www.naharnet.com/stories/en/269872-abdullah-lebanon-must-declare-public-health-emergency
+HEALTH MINIST,BEL,GOV,HLH,-1.5955368129313,202003,2,https://www.irishexaminer.com/breakingnews/ireland/five-more-covid-19-cases-confirmed-986339.html
+HEALTH MINIST,CAN,GOV,,-0.9216380362117,202003,3,https://business.financialpost.com/news/fp-street/canadian-tourism-industry-has-been-deeply-affected-by-the-coronavirus-outbreak
+MINIST OF HEALTH,LKA,GOV,,-1.83823529411764,202003,1,http://www.colombopage.com/archive_20A/Mar07_1583602931CH.php
+MINIST OF HEALTH,LKA,GOV,,-1.83823529411764,202003,1,http://www.colombopage.com/archive_20A/Mar07_1583602931CH.php
+HEALTH OFFICIAL,CHN,GOV,,-0.632602402513906,202003,9,https://www.business-standard.com/article/news-ani/covid-19-iskcon-mayapur-to-soon-start-screening-devotees-120030701055_1.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.98388334612433,202003,1,https://www.wired.com/story/kids-can-get-covid-19-they-just-dont-get-that-sick/
+EGYPTIAN,EGY,GOV,,-1.93548387096774,202003,1,http://www.xinhuanet.com/english/2020-03/08/c_138853865.htm
+WORLD HEALTH ORGANIZATION,EGY,GOV,,-2.93617479696836,202003,26,https://www.thehindu.com/news/international/covid-19-egypt-says-cruise-ship-quarantined-over-new-virus-cluster/article31009096.ece
+GREECE,GRC,GOV,,-1.18694362017804,202003,1,http://www.ekathimerini.com/250364/article/ekathimerini/news/state-braces-for-spread-of-coronavirus-as-caution-urged
+HEALTH OFFICIAL,IND,GOV,,-3.62997658079625,202003,1,https://timesofindia.indiatimes.com/india/coronavirus-cases-in-india-avoid-mass-gatherings-says-govt-as-corona-cases-hit-31/articleshow/74520610.cms
+MINIST OF HEALTH,BHR,GOV,,-1.61779575328615,202003,1,https://www.msn.com/en-ae/news/middleeast/coronavirus-in-middle-east-17-deaths-1234-new-cases-reported-in-iran/ar-BB10Qkdh
+MINIST OF HEALTH,BHR,GOV,,-1.61779575328615,202003,1,https://www.msn.com/en-ae/news/middleeast/coronavirus-in-middle-east-17-deaths-1234-new-cases-reported-in-iran/ar-BB10Qkdh
+EGYPTIAN,EGY,GOV,,-2.52525252525253,202003,1,http://www.china.org.cn/china/Off_the_Wire/2020-03/08/content_75787256.htm
+HEALTH MINIST,ISR,GOV,,-4.44444444444445,202003,1,https://www.jpost.com/Arab-Israeli-Conflict/Israelis-Palestinians-unite-to-fight-coronavirus-620067
+HEALTH MINIST,PSE,GOV,,-4.44444444444445,202003,1,https://www.jpost.com/Arab-Israeli-Conflict/Israelis-Palestinians-unite-to-fight-coronavirus-620067
+WORLD HEALTH ORGANIZATION,ITA,GOV,,-3.96627073119732,202003,5,https://gulfnews.com/world/europe/pope-francis-goes-livestream-to-fight-coronavirus-epidemic-1.1583593729681
+WORLD HEALTH ORGANIZATION,ITA,GOV,,-3.9434270544385,202003,8,https://gulfnews.com/world/europe/pope-francis-goes-livestream-to-fight-coronavirus-epidemic-1.1583593729681
+FIRDOUS ASHIQ AWAN,PAK,GOV,,1.34228187919463,202003,1,http://www.radio.gov.pk/07-03-2020/govt-committed-to-promote-soft-image-of-country-at-intl-level-sapm
+MINIST OF HEALTH,BHR,GOV,,-1.61779575328615,202003,1,https://www.msn.com/en-ae/news/middleeast/coronavirus-in-middle-east-17-deaths-1234-new-cases-reported-in-iran/ar-BB10Qkdh
+FIRDOUS ASHIQ AWAN,GBR,GOV,,-3.25581395348838,202003,1,https://www.geo.tv/latest/276139-punjab-government-submits-letter-in-ihc-rejecting-nawazs-bail
+HEALTH OFFICIAL,USA,GOV,,0.45248868778281,202003,1,https://www.nbcconnecticut.com/news/local/preparations-expanding-as-health-officials-ready-for-covid-19-cases/2234320/
+HEALTH OFFICIAL,USA,GOV,,3.59712230215827,202003,1,https://www.cjonline.com/news/20200307/kansas-governor-health-officials-to-discuss-coronavirus-developments
+HEALTH OFFICIAL,USA,GOV,,-5.37634408602151,202003,1,https://www.fox46charlotte.com/news/first-suspected-cases-of-coronavirus-in-south-carolina
+HEALTH OFFICIAL,USA,GOV,,-2.25,202003,1,https://www.foxnews.com/us/sxsw-cancelled-due-to-coronavirus-concerns
+HEALTH OFFICIAL,USA,GOV,,-4.83271375464684,202003,5,https://mymagicgr.com/sxsw-has-been-canceled-due-to-coronavirus-concerns/
+HEALTH MINIST,LKA,GOV,,-1.76767676767676,202003,1,http://www.dailymirror.lk/breaking_news/Govt-to-seek-EC-advise-on-delaying-polls/108-184843
+KENYAN,GAB,GOV,HLH,-1.86666666666667,202003,1,https://www.vanguardngr.com/2020/03/first-coronavirus-cases-reported-in-kenya-ghana-gabon/
+PABLO MARIN,CUB,GOV,,1.40186915887851,202003,1,https://edition.channel5belize.com/archives/199789
+GABONESE,KEN,GOV,HLH,-1.86666666666667,202003,1,https://www.vanguardngr.com/2020/03/first-coronavirus-cases-reported-in-kenya-ghana-gabon/
+HEALTH MINIST,GBR,GOV,,-1.23647604327666,202003,1,https://www.breakingnews.ie/ireland/michelle-oneill-calls-for-northern-ireland-schools-to-close-over-coronavirus-987719.html
+HEALTH MINIST,GBR,GOV,,-1.23647604327666,202003,1,https://www.breakingnews.ie/ireland/michelle-oneill-calls-for-northern-ireland-schools-to-close-over-coronavirus-987719.html
+HEALTH MINIST,GBR,GOV,,-0.50505050505051,202003,1,https://www.breakingnews.ie/ireland/coronavirus-will-close-northern-irelands-schools-says-foster-987719.html
+HEALTH MINIST,GBR,GOV,,-0.50505050505051,202003,1,https://www.breakingnews.ie/ireland/coronavirus-will-close-northern-irelands-schools-says-foster-987719.html
+MINIST FOR HEALTH,GBR,GOV,,0,202003,1,https://www.thewave.co.uk/news/local/wales-six-nations-clash-to-go-ahead-in-spite-of-covid-19-fears/
+MINIST OF HEALTH,CAN,GOV,HLH,-2.57180991376813,202003,2,https://www.thestar.com/news/gta/2020/03/12/ontario-hospitals-prepare-for-worst-case-scenario-in-coronavirus-outbreak.html
+MINIST OF HEALTH,CAN,GOV,HLH,-2.06100577081616,202003,1,https://www.thestar.com/news/gta/2020/03/12/ontario-hospitals-prepare-for-worst-case-scenario-in-coronavirus-outbreak.html
+HEALTH DEPARTMENT,USA,GOV,,-2.83333333333334,202003,1,https://hudsonreporter.com/2020/03/13/hudson-county-residents-infected/
+GHANA,GHA,GOV,,-3.82513661202186,202003,1,https://www.modernghana.com/news/988991/shortages-of-hand-sanitizers-in-some-parts-of-ghan.html
+MINIST OF HEALTH,GHA,GOV,HLH,-0.57915057915058,202003,1,http://businessghana.com/site/news/business/208243/Foreign-Minister-meets-Korean-Ambassador
+HEALTH DEPARTMENT,IND,GOV,,-4.19287211740042,202003,1,https://www.timesnownews.com/india/article/karnataka-coronavirus-latest-news-updates-covid-19-karnataka/564271
+HEALTH DEPARTMENT,IND,GOV,,-3.79310344827586,202003,1,https://www.ndtv.com/karnataka-news/after-first-death-in-india-by-coronavirus-5-steps-karnataka-announced-2194404
+MINIST OF HEALTH,IND,GOV,,-2.91547667618659,202003,2,https://www.business-standard.com/article/news-ani/68-yr-old-delhi-woman-who-tested-positive-for-covid-19-dies-due-to-comorbidity-health-ministry-120031301808_1.html
+HEALTH DEPARTMENT,IND,GOV,,-1.77211429231583,202003,3,https://www.prokerala.com/news/articles/a1017210.html
+WORLD HEALTH ORGANIZATION,IRN,GOV,,-6.98412698412699,202003,1,https://sputniknews.com/middleeast/202003131078561422-photos-urging-sanctions-relief-iran-prepares-mass-graves-for-covid-19-dead/
+HEALTH MINIST,SAU,GOV,,0,202003,1,https://www.nst.com.my/news/nation/2020/03/574275/friday-prayers-proceed-normal-penang-johor
+HEALTH MINIST,SAU,GOV,,0,202003,1,https://www.nst.com.my/news/nation/2020/03/574275/friday-prayers-proceed-normal-penang-johor
+HEALTH MINIST,GBR,GOV,,-2.65210608424337,202003,1,https://www.irishtimes.com/news/ireland/irish-news/coronavirus-michelle-o-neill-calls-for-northern-ireland-schools-to-close-1.4202136
+HEALTH MINIST,GBR,GOV,,-2.65210608424337,202003,1,https://www.irishtimes.com/news/ireland/irish-news/coronavirus-michelle-o-neill-calls-for-northern-ireland-schools-to-close-1.4202136
+HEALTH OFFICIAL,USA,GOV,,-4.39560439560439,202003,1,https://www.presstv.com/Detail/2020/03/13/620743/us-coronavirus-white-house-donald-trump
+HEALTH OFFICIAL,USA,GOV,,-4.39560439560439,202003,1,https://www.presstv.com/Detail/2020/03/13/620743/us-coronavirus-white-house-donald-trump
+THE WHITE HOUSE,USA,GOV,,-0.6727249636902,202003,3,https://www.nbcnews.com/politics/donald-trump/brazilian-official-who-met-trump-mar-lago-tests-positive-coronavirus-n1156861?cid=public-rss_20200313
+THE WHITE HOUSE,USA,GOV,,-1.65300546448087,202003,2,https://indianexpress.com/article/world/trump-namaste-coronavirus-pandemic-india-6312023/
+WORLD HEALTH ORGANIZATION,USA,GOV,,-3.79426644182125,202003,1,https://www.politifact.com/factchecks/2020/mar/13/ainsley-earhardt/fox-friends-host-says-now-safest-time-fly-its-not/
+WORLD HEALTH ORGANIZATION,USA,GOV,,-3.79426644182125,202003,1,https://www.politifact.com/factchecks/2020/mar/13/ainsley-earhardt/fox-friends-host-says-now-safest-time-fly-its-not/
+LHC GROUP,USA,GOV,,-2.8052805280528,202003,1,https://www.buzzfeednews.com/article/paulmcleod/trump-coronavirus-test-isolate-brasil
+HEALTH OFFICIAL,USA,GOV,,1.02265206941307,202003,3,https://www.savannahnow.com/news/20200313/savannah-music-festival-canceled-due-to-coronavirus-concerns
+HEALTH DEPARTMENT,USA,GOV,HLH,0,202003,1,https://patch.com/illinois/algonquin/mchenry-county-officials-say-there-was-no-reason-close-woodstock-dmv-due
+HEALTH OFFICIAL,USA,GOV,,0.664656904966983,202003,1,https://www.indystar.com/story/news/local/hamilton-county/education/2020/03/12/coronavirus-indiana-hamilton-county-public-schools-close/5038752002/
+HEALTH DEPARTMENT,USA,GOV,,-2.83333333333334,202003,1,https://hudsonreporter.com/2020/03/13/hudson-county-residents-infected/
+HEALTH OFFICIAL,USA,MNC,HLH,-1.45454545454546,202003,1,http://www.msn.com/en-us/news/newsworldpolitics/white-house-embraces-drive-through-virus-testing-plans-website/ar-BB119FMj
+HEALTH OFFICIAL,USA,GOV,,-3.27169274537696,202003,1,https://dailycaller.com/2020/03/13/ohio-governor-coronavirus-100000/
+HEALTH OFFICIAL,USA,GOV,,-0.52910052910053,202003,1,https://www.cleveland.com/entertainment/2020/03/western-reserve-historical-society-closes-centers-to-public.html
+HEALTH MINIST,GBR,GOV,,-0.121654501216545,202003,2,https://www.theguardian.com/world/2020/mar/10/health-minister-nadine-dorries-diagnosed-with-coronavirus
+HEALTH MINIST,JAM,GOV,AGR,-5.46075085324232,202003,1,http://rjrnewsonline.com/local/covid-19-man-who-escaped-quarantine-could-face-charges
+HEALTH MINIST,JAM,GOV,AGR,-5.46075085324232,202003,1,http://rjrnewsonline.com/local/covid-19-man-who-escaped-quarantine-could-face-charges
+HEALTH OFFICIAL,USA,GOV,,-1.85185185185186,202003,1,http://freerepublic.com/focus/f-news/3823520/posts
+GLAXOSMITHKLINE,ISR,MNC,HLH,-1,202003,1,https://www.openpr.com/news/1962745/multiple-sclerosis-market-based-on-market-size-key-players
+HEALTH MINIST,ISR,GOV,,-8.11682440171198,202003,4,https://www.theage.com.au/politics/federal/court-again-rejects-bid-to-speed-up-extradition-proceedings-against-malka-leifer-20200311-p548xd.html
+ISRAEL,ISR,GOV,,-8.30670926517572,202003,3,https://www.theage.com.au/politics/federal/court-again-rejects-bid-to-speed-up-extradition-proceedings-against-malka-leifer-20200311-p548xd.html
+ISRAEL,ISR,GOV,,-8.22622107969152,202003,1,https://www.timesofisrael.com/israel-said-weighing-ban-on-public-events-of-over-100-people-closing-schools/
+WORLD HEALTH ORGANIZATION,ITA,GOV,,-4.69043151969981,202003,1,https://www.zmescience.com/medicine/coronavirus-cases-in-europe/
+HEALTH MINIST,GBR,GOV,,-3.10421286031042,202003,1,https://www.breitbart.com/europe/2020/03/11/uk-government-minister-diagnosed-with-coronavirus/
+HEALTH MINIST,JAM,GOV,AGR,-0.66889632107023,202003,1,http://rjrnewsonline.com/local/odpem-activates-national-operations-emergency-centre-in-response-to-covid-19
+JAMAICA,JAM,GOV,AGR,-3.96551724137931,202003,1,https://www.dailymail.co.uk/news/article-8100701/Jamaica-gets-coronavirus-case-infected-British-woman-flies-island-funeral.html
+HEALTH MINIST,KOR,GOV,,-6.34920634920635,202003,1,https://www.themalaysianinsight.com/s/227651
+RED CROSS,MEX,GOV,,-6.89655172413793,202003,1,https://www.railway-technology.com/news/one-dead-and-several-injured-in-mexico-underground-metro-crash/
+WORLD HEALTH ORGANIZATION,USA,GOV,,-3.87096774193549,202003,1,https://www.teenvogue.com/story/donald-trump-bungled-coronavirus-response
+HEALTH MINIST,GBR,GOV,,0,202003,1,https://www.news24.com/World/News/watch-uk-cabinet-meeting-arrivals-after-health-minister-tests-positive-20200311
+UNITED KINGDOM,GBR,GOV,,-5.74712643678161,202003,1,https://www.rt.com/uk/482824-media-johnson-dog-coronavirus/
+UNITED KINGDOM,GBR,GOV,,-5.74712643678161,202003,1,https://www.rt.com/uk/482824-media-johnson-dog-coronavirus/
+HEALTH OFFICIAL,GBR,GOV,,4.6875,202003,1,https://www.channel4.com/news/health-officials-tracing-those-in-contact-with-uk-minister-who-has-coronavirus
+THE WHITE HOUSE,USA,GOV,,-3.81679389312977,202003,1,https://www.gocomics.com/kal/2020/03/11
+HEALTH MINIST,ISR,GOV,,-8.11682440171198,202003,4,https://www.theage.com.au/politics/federal/court-again-rejects-bid-to-speed-up-extradition-proceedings-against-malka-leifer-20200311-p548xd.html
+ONTARIO,CAN,GOV,HLH,-1.64835164835165,202003,1,https://www.cp24.com/news/province-reports-five-new-travel-related-covid-19-cases-raising-count-to-42-1.4848268?cache=yes%3FclipId%3D64268%3FclipId%3D375756%3FclipId%3D89578
+RED CROSS,CHN,GOV,HLH,-1.03092783505155,202003,1,https://www.globaltimes.cn/content/1182311.shtml
+RED CROSS,CHN,GOV,HLH,-1.03092783505155,202003,1,https://www.globaltimes.cn/content/1182311.shtml
+MINIST OF HEALTH,CHN,GOV,,6.44444444444444,202003,1,http://thepoint.gm/africa/gambia/article/china-donates-2-vehicles-medical-equipment-worth-d10m
+RED CROSS,CHN,GOV,,-4.32432432432433,202003,1,https://www.gizmodo.co.uk/2020/03/in-china-social-media-users-speak-in-code-to-avoid-coronavirus-censors/
+WORLD HEALTH ORGANIZATION,EGY,GOV,,-9.72696245733792,202003,1,https://www.breitbart.com/politics/2020/03/11/15-times-establishment-media-used-bigoted-phrases-to-refer-to-the-coronavirus/
+MINIST OF HEALTH,GHA,GOV,HLH,-0.57471264367817,202003,1,https://ghananewsagency.org/economics/foreign-minister-holds-bilateral-meeting-with-korean-ambassador--165370
+HEALTH DEPARTMENT,IND,GOV,,-5.11627906976745,202003,1,https://www.indiatoday.in/india/story/confirmed-cases-of-coronavirus-rise-to-60-as-indian-govt-suspends-all-non-essential-visas-top-developments-1654604-2020-03-12
+UNITED KINGDOM,GBR,GOV,,0,202003,1,https://www.newzimbabwe.com/uk-health-minister-nadine-dorries-diagnosed-with-coronavirus/
+HEALTH MINIST,GBR,GOV,,0,202003,1,https://www.newzimbabwe.com/uk-health-minister-nadine-dorries-diagnosed-with-coronavirus/
+UNITED KINGDOM,GBR,GOV,,-1.30576713819369,202003,1,https://www.eppingforestguardian.co.uk/news/18297203.epping-forest-district-council-cancels-meetings-essex-coronavirus-cases-rise/
+HEALTH MINIST,GBR,GOV,,-1.30576713819369,202003,1,https://www.eppingforestguardian.co.uk/news/18297203.epping-forest-district-council-cancels-meetings-essex-coronavirus-cases-rise/
+UNITED KINGDOM,GBR,GOV,,-0.55555555555556,202003,1,https://www.businessinsider.com.au/uk-health-minister-nadine-dorries-who-interacted-with-boris-johnson-has-coronavirus-2020-3
+HEALTH MINIST,GBR,GOV,,-0.90634441087613,202003,1,https://www.businessinsider.com/coronavirus-covid-19-boris-johnson-not-tested-met-nadine-dorries-2020-3
+THE WHITE HOUSE,USA,GOV,,-1.55913209384752,202003,6,https://www.ibtimes.com/donald-trump-shock-potus-reportedly-looked-terrible-during-coronavirus-meeting-urged-2937545
+HEALTH OFFICIAL,USA,GOV,,-7.41444866920153,202003,1,https://www.rawstory.com/2020/03/white-house-officials-testifying-at-house-coronavirus-briefing-abruptly-called-back-for-emergency-meeting/
+HEALTH DEPARTMENT,GRD,GOV,MED,-2.13483146067416,202003,1,https://www.illinoistimes.com/springfield/its-spreading/Content?oid=11920592
+HEALTH DEPARTMENT,USA,GOV,,-0.73937153419593,202003,1,https://www.murrayledger.com/news/local/governor-s-office-confirms-cases-of-covid--in-kentucky/article_42745a5a-633b-11ea-a8e9-fbd659513cec.html
+UNITED STATES,USA,GOV,,-0.73937153419593,202003,1,https://www.murrayledger.com/news/local/governor-s-office-confirms-cases-of-covid--in-kentucky/article_42745a5a-633b-11ea-a8e9-fbd659513cec.html
+HEALTH OFFICIAL,USA,GOV,,1.51133501259446,202003,1,https://www.richmondregister.com/news/madison_county/officials-urge-citizens-to-not-panic/article_fa0753d8-b25d-5e95-9089-cf68549627fa.html
+HEALTH OFFICIAL,USA,GOV,,-0.60240963855422,202003,1,https://indianewengland.com/2020/03/united-india-association-cancels-holi-event-due-to-coronavirus-to-refund-money-to-those-who-have-bought-tickets/
+HEALTH OFFICIAL,USA,GOV,HLH,-0.5842259006816,202003,1,https://patch.com/maryland/bowie/coronavirus-2-new-presumptive-positive-cases-pg-county
+HEALTH OFFICIAL,USA,GOV,HLH,-0.5842259006816,202003,1,https://patch.com/maryland/bowie/coronavirus-2-new-presumptive-positive-cases-pg-county
+HEALTH OFFICIAL,USA,GOV,HLH,-0.5842259006816,202003,1,https://patch.com/maryland/bowie/coronavirus-2-new-presumptive-positive-cases-pg-county
+HEALTH OFFICIAL,USA,GOV,,0.72992700729927,202003,1,https://www.golocalprov.com/news/watch-live-ri-coronavirus-update-with-governor-raimondo
+HEALTH DEPARTMENT,CHN,GOV,,-1.1137897212276,202003,2,https://www.financialexpress.com/lifestyle/travel-tourism/coronavirus-agra-hotels-tourists-sites-told-to-report-arrival-of-visitors-from-italy-iran-china/1887601/
+HEALTH MINIST,IND,GOV,HLH,1.60010240655402,202003,2,https://www.business-standard.com/article/news-ani/health-ministry-holds-meet-with-rajasthan-health-department-over-coronavirus-outbreak-120030301129_1.html
+MINIST OF HEALTH,JAM,GOV,AGR,-0.58139534883721,202003,1,http://magneticmediatv.com/2020/03/jamaica-imposes-travel-restrictions-natl-statement-on-covid-19-by-jamaica-health-wellness-minister/
+HEALTH DEPARTMENT,NPL,GOV,,-2.10169366010914,202003,9,https://www.business-standard.com/article/pti-stories/coronavirus-agra-hotels-tourists-sites-told-to-report-arrival-of-visitors-from-italy-iran-china-120030300525_1.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-1.19308909059238,202003,10,https://www.bignewsnetwork.com/news/264201893/the-urban-history-that-makes-chinas-coronavirus-lockdown-possible
+MINIST OF HEALTH,GMB,GOV,,0,202003,1,https://allafrica.com/stories/202003030248.html
+ONTARIO,CHN,GOV,HLH,-0.827586206896549,202003,1,https://www.brantfordexpositor.ca/news/local-news/bchs-ready-for-covid-19-but-local-risk-said-low
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-3.46742898811625,202003,1,https://news.yahoo.com/coronavirus-conspiracy-theories-myths-debunked-135739788.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-1.03686635944701,202003,1,https://medicalxpress.com/news/2020-03-urban-history-china-coronavirus-lockdown.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-3.58931552587646,202003,1,https://www.msn.com/en-gb/news/world/eleven-myths-and-conspiracy-theories-around-coronavirus-debunked/ar-BB10GqeD
+HEALTH MINIST,CHN,GOV,,0.56022408963586,202003,1,https://www.liberianobserver.com/opinion/editorials/liberia-wake-up-to-the-coronavirus-and-get-busy/
+PFIZER,USA,GOV,,-0.40774719673802,202003,1,https://www.telegraph.co.uk/science/2020/03/03/will-have-coronavirus-vaccine-human-trials-begin-april/
+MINIST FOR HEALTH,IRL,GOV,,-1.46627565982405,202003,1,https://www.msn.com/en-ie/news/uknews/government-not-urging-cancellation-of-st-patrick-e2-80-99s-day-events-over-coronavirus/ar-BB10GNxm
+IRELAND,IRL,GOV,,-1.46627565982405,202003,1,https://www.msn.com/en-ie/news/uknews/government-not-urging-cancellation-of-st-patrick-e2-80-99s-day-events-over-coronavirus/ar-BB10GNxm
+HEALTH MINIST,IND,GOV,HLH,-4.57516339869281,202003,1,https://www.ndtv.com/india-news/coronavirus-scare-6-from-agra-who-came-in-contact-with-delhi-coronavirus-patient-isolated-2189188
+HEALTH MINIST,IND,GOV,,-2.58850191357342,202003,7,https://www.business-standard.com/article/pti-stories/coronavirus-delhi-cm-arvind-kejriwal-calls-urgent-meeting-with-health-minister-top-officials-120030300639_1.html
+HEALTH DEPARTMENT,IND,GOV,,-2.04159645034971,202003,3,https://www.hindustantimes.com/india-news/coronavirus-italian-tourist-in-rajasthan-tests-positive-for-covid-19-6th-confirmed-case-in-india/story-ERNgsT9CQWxBgg9qxcp9fO.html
+HEALTH DEPARTMENT,IND,GOV,,-2.04159645034971,202003,3,https://www.hindustantimes.com/india-news/coronavirus-italian-tourist-in-rajasthan-tests-positive-for-covid-19-6th-confirmed-case-in-india/story-ERNgsT9CQWxBgg9qxcp9fO.html
+HEALTH MINIST,IND,GOV,HLH,-4.57516339869281,202003,1,https://www.ndtv.com/india-news/coronavirus-scare-6-from-agra-who-came-in-contact-with-delhi-coronavirus-patient-isolated-2189188
+HEALTH MINIST,LBR,GOV,,0.56022408963586,202003,1,https://www.liberianobserver.com/opinion/editorials/liberia-wake-up-to-the-coronavirus-and-get-busy/
+PFIZER,USA,GOV,,-0.40774719673802,202003,1,https://www.telegraph.co.uk/science/2020/03/03/will-have-coronavirus-vaccine-human-trials-begin-april/
+UNITED STATES,USA,GOV,,-2.23214285714286,202003,1,https://www.koaa.com/news/local-news/colorado-health-officials-say-they-can-now-test-people-for-coronavirus-on-their-own
+HEALTH DEPARTMENT,USA,GOV,,-3.60902255639098,202003,1,https://www.msn.com/en-in/news/other/coronavirus-outbreak-live-updates-two-noida-schools-shut-after-students-father-tests-positive-fumigation-process-underway-in-both/ar-BB10FA50
+WASHINGTON,USA,GOV,,-3.69290573372207,202003,1,https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/washington-state-confirms-second-u-s-coronavirus-death-new-york-reports-first-case/articleshow/74437566.cms
+AMIRAN GAMKRELIDZE,USA,GOV,,-3.52112676056338,202003,1,https://en.trend.az/scaucasus/georgia/3201106.html
+AMIRAN GAMKRELIDZE,USA,GOV,,-3.52112676056338,202003,1,https://en.trend.az/scaucasus/georgia/3201106.html
+PFIZER,USA,GOV,,-1.4218009478673,202003,1,https://www.mlive.com/coronavirus/2020/03/pfizer-testing-potential-coronavirus-treatments.html
+PFIZER,USA,GOV,,-2.42433147223038,202003,2,https://www.prokerala.com/news/articles/a1013828.html
+HEALTH OFFICIAL,USA,GOV,,-2.66666666666667,202003,1,https://www.wkyc.com/article/news/health/coronavirus/kent-state-cancels-school-sponsored-spring-break-trips-to-italy-vietnam-amid-coronavirus-outbreak/95-7dcf6751-4ec4-4cbe-bf8d-97f433a949f1
+UNITED STATES,USA,GOV,,-3.13075506445672,202003,1,https://www.cbc.ca/news/canada/british-columbia/coronavirus-bc-washington-state-deaths-1.5483501
+HEALTH DEPARTMENT,USA,GOV,,-2.7431421446384,202003,1,https://www.thetelegraph.com/news/education/article/High-school-north-of-Seattle-closed-over-virus-15089097.php
+HEALTH DEPARTMENT,USA,GOV,,-2.7431421446384,202003,1,https://www.thetelegraph.com/news/education/article/High-school-north-of-Seattle-closed-over-virus-15089097.php
+GLOBAL HEALTH COUNCIL,USA,GOV,,-0.39920159680639,202003,1,https://globalhealth.org/u-s-and-global-response-to-covid-19/
+MINIST OF HEALTH,BHR,GOV,,-1.60642570281125,202003,1,https://gulfnews.com/world/mena/coronavirus-in-middle-east-17-deaths-1234-new-cases-reported-in-iran-1.70202465
+PFIZER,CHE,GOV,,-1.49750415973378,202003,1,https://in.reuters.com/article/uk-health-coronavirus-pfizer/pfizer-weighs-working-with-biontech-on-potential-coronavirus-vaccine-rd-head-idINKBN20T02Q
+PFIZER,DEU,GOV,,-1.7587325949541,202003,9,https://www.thechronicleherald.ca/news/world/pfizer-weighs-working-with-biontech-on-potential-coronavirus-vaccine-rd-head-420089/
+PFIZER,USA,GOV,,-1.49514776029388,202003,1,https://www.reuters.com/article/us-health-coronavirus-pfizer/pfizer-weighs-working-with-biontech-on-potential-coronavirus-vaccine-rd-head-idUSKBN20T03K
+HEALTH MINIST,IRL,GOV,,-4.34782608695652,202003,1,https://www.hindustantimes.com/india-news/31st-case-in-india-global-virus-infectionstop-100-000/story-sV5IlMlE4khbRbpU89gJrM.html
+MINIST FOR HEALTH,BEL,GOV,HLH,-1.70212765957447,202003,1,http://www.westmeathexaminer.ie/2020/03/06/those-who-spread-lies-are-increasing-stigma-attached-to-virus-harris/
+IRAN,FRA,GOV,,0.383877159309019,202003,1,https://www.globalsecurity.org/security/library/news/2020/03/sec-200305-pdo09.htm
+IRAN,FRA,GOV,,0.383877159309019,202003,1,https://www.globalsecurity.org/security/library/news/2020/03/sec-200305-pdo09.htm
+IRAN,FRA,GOV,,0.383877159309019,202003,1,https://www.globalsecurity.org/security/library/news/2020/03/sec-200305-pdo09.htm
+PFIZER,DEU,GOV,,-1.7587325949541,202003,9,https://www.thechronicleherald.ca/news/world/pfizer-weighs-working-with-biontech-on-potential-coronavirus-vaccine-rd-head-420089/
+WORLD HEALTH ORGANIZATION,USA,GOV,,-4.34782608695652,202003,1,https://www.hindustantimes.com/india-news/31st-case-in-india-global-virus-infectionstop-100-000/story-sV5IlMlE4khbRbpU89gJrM.html
+IRAN,FRA,GOV,,0.3076923076923,202003,1,http://global.chinadaily.com.cn/a/202003/06/WS5e61a83aa31012821727cce1.html
+HEALTH MINIST,AFG,GOV,,-6.8100358422939,202003,7,https://www.arabherald.com/news/264229403/dozens-killed-in-kabul-attack-abdullah-escapes-unharmed
+HEALTH MINIST,AFG,GOV,,-6.8100358422939,202003,7,https://www.arabherald.com/news/264229403/dozens-killed-in-kabul-attack-abdullah-escapes-unharmed
+HEALTH DEPARTMENT,AUS,GOV,,-3.51201478743068,202003,1,https://newsinfo.inquirer.net/1237824/fwd-doh-2-foreigners-with-travel-history-in-ph-possibly-contracted-covid-19-in-other-countries
+BRUSSELS,EUR,GOV,HLH,-2.64765784114053,202003,1,https://www.irishexaminer.com/breakingnews/ireland/minister-harris-condemns-misinformation-about-coronavirus-986294.html
+EUROPEAN,BEL,GOV,HLH,-2.64765784114053,202003,1,https://www.irishexaminer.com/breakingnews/ireland/minister-harris-condemns-misinformation-about-coronavirus-986294.html
+MINIST FOR HEALTH,EUR,GOV,HLH,-1.70212765957447,202003,1,http://www.westmeathexaminer.ie/2020/03/06/those-who-spread-lies-are-increasing-stigma-attached-to-virus-harris/
+HEALTH MINIST,CAN,GOV,,-0.648910411622275,202003,2,https://www.reuters.com/article/us-health-coronavirus-canada-tourism/canadas-tourism-industry-deeply-affected-by-virus-outbreak-minister-idUSKBN20T2RR
+HEALTH OFFICIAL,IND,GOV,,-3.64705882352941,202003,1,https://timesofindia.indiatimes.com/india/avoid-mass-gatherings-says-govt-as-corona-cases-hit-31/articleshow/74520610.cms
+MINIST OF HEALTH,BHR,GOV,,-1.60642570281125,202003,1,https://gulfnews.com/world/mena/coronavirus-in-middle-east-17-deaths-1234-new-cases-reported-in-iran-1.70202465
+MINIST OF HEALTH,BHR,GOV,,-1.60642570281125,202003,1,https://gulfnews.com/world/mena/coronavirus-in-middle-east-17-deaths-1234-new-cases-reported-in-iran-1.70202465
+IRAN,FRA,GOV,,0.383877159309019,202003,1,https://www.globalsecurity.org/security/library/news/2020/03/sec-200305-pdo09.htm
+WORLD HEALTH ORGANIZATION,ITA,GOV,HLH,-5.53892215568862,202003,1,https://www.wgrz.com/article/news/health/coronavirus/coronavirus-world-response-thursday/71-d9effa5f-e6b6-406a-94b6-8168cdc32d9b
+MINIST OF HEALTH,BHR,GOV,,-1.60642570281125,202003,1,https://gulfnews.com/world/mena/coronavirus-in-middle-east-17-deaths-1234-new-cases-reported-in-iran-1.70202465
+HEALTH OFFICIAL,CHE,GOV,,-2.51883637547386,202003,2,https://www.msn.com/en-us/money/companies/cdc-expands-testing-more-infections-in-nyc-suburb-virus-update/ar-BB10L9VA
+HEALTH OFFICIAL,CHE,GOV,,-3.12519355153559,202003,2,https://www.msn.com/en-us/money/companies/cdc-expands-testing-more-infections-in-nyc-suburb-virus-update/ar-BB10L9VA
+PFIZER,CHE,GOV,,-1.49750415973378,202003,1,https://in.reuters.com/article/uk-health-coronavirus-pfizer/pfizer-weighs-working-with-biontech-on-potential-coronavirus-vaccine-rd-head-idINKBN20T02Q
+SECURITY FORCE,TUN,GOV,,-8.10810810810807,202003,1,https://www.tap.info.tn/en/Portal-Politics/12407092-president-of-the
+MINIST OF HEALTH,GBR,GOV,,0.43478260869566,202003,1,https://www.southwalesargus.co.uk/news/18286023.fires-missing-teenagers-birthdays-political-troubles-making-headlines-100-years-ago-today/
+WORLD HEALTH ORGANIZATION,USA,GOV,,-3.45572354211663,202003,1,https://bangordailynews.com/2020/03/06/news/portland/international-cruise-ships-reach-maine-next-month-amid-fear-of-coronavirus/
+HEALTH DEPARTMENT,USA,GOV,AGR,0.13175230566535,202003,1,http://www.startribune.com/virus-will-test-minnesota-s-strong-public-health-system/568567562/
+HEALTH DEPARTMENT,USA,GOV,AGR,0.13175230566535,202003,1,http://www.startribune.com/virus-will-test-minnesota-s-strong-public-health-system/568567562/
+PFIZER,USA,GOV,,-1.49514776029388,202003,1,https://www.reuters.com/article/us-health-coronavirus-pfizer/pfizer-weighs-working-with-biontech-on-potential-coronavirus-vaccine-rd-head-idUSKBN20T03K
+HEALTH OFFICIAL,USA,GOV,,-0.98792535675082,202003,1,https://defence.pk/pdf/threads/u-s-will-miss-coronavirus-test-rollout-goal-senators-say.655912/
+WORLD HEALTH ORGANIZATION,ITA,GOV,,-7.32484076433121,202003,1,https://www.msn.com/en-ie/news/coronavirus/coronaviruss-true-lethal-power-still-eludes-disease-experts/ar-BB10PJuK
+UNITED STATES,USA,GOV,,-2.17391304347826,202003,1,https://www.wamc.org/post/regional-updates-coronavirus-preparation
+UNITED STATES,USA,GOV,,-2.17391304347826,202003,1,https://www.wamc.org/post/regional-updates-coronavirus-preparation
+NAVY,NZL,GOV,,2.14655810510733,202003,1,https://www.militarytimes.com/news/pentagon-congress/2020/03/05/service-surgeons-general-voice-concern-about-military-health-care-reforms/
+NAVY,NZL,GOV,,2.14655810510733,202003,1,https://www.militarytimes.com/news/pentagon-congress/2020/03/05/service-surgeons-general-voice-concern-about-military-health-care-reforms/
+HEALTH OFFICIAL,USA,GOV,,-0.98792535675082,202003,1,https://defence.pk/pdf/threads/u-s-will-miss-coronavirus-test-rollout-goal-senators-say.655912/
+HEALTH OFFICIAL,USA,GOV,HLH,-0.62111801242236,202003,1,https://www.wvpublic.org/post/marshall-suspends-university-sponsored-international-travel-light-coronavirus
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-9.375,202001,1,https://www.dw.com/en/china-rules-out-sars-as-dozens-struck-by-pneumonia-like-virus/a-51893193
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-3.41463414634147,202001,1,https://www.taiwannews.com.tw/en/news/3850213
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.32224341728143,202001,4,http://www.ecns.cn/news/society/2020-01-06/detail-ifzsiwze9786309.shtml
+HEALTH DEPARTMENT,USA,GOV,HLH,-0.18382352941176,202001,1,https://www.record-eagle.com/news/local_news/radon-a-hard-to-detect-health-hazard/article_b1af49f0-2e4a-11ea-b93d-07ae301b314c.html
+HEALTH DEPARTMENT,USA,GOV,HLH,-0.18382352941176,202001,1,https://www.record-eagle.com/news/local_news/radon-a-hard-to-detect-health-hazard/article_b1af49f0-2e4a-11ea-b93d-07ae301b314c.html
+NASA,USA,GOV,,0.98435114648403,202001,2,https://www.fox46charlotte.com/news/north-carolina-doctor-helps-treat-astronauts-blood-clot-during-nasa-mission
+INTERNATIONAL COMMITTEE OF THE RED CROSS,YEM,GOV,,-5.66037735849057,202001,1,https://m.aawsat.com/english/home/article/2067301/yemeni-official-accuses-houthis-breaking-icrc-headquarter-hodeidah
+CELGENE CORPORATION,GBR,MNC,HLH,-1.54109589041096,202001,1,https://www.marketwatch.com/press-release/global-top-10-cancer-drugs-market-set-to-reach-129948-million-by-2026-2020-01-07
+BRISTOL MYERS SQUIBB,GBR,MNC,HLH,-1.54109589041096,202001,1,https://www.marketwatch.com/press-release/global-top-10-cancer-drugs-market-set-to-reach-129948-million-by-2026-2020-01-07
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.95652173913044,202001,1,https://www.medscape.com/viewarticle/923338
+HEALTH MINIST,GHA,GOV,,-3.63881401617251,202001,1,https://www.graphic.com.gh/news/politics/ndc-pushes-for-release-of-idle-ambulances.html
+HEALTH MINIST,GBR,GOV,,-2.48917748917749,202001,1,https://www.countytimes.co.uk/news/18141151.health-board-cancels-bronglais-inpatient-operations/
+INTERNATIONAL FEDERATION OF RED CROSS AND RED CRESCENT,USA,NGO,HLH,2.73743016759776,202001,1,https://reliefweb.int/job/3465663/deputy-director-programs
+NASA,USA,GOV,,0.12391573729864,202001,1,https://globalhealthnewswire.com/2020/01/05/unc-expert-helps-treat-astronauts-blood-clot-during-nasa-mission/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.53359683794466,202001,1,https://www.bworldonline.com/travelers-from-china-asked-to-check-for-flu-like-symptoms/
+MINIST OF HEALTH,ITA,GOV,,-1.19617224880382,202003,1,https://www.mid-day.com/articles/those-infected-in-stable-condition-recovering/22667291
+MINIST OF HEALTH,JAM,GOV,EDU,0.58651026392962,202003,1,http://www.loopjamaica.com/content/coronavirus-passengers-ba-flight-asked-identify-themselves
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-1.04712041884817,202003,1,https://www.citymetric.com/skylines/podcast-rory-stewart-has-his-porridge-4954
+MINIST OF HEALTH,UGA,GOV,,2.5,202003,1,http://www.kfm.co.ug/news/health/museveni-asks-moh-to-recall-health-insurance-bill.html
+HEALTH OFFICIAL,USA,GOV,,-4.0920716112532,202003,1,https://www.standard.co.uk/news/world/trump-suspends-all-travel-between-us-and-europe-over-coronavirus-spread-a4385156.html
+BRITISH,GBR,GOV,,-5.09259259259259,202003,1,https://www.masala.com/coronavirus-outbreak-update-queen-elizabeths-health-a-growing-concern-322817.html
+WORLD HEALTH ORGANIZATION,BEL,GOV,DEV,-7.06214689265536,202003,1,https://www.foxnews.com/world/italy-coronavirus-death-toll-fines-jail-lockdown
+WORLD HEALTH ORGANIZATION,BEL,GOV,DEV,-7.06214689265536,202003,1,https://www.foxnews.com/world/italy-coronavirus-death-toll-fines-jail-lockdown
+HEALTH MINIST,SAU,GOV,,-4.72,202003,1,https://www.benarnews.org/english/news/philippine/philippines-coronavirus-03122020183338.html
+PABLO MARIN,BLZ,GOV,,0.35460992907801,202003,1,https://www.breakingbelizenews.com/2020/03/12/san-ignacio-resident-not-under-quarantine-for-covid-19-at-any-local-hospital-still-no-confirmed-case-in-belize/
+MINIST OF HEALTH,BLZ,GOV,HLH,0.35460992907801,202003,1,https://www.breakingbelizenews.com/2020/03/12/san-ignacio-resident-not-under-quarantine-for-covid-19-at-any-local-hospital-still-no-confirmed-case-in-belize/
+CANADA,CAN,GOV,,-0.67340067340067,202003,2,https://www.vancouverisawesome.com/bc-news/british-columbia-focuses-on-long-term-care-homes-in-covid-19-fight-2156411
+CANADA,CAN,GOV,,-0.668232027881147,202003,3,https://www.msn.com/en-ca/news/canada/british-columbia-focuses-on-long-term-care-homes-in-covid-19-fight/ar-BB113Jvl
+CANADA,CAN,GOV,,-0.6578947368421,202003,1,https://www.msn.com/en-ca/news/canada/british-columbia-focuses-on-long-term-care-homes-in-covid-19-fight/ar-BB113Jvl
+ONTARIO,CAN,GOV,HLH,-1.64835164835165,202003,1,https://www.cp24.com/news/province-reports-five-new-travel-related-covid-19-cases-raising-count-to-42-1.4848268
+MINIST OF HEALTH,CHN,GOV,,6.57596371882086,202003,1,https://allafrica.com/stories/202003120397.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-7.40291262135922,202003,3,https://www.freep.com/story/opinion/2020/03/12/human-toll-china-coronavirus-control-efforts-censorship-column/5010909002/
+WORLD HEALTH ORGANIZATION,FRA,GOV,,-1.32450331125827,202003,1,https://horsenetwork.com/2020/03/saut-hermes-cancelled-amid-coronavirus-concerns/
+WORLD HEALTH ORGANIZATION,FRA,GOV,,-1.32450331125827,202003,1,https://horsenetwork.com/2020/03/saut-hermes-cancelled-amid-coronavirus-concerns/
+MINIST OF HEALTH,GHA,GOV,HLH,-0.00396741430385,202003,1,https://www.ghanaweb.com/GhanaHomePage/business/Foreign-Minister-holds-bilateral-meeting-with-Korean-Ambassador-892135
+MINIST OF HEALTH,GHA,GOV,HLH,-0.00396741430385,202003,1,https://www.ghanaweb.com/GhanaHomePage/business/Foreign-Minister-holds-bilateral-meeting-with-Korean-Ambassador-892135
+MINIST OF HEALTH,LUX,GOV,,-3.58490566037735,202003,1,https://chronicle.lu/category/medical/32062-events-with-over-1k-people-banned-in-luxembourg
+MINIST OF HEALTH,TUR,GOV,HLH,-1.44444444444445,202003,1,http://bianet.org/english/health/221255-health-minister-koca-on-coronavirus-outbreak-risk-is-serious
+HEALTH OFFICIAL,USA,GOV,,-0.56232427366448,202003,1,https://thehill.com/policy/healthcare/487068-trump-coronavirus-response-seen-as-threat-to-cdc-confidence
+HEALTH OFFICIAL,USA,GOV,,-4.74452554744525,202003,1,https://www.cnbc.com/2020/03/12/watch-live-house-oversight-committee-continues-hearing-on-coronavirus.html
+THE WHITE HOUSE,USA,GOV,,-1.20062718233731,202003,3,https://www.mediaite.com/news/brazilian-government-official-pictured-next-to-trump-last-weekend-has-tested-positive-for-coronavirus/
+HEALTH OFFICIAL,USA,GOV,,-3.57446808510639,202003,1,https://blog.ucsusa.org/anita-desikan/coronavirus-data-being-concealed-by-trump-administration
+HEALTH OFFICIAL,USA,GOV,,-3.1578947368421,202003,1,https://wskg.org/news/broome-county-executive-says-state-mistaken-still-no-confirmed-cases-in-broome/
+HEALTH OFFICIAL,USA,GOV,,1.92307692307692,202003,1,https://www.wsipam.com/2020/03/12/audio-coronavirus-update-with-johnson-county-officials/
+HEALTH OFFICIAL,USA,GOV,HLH,4.34782608695652,202003,1,https://www.poncacitynews.com/news/health-department-holds-forum
+HEALTH OFFICIAL,USA,GOV,HLH,-3.2014499649647,202003,4,https://www.sfgate.com/news/education/article/Coronavirus-cases-in-Tennessee-up-to-9-dozens-15124176.php
+HEALTH OFFICIAL,USA,GOV,HLH,-3.2014499649647,202003,4,https://www.sfgate.com/news/education/article/Coronavirus-cases-in-Tennessee-up-to-9-dozens-15124176.php
+ONTARIO,CHN,GOV,HLH,-1.12275449101797,202001,1,https://globalnews.ca/news/6463088/canada-coronavirus-first-case/
+HEALTH MINIST,IND,GOV,,-0.296827572030143,202001,7,https://www.outlookindia.com/newsscroll/novel-coronavirus-reaches-indonepal-border/1717856
+HEALTH MINIST,IND,GOV,,-4.39238653001464,202001,1,https://www.telegraphindia.com/india/two-numbers-and-response-hold-key-to-virus-toll/cid/1739862
+FIRDOUS ASHIQ AWAN,PAK,GOV,,-1.75438596491228,202001,1,https://dunyanews.tv/en/Pakistan/529455-Govt-rejects-Transparency-International-report-corruption-
+HEALTH DEPARTMENT,USA,GOV,,0.91743119266055,202001,1,https://www.fayobserver.com/news/20200126/cumberland-matters-bethany-land-use-plan-in-development
+RED CROSS,DNK,GOV,,-2.26641998149861,202001,1,https://www.euronews.com/2020/01/27/holocaust-remembrance-day-how-is-the-holocaust-taught-in-your-country
+HEALTH DEPARTMENT,NPL,GOV,,-1.81270536692224,202001,2,https://www.republicworld.com/india-news/general-news/novel-coronavirus-up-govt-directs-officials-to-set-up-isolation-wards-in-district-hospitals.html
+MERCY SHIPS,SLE,GOV,,2.5706940874036,202001,1,https://sierraexpressmedia.com/?p=87535
+MERCY SHIPS,SLE,GOV,,2.5706940874036,202001,1,https://sierraexpressmedia.com/?p=87535
+RED CROSS,CHN,GOV,MED,-4.96894409937888,202001,1,https://www.theepochtimes.com/china-restricts-medical-supply-donations-to-epicenter-despite-dire-need-during-viral-outbreak_3217718.html
+HEALTH MINIST,IND,GOV,,-0.67264573991031,202001,1,https://zeenews.india.com/india/breaking-news-vigil-along-india-nepal-border-in-west-bengal-strengthened-after-confirmed-coronavirus-case-in-nepal-2259491.html
+HEALTH MINIST,CIV,GOV,,-8.48484848484849,202001,1,https://www.modernghana.com/news/981406/coronavirus-threat-ivory-coast-battles-suspected.html
+HEALTH MINIST,NGA,GOV,,-4.92125984251969,202001,1,https://thenationonlineng.net/lassa-fever-death-toll-rises-as-states-take-precautions/
+HEALTH MINIST,NGA,GOV,,-4.92125984251969,202001,1,https://thenationonlineng.net/lassa-fever-death-toll-rises-as-states-take-precautions/
+MINIST OF HEALTH,CHN,GOV,,-2.69459820290116,202001,2,https://www.newstalkzb.co.nz/news/health/chances-of-new-zealand-getting-coronavirus-high-but-outbreak-low/
+NOVARTIS,USA,MNC,HLH,-0.1953125,202001,1,https://www.biopharmadive.com/news/pfizer-gene-therapy-phase-3-dmd-hemophilia/571238/
+SRI LANKAN,LKA,GOV,GOV,-0.3690036900369,202001,1,"http://www.asianews.it/news-en/Sri-Lanka-reports-first-coronavirus-case,-activates-security-measures-49145.html"
+HEALTH DEPARTMENT,IND,GOV,,-1.76646153437863,202001,3,https://www.business-standard.com/article/news-ani/coronavirus-3756-passengers-screened-at-mumbai-international-airport-till-jan-26-120012800115_1.html
+HEALTH MINIST,MYS,GOV,,-0.55555555555556,202001,1,https://www.thestar.com.my/news/nation/2020/01/28/we-have-enough-manpower
+HEALTH MINIST,MYS,GOV,,-0.55555555555556,202001,1,https://www.thestar.com.my/news/nation/2020/01/28/we-have-enough-manpower
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-0.619324933589103,202001,6,https://www.prokerala.com/news/articles/a1001794.html
+GLAXOSMITHKLINE,ISR,MNC,HLH,-1.0204081632653,202001,1,https://www.openpr.com/news/1911778/multiple-myeloma-diagnostic-market-trends-growth-scope
+HEALTH MINIST,AUS,GOV,HLH,-4.71698113207547,202001,3,https://www.smh.com.au/national/queensland/six-people-test-negative-for-coronavirus-in-queensland-20200126-p53uvd.html
+HEALTH MINIST,IND,GOV,,-4.39238653001464,202001,1,https://www.telegraphindia.com/india/two-numbers-and-response-hold-key-to-virus-toll/cid/1739862
+MINIST OF HEALTH,CHN,GOV,,-2.69459820290116,202001,2,https://www.newstalkzb.co.nz/news/health/chances-of-new-zealand-getting-coronavirus-high-but-outbreak-low/
+HEALTH OFFICIAL,CHN,GOV,,-1.83783783783784,202001,1,https://www.theverge.com/2020/1/28/21080479/coronavirus-public-health-trust-cdc-misinformation-china-outbreak-concealed
+FRENCH,CHN,GOV,,-3.33333333333334,202001,1,https://www.mirror.co.uk/news/uk-news/coronavirus-britain-working-plan-rescue-21375172
+HEALTH OFFICIAL,USA,GOV,,1.71232876712328,202001,2,http://www.klif.com/2020/01/28/governor-abbott-meets-with-state-health-officials-on-coronavirus/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.9299191374663,202001,1,https://www.theepochtimes.com/hong-kong-cuts-travel-from-mainland-countries-plan-evacuations-as-virus-spreads-in-china_3218545.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.9299191374663,202001,1,https://www.theepochtimes.com/hong-kong-cuts-travel-from-mainland-countries-plan-evacuations-as-virus-spreads-in-china_3218545.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.07950116913484,202001,1,https://www.statnews.com/2020/01/26/containing-new-coronavirus-may-not-be-feasible-experts-say/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.07950116913484,202001,1,https://www.statnews.com/2020/01/26/containing-new-coronavirus-may-not-be-feasible-experts-say/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.92363747816874,202001,2,https://www.kqed.org/science/1956225/experts-warn-containing-global-spread-of-coronavirus-may-no-longer-be-feasible
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.92363747816874,202001,2,https://www.kqed.org/science/1956225/experts-warn-containing-global-spread-of-coronavirus-may-no-longer-be-feasible
+HEALTH OFFICIAL,CHN,GOV,,-7.07213578500707,202001,1,http://www.startribune.com/nations-race-to-contain-virus-20-u-s-airports-to-add-screening/567345472/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-1.90888147033903,202001,3,http://www.xinhuanet.com/english/2020-01/28/c_138739356.htm
+HEALTH MINIST,CHN,GOV,,-4,202001,1,https://timesofindia.indiatimes.com/india/coronavirus-outbreak-preparations-for-evacuating-indians-from-hubei-has-begun-says-mea/articleshow/73695742.cms
+WORLD HEALTH ORGANIZATION,CHN,GOV,,1.44694533762058,202001,1,http://www.xinhuanet.com/english/2020-01/28/c_138739962.htm
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.36721181174369,202001,11,https://www.miragenews.com/who-china-leaders-discuss-next-steps-in-battle-against-coronavirus-outbreak/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.24,202001,1,https://timesofindia.indiatimes.com/world/china/who-chief-says-china-virus-evacuations-not-recommended-report/articleshow/73706550.cms
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.90456431535269,202001,1,http://www.chinadaily.com.cn/a/202001/29/WS5e309fb4a31012821727381f.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.07950116913484,202001,1,https://www.statnews.com/2020/01/26/containing-new-coronavirus-may-not-be-feasible-experts-say/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.07950116913484,202001,1,https://www.statnews.com/2020/01/26/containing-new-coronavirus-may-not-be-feasible-experts-say/
+HEALTH DEPARTMENT,CHN,GOV,,-1.55844155844156,202001,1,https://www.dawn.com/news/1530580/embassy-in-beijing-says-500-pakistani-students-in-wuhan
+HEALTH DEPARTMENT,CHN,GOV,,-1.55844155844156,202001,1,https://www.dawn.com/news/1530580/embassy-in-beijing-says-500-pakistani-students-in-wuhan
+ONTARIO,CHN,GOV,HLH,-0.87272727272727,202001,15,https://jumpradio.ca/news/6463088/canada-coronavirus-first-case/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.49978041282389,202001,1,https://english.mathrubhumi.com/health/health-news/coronovirus-should-we-panic--1.4476763
+MINIST OF HEALTH,CHN,GOV,,-4.89236790606653,202001,1,https://www.thisdaylive.com/index.php/2020/01/27/no-nigerian-infected-with-coronavirus-says-fg/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-8.55614973262029,202001,1,https://www.republicworld.com/world-news/rest-of-the-world-news/china-extends-public-holidays-to-curb-deadly-coronavirus-outbreak.html
+HEALTH OFFICIAL,CHN,GOV,,-5.79254287194457,202001,38,https://www.voanews.com/east-asia-pacific/chinese-premier-visits-wuhan-virus-death-toll-hits-80
+HEALTH MINIST,IND,GOV,,-0.67264573991031,202001,1,https://zeenews.india.com/india/breaking-news-vigil-along-india-nepal-border-in-west-bengal-strengthened-after-confirmed-coronavirus-case-in-nepal-2259491.html
+HEALTH OFFICIAL,CHN,GOV,,-1.19523544989334,202001,10,https://www.news.com.au/lifestyle/health/health-problems/tests-confirm-source-of-deadly-coronavirus-outbreak-in-wuhan/news-story/381c166d5abb699e12712a3a28c6b593
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.00213108900133,202001,1,https://bwog.com/tag/too-hot/
+HEALTH OFFICIAL,CHN,GOV,,-5.3736720180454,202001,65,https://www.beijingbulletin.com/news/263845576/trump-offers-china-any-help-to-fight-coronavirus
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.24836170601199,202001,1,https://bwog.com/tag/returnofthecouncil/
+HEALTH OFFICIAL,CHN,GOV,,-1.96078431372549,202001,3,https://www.ntnews.com.au/news/tests-confirm-source-of-deadly-coronavirus-outbreak-in-wuhan/news-story/381c166d5abb699e12712a3a28c6b593?nk=03b68807a9ab7dfcb02517ea7184c236-1580172419
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.4957264957265,202001,1,https://www.theepochtimes.com/chinas-one-belt-one-road-is-perfect-pandemic-freeway-for-coronavirus_3217211.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-3.36520841206469,202001,3,https://www.miragenews.com/who-china-leaders-discuss-next-steps-in-battle-against-coronavirus-outbreak/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.90456431535269,202001,1,http://www.chinadaily.com.cn/a/202001/29/WS5e309fb4a31012821727381f.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-1.92307692307693,202001,1,https://bwog.com/tag/why-is-every-building-in-new-york-so-hot-during-winter/
+HEALTH MINIST,IND,GOV,,-1.33333333333334,202001,1,https://www.newindianexpress.com/nation/2020/jan/26/novel-coronavirus-reaches-indo-nepal-border-2094813.html
+IRELAND,IRL,GOV,,3.71352785145889,202001,1,https://www.belfasttelegraph.co.uk/news/northern-ireland/stormonts-health-minister-urges-secretary-of-state-to-provide-promised-funding-38853222.html
+KHAW BOON WAN,SGP,GOV,MED,4.42079947831136,202001,3,https://www.thesundaily.my/local/loke-malaysia-singapore-committed-to-conclude-rts-agreement-by-april-2020-EB1883305
+NOVO NORDISK,USA,MNC,HLH,0,202001,1,https://www.mmm-online.com/home/channel/roundup/five-things-for-pharma-marketers-to-know-wednesday-january-8-2020/
+NOVO NORDISK,USA,MNC,HLH,0,202001,1,https://www.mmm-online.com/home/channel/roundup/five-things-for-pharma-marketers-to-know-wednesday-january-8-2020/
+ARMENIA,ARM,GOV,HLH,-5.98591549295775,202001,1,https://www.azatutyun.am/a/30366825.html
+HEALTH MINIST,ARM,GOV,HLH,-5.98591549295775,202001,1,https://www.azatutyun.am/a/30366825.html
+HEALTH MINIST,CAN,GOV,HLH,-1.4308426073132,202001,1,https://www.thespec.com/opinion-story/9805103-it-s-time-to-make-canadian-health-care-sustainable/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.4516129032258,202001,1,https://www.theguardian.com/world/2020/jan/09/chinas-sars-like-illness-worries-health-experts
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.78468899521531,202001,1,https://interestingengineering.com/who-states-outbreak-of-mysterious-illness-in-china-is-linked-to-a-new-virus
+HEALTH MINIST,SAU,GOV,,1.44404332129964,202001,1,https://www.malaysiakini.com/news/506580
+MINIST OF HEALTH,NGA,GOV,HLH,2.48565965583173,202001,1,https://tribuneonlineng.com/kano-celebrates-64-months-without-polio-outbreak/
+UNITED KINGDOM,GBR,GOV,,2.83464566929134,202001,1,https://www.wiltsglosstandard.co.uk/news/national/18154267.stormonts-health-minister-urges-secretary-state-provide-promised-funding/
+UNITED KINGDOM,GBR,GOV,,2.9874213836478,202001,1,https://www.burnhamandhighbridgeweeklynews.co.uk/news/national/18154267.stormonts-health-minister-urges-secretary-state-provide-promised-funding/
+UNITED KINGDOM,GBR,GOV,,3.01080763906999,202001,50,https://www.wiltshirebusinessonline.co.uk/news/national/18154267.stormonts-health-minister-urges-secretary-state-provide-promised-funding/
+UNITED KINGDOM,GBR,GOV,,3.01109350237718,202001,1,https://home.bt.com/news/uk-news/stormonts-health-minister-urges-secretary-of-state-to-provide-promised-funding-11364424381947
+SCHOOL,USA,GOV,EDU,-5.72687224669603,202001,1,https://www.ajc.com/news/local/should-they-stay-should-they-kids-with-flu-pose-parental-puzzle/zAWzxMA4LOW9fw8vFlTXFI/
+HEALTH MINIST,ISR,GOV,MED,-6.90826727066818,202002,1,https://www.timesofisrael.com/lets-do-launch-7-things-to-know-for-february-24/
+BANGLADESH,BGD,GOV,,-4.91803278688525,202002,1,https://www.risingbd.com/english/Coronavirus-Bangladesh-wont-suspend-flights-to-middle-east/68329
+BANGLADESH,BGD,GOV,,-4.91803278688525,202002,1,https://www.risingbd.com/english/Coronavirus-Bangladesh-wont-suspend-flights-to-middle-east/68329
+BANGLADESH,BGD,GOV,,-4.91803278688525,202002,1,https://www.risingbd.com/english/Coronavirus-Bangladesh-wont-suspend-flights-to-middle-east/68329
+HEALTH MINIST,BGD,GOV,,-4.91803278688525,202002,1,https://www.risingbd.com/english/Coronavirus-Bangladesh-wont-suspend-flights-to-middle-east/68329
+HEALTH MINIST,BGD,GOV,,-4.91803278688525,202002,1,https://www.risingbd.com/english/Coronavirus-Bangladesh-wont-suspend-flights-to-middle-east/68329
+HEALTH MINIST,BGD,GOV,,-4.91803278688525,202002,1,https://www.risingbd.com/english/Coronavirus-Bangladesh-wont-suspend-flights-to-middle-east/68329
+WORLD HEALTH ORGANIZATION,KHM,GOV,HLH,-4.01606425702811,202002,1,https://www.theepochtimes.com/turkey-blocks-plane-evacuating-cruise-passengers-amid-covid-19-virus-fears_3245695.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,0.1497005988024,202002,1,http://www.dailynews.lk/2020/02/21/local/212098/%E2%80%98chinese-workers-sl-holidaying-china-asked-not-return-now%E2%80%99
+HEALTH MINIST,ISR,GOV,,-4.78971962616823,202002,1,https://www.timesofisrael.com/israel-said-planning-for-coronavirus-with-isolation-units-tourist-site-closures/
+HEALTH MINIST,ISR,GOV,,-4.78971962616823,202002,1,https://www.timesofisrael.com/israel-said-planning-for-coronavirus-with-isolation-units-tourist-site-closures/
+MANAGEMENT SCIENCES FOR HEALTH,USA,GOV,DEV,7.46987951807229,202002,1,https://reliefweb.int/job/3534394/director-mel-malaria-mch-and-fp-project-cote-divoire
+HEALTH MINIST,BGD,GOV,,-4.91803278688525,202002,1,https://www.risingbd.com/english/Coronavirus-Bangladesh-wont-suspend-flights-to-middle-east/68329
+HEALTH MINIST,ISR,GOV,,-5.42838456507522,202002,1,https://www.9news.com.au/world/coronavirus-total-infections-hit-77000/d0c1cdaf-96a0-4160-8789-54a14af38397
+HEALTH MINIST,ISR,GOV,,-5.42838456507522,202002,1,https://www.9news.com.au/world/coronavirus-total-infections-hit-77000/d0c1cdaf-96a0-4160-8789-54a14af38397
+ITALY,ISR,GOV,MED,-6.90826727066818,202002,1,https://www.timesofisrael.com/lets-do-launch-7-things-to-know-for-february-24/
+WORLD HEALTH ORGANIZATION,ITA,GOV,,-5.078125,202002,1,https://7news.com.au/travel/coronavirus/coronavirus-latest-china-bans-the-eating-of-wild-animals-as-italy-is-struck-by-rapid-increase-in-cases-c-714752
+WORLD HEALTH ORGANIZATION,ITA,GOV,,0.39138943248532,202002,1,https://tolonews.com/afghanistan/three-suspected-cases-coronavirus-reported-farah-ghor
+CHINESE,KOR,GOV,,-6.87203791469194,202002,1,https://www.timesunion.com/news/article/Confidence-is-mixed-with-added-threats-15072422.php
+HEALTH MINIST,JPN,GOV,,-4.05405405405405,202002,1,https://jewishbusinessnews.com/2020/02/21/coronavirus-found-in-a-woman-who-arrived-from-cruise-ship-diamond-princes/
+HEALTH MINIST,JPN,GOV,,-4.05405405405405,202002,1,https://jewishbusinessnews.com/2020/02/21/coronavirus-found-in-a-woman-who-arrived-from-cruise-ship-diamond-princes/
+INDONESIA,JPN,GOV,,1.69186055010732,202002,5,https://www.reuters.com/article/us-china-health-indonesia/indonesia-to-bring-back-citizens-aboard-world-dream-cruise-by-naval-ship-idUSKCN20I11N
+INDONESIA,JPN,GOV,,1.26315789473684,202002,1,https://ca.reuters.com/article/topNews/idCAKCN20I11N
+CHINESE,KOR,GOV,,-6.4,202002,1,https://www.theglobeandmail.com/world/article-chinese-health-officials-express-optimism-despite-new-threats-emerging/
+CHINESE,KOR,GOV,,-4.39684329199548,202002,1,https://www.nbcconnecticut.com/news/health/new-threats-emerge-outbreak-china-voices-optimism/2226491/
+CHINESE,KOR,GOV,,-3.86100386100386,202002,1,https://www.pbs.org/newshour/health/watch-who-says-data-shows-decline-in-new-covid-19-cases
+CHINESE,KOR,GOV,,-6.34249471458773,202002,1,https://www.castanet.net/edition/news-story-277520-5-.htm
+SAUDI,KWT,GOV,,-2.9296875,202002,1,https://aawsat.com/english/home/article/2146936/kuwait-bahrain-iraq-report-first-coronavirus-cases
+SAUDI,KWT,GOV,,-3.06565433514062,202002,2,https://stepfeed.com/bahrain-kuwait-and-lebanon-confirm-first-cases-of-coronavirus-9240
+SAUDI,KWT,GOV,,-2.9296875,202002,1,https://aawsat.com/english/home/article/2146936/kuwait-bahrain-iraq-report-first-coronavirus-cases
+FIRDOUS ASHIQ AWAN,PAK,GOV,,-2.7972027972028,202002,1,https://dailytimes.com.pk/561407/crackdown-against-smuggling-to-provide-relief-to-people-dr-firdous/
+SINGAPORE,SGP,GOV,LAB,0,202002,1,https://www.asiaone.com/singapore/who-praises-singapores-response-coronavirus-outbreak
+WORLD HEALTH ORGANIZATION,SGP,GOV,,-1.50375939849624,202002,1,https://www.globaltimes.cn/content/1180274.shtml
+MINIST OF HEALTH,SGP,GOV,,0,202002,1,https://www.thesundaily.my/local/still-no-plan-to-bar-entry-of-tourists-from-china-dpm-FA2031272
+MINIST OF HEALTH,SGP,GOV,,-0.54945054945055,202002,1,http://dailyexpress.com.my/news/147608/no-plan-to-bar-entry-of-chinese-tourists/
+HEALTH MINIST,GBR,GOV,,-2.64229597562931,202002,2,https://www.bbc.co.uk/news/uk-wales-51564205
+HEALTH MINIST,GBR,GOV,,-2.64229597562931,202002,2,https://www.bbc.co.uk/news/uk-wales-51564205
+HEALTH MINIST,GBR,GOV,,-1.66944908180301,202002,1,http://www.onmedica.com/newsArticle.aspx?id=2a2e0d83-e0fb-4378-b80a-323ca4367990
+HEALTH MINIST,GBR,GOV,,-1.66944908180301,202002,1,http://www.onmedica.com/newsArticle.aspx?id=2a2e0d83-e0fb-4378-b80a-323ca4367990
+ANDREW LANSLEY,GBR,GOV,MED,-4.87807276302851,202002,1,https://www.bmj.com/content/368/bmj.m693/rapid-responses
+SCHOOL,GBR,GOV,,-0.0536336819522703,202002,1,https://io9.gizmodo.com/figuring-out-doctor-whos-lingering-mysteries-5439138
+AMERICARES,BHS,GOV,HLH,0.43572984749456,202002,1,https://reliefweb.int/report/bahamas/americares-expands-health-services-hurricane-dorian-survivors-bahamas
+WORLD HEALTH ORGANIZATION,IRQ,GOV,HLH,-5.23731587561374,202002,1,https://www.breitbart.com/national-security/2020/02/24/wuhan-coronavirus-arrives-in-iraq-and-afghanistan/
+SAUDI ARABIA,BHR,GOV,HLH,-2.25806451612903,202002,1,http://english.alarabiya.net/en/News/gulf/2020/02/25/Six-new-coronavirus-cases-confirmed-in-Bahrain-bringing-total-to-eight.html
+BAHAMA,USA,NGO,HLH,0.43572984749456,202002,1,https://reliefweb.int/report/bahamas/americares-expands-health-services-hurricane-dorian-survivors-bahamas
+MINIST OF HEALTH,USA,NGO,HLH,0.43572984749456,202002,1,https://reliefweb.int/report/bahamas/americares-expands-health-services-hurricane-dorian-survivors-bahamas
+SUDANESE,CHN,GOV,,-1.27711359718136,202002,5,http://www.china.org.cn/world/Off_the_Wire/2020-02/20/content_75723571.htm
+CHINESE,KOR,GOV,,-5.06758211122781,202002,5,https://www.nbcdfw.com/news/health/new-threats-emerge-outbreak-china-voices-optimism/2315033/
+HEALTH OFFICIAL,CHN,GOV,,-1.96078431372549,202002,1,https://www.dailytelegraph.com.au/lifestyle/health/tests-confirm-source-of-deadly-coronavirus-outbreak-in-wuhan/news-story/381c166d5abb699e12712a3a28c6b593?nk=6be5fc8f802495c02fbd835094d54342-1580130938
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.4343891402715,202002,1,https://www.news18.com/news/tech/coronavirus-and-superspreaders-humans-can-carry-and-transmit-covid-19-without-symptoms-2514577.html
+HEALTH MINIST,KGZ,GOV,HLH,-4.7244094488189,202002,1,https://akipress.com/news:635791:Kyrgyz_Health_Ministry_has_emergency_plan_if_coronavirus_occurs/
+WORLD HEALTH ORGANIZATION,AFR,GOV,,-4.61346633416458,202002,1,https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-infections-latest-news-updates-2020-02-20/?linkId=82721334
+WORLD HEALTH ORGANIZATION,AFR,GOV,,-4.61346633416458,202002,1,https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-infections-latest-news-updates-2020-02-20/?linkId=82721334
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.61346633416458,202002,1,https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-infections-latest-news-updates-2020-02-20/?linkId=82721334
+HEALTH MINIST,CHN,GOV,,-4.19501133786848,202002,1,https://www.jpost.com/Israel-News/Likelihood-of-Israeli-infected-with-coronavirus-has-risen-significantly-618415
+WORLD HEALTH ORGANIZATION,PHL,GOV,,-4.43786982248521,202002,1,https://www.bworldonline.com/is-the-country-moving-in-the-right-direction/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.56370656370657,202002,1,https://www.manilatimes.net/2020/02/25/opinion/columnists/china-waging-a-two-front-war-on-coronavirus-and-the-economy/695835/
+MILITARY,EGY,GOV,,-6.3768115942029,202002,1,https://www.sbs.com.au/news/former-egypt-president-hosni-mubarak-dies-aged-91
+MILITARY,EGY,GOV,,-10,202002,1,http://www.xinhuanet.com/english/2020-02/25/c_138818006.htm
+ARMY,EGY,GOV,,-1.66975881261596,202002,1,https://www.newstatesman.com/world/africa/2020/02/hosni-mubarak-s-death-changes-little-egypt
+HEALTH MINIST,DEU,GOV,,-0.682332873960132,202002,5,https://www.channelnewsasia.com/news/world/merkel-s-would-be-successors-announce-bids-for-party-leader-12469306
+HEALTH MINIST,DEU,GOV,,1.64835164835164,202002,1,https://www.rt.com/newsline/481630-germany-party-merkel-merz/
+HEALTH OFFICIAL,GRC,GOV,,-3.05343511450382,202002,1,http://www.ekathimerini.com/249859/article/ekathimerini/news/health-minister-to-brief-pm-after-meeting-on-coronavirus
+HEALTH MINIST,IDN,GOV,,0.32154340836013,202002,1,https://en.tempo.co/read/1311778/diamond-princess-evacuation-indonesia-in-talks-with-japan
+GHULAM NABI AZAD,IND,GOV,,0.89285714285715,202002,1,https://www.tribuneindia.com/news/manmohan-singh-ghulam-nabi-azad-to-skip-presidents-banquet-for-donald-trump-46686
+GHULAM NABI AZAD,IND,GOV,BUS,-1.43884892086331,202002,1,https://timesofindia.indiatimes.com/india/jammu-kashmir-high-court-order-throws-light-on-state-backed-land-grab/articleshow/74309803.cms
+WORLD HEALTH ORGANIZATION,AFR,GOV,,-4.61346633416458,202002,1,https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-infections-latest-news-updates-2020-02-20/?linkId=82721334
+WORLD HEALTH ORGANIZATION,IRN,GOV,,-4.03652834123531,202002,2,http://www.canindia.com/irans-deputy-health-minister-contracts-coronavirus/
+HEALTH MINIST,ISR,GOV,,-4.78971962616823,202002,1,https://www.timesofisrael.com/israel-said-planning-for-coronavirus-with-isolation-units-tourist-site-closures/
+TEL AVIV,ISR,GOV,,-1.73160173160173,202002,1,https://hamodia.com/2020/02/23/gush-etzion-residents-dont-send-south-koreans/
+HEALTH MINIST,ISR,GOV,,-4.78971962616823,202002,1,https://www.timesofisrael.com/israel-said-planning-for-coronavirus-with-isolation-units-tourist-site-closures/
+ISRAEL,ISR,GOV,,-4.78971962616823,202002,1,https://www.timesofisrael.com/israel-said-planning-for-coronavirus-with-isolation-units-tourist-site-closures/
+ISRAEL,ISR,GOV,,-4.55594002306805,202002,1,https://www.timesofisrael.com/number-of-israeli-students-to-enter-quarantine-over-virus-fears-rises-to-90/
+TEL AVIV,ISR,GOV,,-8.1593643746807,202002,1,https://www.timesofisrael.com/gaza-rockets-fired-at-south-as-violence-erupts-after-morning-lull/
+HEALTH MINIST,ISR,GOV,,0.89928057553956,202002,1,https://www.msn.com/en-us/news/world/netanyahu-takes-center-stage-in-israeli-election-battle/ar-BB10lXDy
+HEALTH MINIST,ISR,GOV,,-2.05338809034908,202002,1,http://www.israelnationalnews.com/News/News.aspx/276374
+HEALTH MINIST,ISR,GOV,HLH,-1.73160173160173,202002,1,https://hamodia.com/2020/02/23/gush-etzion-residents-dont-send-south-koreans/
+HEALTH MINIST,ISR,GOV,HLH,-1.73160173160173,202002,1,https://hamodia.com/2020/02/23/gush-etzion-residents-dont-send-south-koreans/
+HEALTH MINIST,ISR,GOV,HLH,-1.73160173160173,202002,1,https://hamodia.com/2020/02/23/gush-etzion-residents-dont-send-south-koreans/
+HEALTH MINIST,ISR,GOV,HLH,-1.73160173160173,202002,1,https://hamodia.com/2020/02/23/gush-etzion-residents-dont-send-south-koreans/
+TEL AVIV,ISR,GOV,,-1.73160173160173,202002,1,https://hamodia.com/2020/02/23/gush-etzion-residents-dont-send-south-koreans/
+HEALTH MINIST,ISR,GOV,,0.89928057553956,202002,1,https://www.msn.com/en-us/news/world/netanyahu-takes-center-stage-in-israeli-election-battle/ar-BB10lXDy
+HEALTH MINIST,ISR,GOV,,0.89928057553956,202002,1,https://www.msn.com/en-us/news/world/netanyahu-takes-center-stage-in-israeli-election-battle/ar-BB10lXDy
+HEALTH MINIST,ITA,GOV,,0.824175824175819,202002,1,http://www.xinhuanet.com/english/2020-02/26/c_138818477.htm
+HEALTH MINIST,IRQ,GOV,MED,-3.10077519379845,202002,1,http://nna-leb.gov.lb/en/show-news/112806/Iraq-bans-entry-of-travellers-from-seven-countries-health-ministry
+ISRAEL,ISR,GOV,,-4.78971962616823,202002,1,https://www.timesofisrael.com/israel-said-planning-for-coronavirus-with-isolation-units-tourist-site-closures/
+WORLD HEALTH ORGANIZATION,JPN,GOV,,-0.78988941548183,202002,1,http://english.sina.com/world/as/2020-02-20/detail-iimxxstf3076396.shtml
+JAPAN,JPN,GOV,,-1.29032258064516,202002,1,https://www.channelstv.com/2020/02/22/coronavirus-japanese-minister-apologises-after-23-leave-ship-untested/
+MINIST FOR HEALTH,NGA,GOV,,1.26050420168067,202002,1,https://thenationonlineng.net/fg-releases-n386m-to-fight-coronavirus-2/
+HEALTH MINIST,PAK,GOV,,1.86799501867995,202002,1,https://dailytimes.com.pk/564486/buzdar-lays-foundation-of-600-bed-mother-child-hospital-at-sir-ganga-ram-hospital/
+WORLD HEALTH ORGANIZATION,PHL,GOV,,-4.43786982248521,202002,1,https://www.bworldonline.com/is-the-country-moving-in-the-right-direction/
+QATARI,SAU,GOV,,-0.625,202002,1,https://www.middleeasteye.net/news/arabic-press-review-saudi-rabbi-qatar-coronavirus
+WORLD HEALTH ORGANIZATION,ITA,GOV,,3.05927342256214,202002,1,https://reliefweb.int/report/world/eu-commits-232-million-global-efforts-tackle-covid-19-outbreak
+MINIST OF HEALTH,SDN,GOV,,-2.77227722772277,202002,1,https://www.middleeastmonitor.com/20200221-sudan-thousands-of-demonstrators-demand-restructuring-military-establishment/
+MILITARY,SYR,GOV,MED,-4.33053722755559,202002,4,https://www.fox5vegas.com/news/us_world_news/syria-military-hails-advance-against-rebels-in-record-time/article_4d68dec3-919d-55a0-a62c-59cf469ae7f7.html
+HEALTH MINIST,GBR,GOV,,-2.9126213592233,202002,1,https://www.southwalesargus.co.uk/news/18256430.another-rise-long-waits-treatment-gwent-patients/
+HEALTH MINIST,GBR,GOV,,-2.9126213592233,202002,1,https://www.southwalesargus.co.uk/news/18256430.another-rise-long-waits-treatment-gwent-patients/
+HEALTH OFFICIAL,GBR,GOV,,1.78571428571428,202002,1,https://www.glasgowtimes.co.uk/news/18256090.mock-drug-room-go-show-city/
+HEALTH MINIST,GBR,GOV,,-2.77777777777778,202002,1,http://www.wrexham.com/news/ambulance-response-times-across-wales-improve-however-ae-waiting-times-come-under-spotlight-again-181336.html
+HEALTH MINIST,GBR,GOV,,-2.77777777777778,202002,1,http://www.wrexham.com/news/ambulance-response-times-across-wales-improve-however-ae-waiting-times-come-under-spotlight-again-181336.html
+PFIZER,DNK,MNC,HLH,-2.14765100671141,202002,1,https://www.eurekalert.org/pub_releases/2020-02/tos-rpn022120.php
+PLANNED PARENTHOOD FEDERATION,USA,GOV,,-1.17105458731046,202002,3,https://www.thebostonpilot.com/article.asp?Source=Trending&ID=186961
+HEALTH OFFICIAL,AUS,GOV,,2.58064516129033,202002,1,https://www.miragenews.com/unis-work-to-support-students-as-travel-restrictions-extended/
+WORLD HEALTH ORGANIZATION,KHM,GOV,,-1.08177840124296,202002,2,https://www.theguardian.com/world/2020/feb/13/japan-reports-first-coronavirus-death-as-44-more-cases-confirmed-aboard-cruise-ship
+MINIST OF HEALTH,KHM,GOV,HLH,-2.02806501323324,202002,18,https://uk.reuters.com/article/uk-china-health-cambodia-cruisehip/cruise-firm-seeks-new-virus-test-for-passenger-from-ship-in-cambodia-idUKKBN20A009
+MINIST OF HEALTH,KHM,GOV,HLH,-2.07373271889401,202002,1,https://uk.finance.yahoo.com/news/cruise-firm-seeks-virus-test-001236278.html
+ZIMBABWE,CHN,GOV,,-2.65486725663717,202002,1,https://ewn.co.za/2020/02/17/quarantine-travellers-from-china-for-three-weeks-zim-former-health-minister
+WORLD HEALTH ORGANIZATION,CHN,GOV,,0.2439038899696,202002,1,https://www.prokerala.com/news/articles/a1008274.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,0.37593984962406,202002,1,http://www.xinhuanet.com/english/2020-02/16/c_138789289.htm
+WORLD HEALTH ORGANIZATION,CHN,GOV,,0.37593984962406,202002,1,http://www.xinhuanet.com/english/2020-02/16/c_138789289.htm
+WORLD HEALTH ORGANIZATION,CHN,GOV,,0.36363636363636,202002,1,http://www.china.org.cn/world/2020-02/17/content_75712439.htm
+WORLD HEALTH ORGANIZATION,CHN,GOV,,0.36363636363636,202002,1,http://www.china.org.cn/world/2020-02/17/content_75712439.htm
+MEDICAL OFFICIAL,JPN,GOV,,-2.29377372778061,202002,2,https://uk.reuters.com/article/uk-china-health-japan-cruiseship/u-s-flies-338-americans-home-from-cruise-ship-including-14-with-coronavirus-idUKKBN20B0UE
+MEDICAL OFFICIAL,JPN,GOV,,-2.50836120401338,202002,1,https://uk.reuters.com/article/uk-china-health-japan-cruiseship/u-s-flies-338-americans-home-from-cruise-ship-including-14-with-coronavirus-idUKKBN20B0UE
+MEDICAL OFFICIAL,JPN,GOV,,-2.51122239278999,202002,3,https://isp.netscape.com/news/story/0002/20200217/KBN20B0U9_6
+MEDICAL OFFICIAL,JPN,GOV,,-2.72572402044293,202002,1,https://thehimalayantimes.com/world/us-flies-338-americans-home-from-cruise-ship-including-14-with-coronavirus/
+MINIST FOR HEALTH,DNK,GOV,,-1.08103263686702,202002,1,https://www.irishtimes.com/news/politics/varadkar-says-sinn-f%C3%A9in-and-fianna-f%C3%A1il-should-form-coalition-1.4176758
+BRUSSELS,IRL,GOV,HLH,2.24719101123595,202002,1,https://www.imt.ie/news/emergency-european-health-ministers-meeting-discussed-covid-19-outbreak-13-02-2020/
+EUROPEAN,IRL,GOV,HLH,2.24719101123595,202002,1,https://www.imt.ie/news/emergency-european-health-ministers-meeting-discussed-covid-19-outbreak-13-02-2020/
+IRELAND,EUR,GOV,HLH,2.24719101123595,202002,1,https://www.imt.ie/news/emergency-european-health-ministers-meeting-discussed-covid-19-outbreak-13-02-2020/
+WORLD HEALTH ORGANIZATION,DEU,GOV,,-2.87836583101207,202002,1,https://www.chinausfocus.com/energy-environment/china-saluted-in-coronavirus-fight
+WORLD HEALTH ORGANIZATION,DEU,GOV,,-2.87836583101207,202002,1,https://www.chinausfocus.com/energy-environment/china-saluted-in-coronavirus-fight
+JAPANESE,ISR,GOV,,2.77777777777778,202002,1,http://www.israelnationalnews.com/News/Flash.aspx/488387
+MINIST OF HEALTH,JPN,GOV,,-0.93896713615024,202002,1,http://www.israelnationalnews.com/News/News.aspx/276043
+MINIST OF HEALTH,KOR,GOV,,5.07246376811594,202002,1,https://a1plus.am/en/article/360103
+ICRC,KWT,GOV,,-0.34013605442177,202002,1,https://news.kuwaittimes.net/website/krcs-shifts-attention-to-poor-back-home/
+MINIST OF HEALTH,KHM,GOV,HLH,-2.08980002540709,202002,9,https://www.capebretonpost.com/news/world/cruise-firm-seeks-new-virus-test-for-passenger-from-ship-in-cambodia-411758/
+MINIST OF HEALTH,KHM,GOV,HLH,-1.89979248596579,202002,2,https://uk.reuters.com/article/uk-china-health-cambodia-cruisehip/cruise-firm-seeks-new-virus-test-for-passenger-from-ship-in-cambodia-idUKKBN20A009
+MINIST OF HEALTH,KHM,GOV,HLH,-2.01098526045701,202002,8,https://www.reuters.com/article/us-china-health-cambodia-cruiseship-idUSKBN20A00B
+MINIST OF HEALTH,KHM,GOV,HLH,-2.07373271889401,202002,1,https://uk.finance.yahoo.com/news/cruise-firm-seeks-virus-test-001236278.html
+PETER COLEMAN,LBR,GOV,HLH,-2.60416666666667,202002,4,https://www.theage.com.au/business/companies/woodside-profit-falls-75-per-cent-on-canada-lng-hit-20200212-p540a2.html
+GLAXOSMITHKLINE,USA,MNC,HLH,1.31147540983606,202002,1,https://www.pennlive.com/news/2020/02/drug-maker-glaxosmithkline-schedules-closing-of-carlisle-manufacturing-facility.html
+PFIZER,GBR,MNC,HLH,1.31147540983606,202002,1,https://www.pennlive.com/news/2020/02/drug-maker-glaxosmithkline-schedules-closing-of-carlisle-manufacturing-facility.html
+WORLD HEALTH ORGANIZATION,USA,GOV,,-2.3121387283237,202002,1,https://112.international/politics/munich-security-conference-president-steinmeier-warns-of-destructive-dynamic-in-world-politics-48563.html
+WORLD HEALTH ORGANIZATION,USA,GOV,,-2.3121387283237,202002,1,https://112.international/politics/munich-security-conference-president-steinmeier-warns-of-destructive-dynamic-in-world-politics-48563.html
+HEALTH MINIST,IDN,GOV,,-1.52173913043478,202002,1,https://www.abc.net.au/news/2020-02-13/first-case-of-coronavirus-reportedly-linked-to-bali/11962910
+HEALTH MINIST,BEL,GOV,HLH,2.24719101123595,202002,1,https://www.imt.ie/news/emergency-european-health-ministers-meeting-discussed-covid-19-outbreak-13-02-2020/
+IRELAND,BEL,GOV,HLH,2.24719101123595,202002,1,https://www.imt.ie/news/emergency-european-health-ministers-meeting-discussed-covid-19-outbreak-13-02-2020/
+MINIST FOR HEALTH,BEL,GOV,HLH,-4.27320626065396,202002,3,https://www.todayfm.com/news/simon-harris-attend-meeting-european-health-ministers-discuss-coronavirus-966681
+MINIST FOR HEALTH,EUR,GOV,HLH,-4.27320626065396,202002,3,https://www.todayfm.com/news/simon-harris-attend-meeting-european-health-ministers-discuss-coronavirus-966681
+BELGIUM,BEL,GOV,HLH,-5.02092050209205,202002,2,https://www.breakingnews.ie/ireland/simon-harris-attends-emergency-meeting-in-europe-on-coronavirus-981504.html
+BRUSSELS,BEL,GOV,HLH,-5.02092050209205,202002,2,https://www.breakingnews.ie/ireland/simon-harris-attends-emergency-meeting-in-europe-on-coronavirus-981504.html
+BELGIUM,EUR,GOV,HLH,-5.02092050209205,202002,2,https://www.breakingnews.ie/ireland/simon-harris-attends-emergency-meeting-in-europe-on-coronavirus-981504.html
+EUROPEAN,BEL,GOV,HLH,-5.02092050209205,202002,2,https://www.breakingnews.ie/ireland/simon-harris-attends-emergency-meeting-in-europe-on-coronavirus-981504.html
+MINIST FOR HEALTH,BEL,GOV,HLH,-5.02092050209205,202002,2,https://www.breakingnews.ie/ireland/simon-harris-attends-emergency-meeting-in-europe-on-coronavirus-981504.html
+HEALTH MINIST,BEL,GOV,HLH,2.24719101123595,202002,1,https://www.imt.ie/news/emergency-european-health-ministers-meeting-discussed-covid-19-outbreak-13-02-2020/
+HEALTH MINIST,EUR,GOV,HLH,2.24719101123595,202002,1,https://www.imt.ie/news/emergency-european-health-ministers-meeting-discussed-covid-19-outbreak-13-02-2020/
+CANADIAN,JPN,GOV,,-1.94805194805195,202002,1,https://www.norfolktoday.ca/2020/02/14/myfm-talks-with-rose-yerex-a-port-dover-woman-quarantined-aboard-the-diamond-princess/
+MAM BUN HENG,KHM,GOV,HLH,1.85567010309278,202002,1,https://www.phnompenhpost.com/national/trump-tweets-praise-kingdom-docking-ship
+MAM BUN HENG,KHM,GOV,HLH,1.84237461617196,202002,1,https://www.thestar.com.my/news/regional/2020/02/17/trump-tweets-praise-for-cambodia-docking-cruise-ship
+WORLD HEALTH ORGANIZATION,KHM,GOV,,-2.44273401509602,202002,3,https://www.prokerala.com/news/articles/a1007283.html
+WORLD HEALTH ORGANIZATION,KHM,GOV,,2.1238183816717,202002,3,https://www.thestar.com.my/news/regional/2020/02/15/cambodia-applauded-for-accepting-westerdam-cruise-ship
+WORLD HEALTH ORGANIZATION,KHM,GOV,,1.97747602498417,202002,2,https://www.globaltimes.cn/content/1179671.shtml
+CHINA,CHN,GOV,,-4.16666666666666,202002,1,https://www.theaustralian.com.au/world/coronavirus-passengers-warned-after-bali-tourist-diagnosed/news-story/6a6d29b365e07321497bdbb7adb80475?nk=063869409c27a06e657bc8263af49cc9-1581596283
+BALI,CHN,GOV,,-4.16666666666666,202002,1,https://www.theaustralian.com.au/world/coronavirus-passengers-warned-after-bali-tourist-diagnosed/news-story/6a6d29b365e07321497bdbb7adb80475?nk=063869409c27a06e657bc8263af49cc9-1581596283
+CHINA,CHN,GOV,,-4.16666666666666,202002,1,https://www.theaustralian.com.au/world/coronavirus-passengers-warned-after-bali-tourist-diagnosed/news-story/6a6d29b365e07321497bdbb7adb80475?nk=260ebd1fa283a8a9ac3d197ddd4a1bb1-1581641305
+BALI,CHN,GOV,,-4.16666666666666,202002,1,https://www.theaustralian.com.au/world/coronavirus-passengers-warned-after-bali-tourist-diagnosed/news-story/6a6d29b365e07321497bdbb7adb80475?nk=260ebd1fa283a8a9ac3d197ddd4a1bb1-1581641305
+MINIST FOR HEALTH,BEL,GOV,HLH,-5.02092050209205,202002,2,https://www.breakingnews.ie/ireland/simon-harris-attends-emergency-meeting-in-europe-on-coronavirus-981504.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.09677419354838,202002,1,https://www.theepochtimes.com/who-officials-rush-to-figure-out-size-of-coronavirus-epidemic_3237317.html
+MINIST FOR HEALTH,BEL,GOV,HLH,-2.77777777777778,202002,1,https://www.todayfm.com/news/simon-harris-attend-meeting-european-health-ministers-discuss-coronavirus-966681
+HEALTH DEPARTMENT,CHN,GOV,,-2.23463687150838,202002,1,https://www.hindustantimes.com/noida/societies-provides-health-dept-with-list-of-chinese-residents/story-jMLUPGG6zN68rzDwzcKxbP.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-3.97111913357401,202002,1,http://www.hngn.com/articles/228063/20200217/coronavirus-updates-us-evacuates-americans-cruiseship-who-visits-wuhan.htm
+HEALTH MINIST,CHN,GOV,,4.0371733751735,202002,2,https://www.daily-sun.com/post/463136/Bangladesh-gives-medical-logistics-to-China-to-combat-coronavirus
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.24886191198786,202002,1,https://www.rfa.org/english/news/china/wuhan-coronavirus-02182020141229.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.21372988680937,202002,9,https://knpr.org/npr/2020-02/americans-evacuate-diamond-princess-cruise-ship-amid-spread-infection
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.12125505548905,202002,16,https://www.wxxinews.org/post/44-americans-diamond-princess-cruise-ship-diagnosed-coronavirus
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.13631739572736,202002,1,https://www.wshu.org/post/44-americans-diamond-princess-cruise-ship-diagnosed-coronavirus
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.14504596527068,202002,2,https://www.wypr.org/post/americans-evacuate-diamond-princess-cruise-ship-amid-spread-infection
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.14504596527068,202002,1,https://www.mainepublic.org/post/44-americans-diamond-princess-cruise-ship-diagnosed-coronavirus
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.02839756592292,202002,1,http://jamestown.org/program/how-the-wuhan-epidemic-has-dented-xi-jinpings-authority-and-prestige/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,1.15740740740741,202002,1,https://www.msn.com/en-in/news/other/trust-cooperation-between-china-germany-to-see-further-upgrade-after-epidemic-chinese-fm/ar-BB102AhR
+CHINA,CHN,GOV,,-4.16666666666666,202002,1,https://www.theaustralian.com.au/world/coronavirus-passengers-warned-after-bali-tourist-diagnosed/news-story/6a6d29b365e07321497bdbb7adb80475?nk=063869409c27a06e657bc8263af49cc9-1581596283
+CHINA,CHN,GOV,,-4.16666666666666,202002,1,https://www.theaustralian.com.au/world/coronavirus-passengers-warned-after-bali-tourist-diagnosed/news-story/6a6d29b365e07321497bdbb7adb80475?nk=063869409c27a06e657bc8263af49cc9-1581596283
+BALI,CHN,GOV,,-4.16666666666666,202002,1,https://www.theaustralian.com.au/world/coronavirus-passengers-warned-after-bali-tourist-diagnosed/news-story/6a6d29b365e07321497bdbb7adb80475?nk=063869409c27a06e657bc8263af49cc9-1581596283
+CHINA,CHN,GOV,,-4.16666666666666,202002,1,https://www.theaustralian.com.au/world/coronavirus-passengers-warned-after-bali-tourist-diagnosed/news-story/6a6d29b365e07321497bdbb7adb80475?nk=260ebd1fa283a8a9ac3d197ddd4a1bb1-1581641305
+CHINA,CHN,GOV,,-4.16666666666666,202002,1,https://www.theaustralian.com.au/world/coronavirus-passengers-warned-after-bali-tourist-diagnosed/news-story/6a6d29b365e07321497bdbb7adb80475?nk=260ebd1fa283a8a9ac3d197ddd4a1bb1-1581641305
+BALI,CHN,GOV,,-4.16666666666666,202002,1,https://www.theaustralian.com.au/world/coronavirus-passengers-warned-after-bali-tourist-diagnosed/news-story/6a6d29b365e07321497bdbb7adb80475?nk=260ebd1fa283a8a9ac3d197ddd4a1bb1-1581641305
+MINIST OF HEALTH,CHN,GOV,,0.4750593824228,202002,1,https://foroyaa.gm/gambia-china-committed-to-combat-coronavirus/
+MINIST OF HEALTH,CHN,GOV,,0.4750593824228,202002,1,https://foroyaa.gm/gambia-china-committed-to-combat-coronavirus/
+MINIST OF HEALTH,CHN,GOV,,0.4750593824228,202002,1,https://foroyaa.gm/gambia-china-committed-to-combat-coronavirus/
+MINIST OF HEALTH,CHN,GOV,,0.4750593824228,202002,1,https://foroyaa.gm/gambia-china-committed-to-combat-coronavirus/
+MINIST OF HEALTH,CHN,GOV,,0.4750593824228,202002,1,https://foroyaa.gm/gambia-china-committed-to-combat-coronavirus/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.47184773988898,202002,1,https://www.channel3000.com/i/china-cautiously-returns-to-work-as-wuhan-coronavirus-death-toll-tops-900-worldwide/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.47184773988898,202002,1,https://www.channel3000.com/i/china-cautiously-returns-to-work-as-wuhan-coronavirus-death-toll-tops-900-worldwide/
+MEDICAL OFFICIAL,JPN,GOV,,-3.41085271317829,202002,1,https://www.malaysiakini.com/news/511203
+MEDICAL OFFICIAL,JPN,GOV,,-3.41085271317829,202002,1,https://www.malaysiakini.com/news/511203
+MILITARY,EGY,GOV,,0.54347826086957,202001,1,https://www.middleeastmonitor.com/20200218-egypt-to-build-new-military-base-to-secure-suez-canal/
+HEALTH MINIST,FRA,GOV,,1.84049079754601,202002,1,http://www.rfi.fr/en/france/20200216-health-minister-run-mayor-paris-after-sex-tape-release-forces-griveaux-out
+HEALTH MINIST,FRA,GOV,,1.63043478260869,202002,1,https://www.modernghana.com/news/984899/health-minister-to-run-for-mayor-of-paris-after.html
+FRENCH,FRA,GOV,,-2.97142857142858,202002,1,https://www.devdiscourse.com/article/international/877339-world-news-roundup-french-health-minister-to-run-for-paris-mayor-rouhani-says-iran-will-never-yield-to-us-pressure-for-talk
+MINIST OF HEALTH,CHN,GOV,,0.4750593824228,202002,1,https://foroyaa.gm/gambia-china-committed-to-combat-coronavirus/
+WORLD HEALTH ORGANIZATION,DEU,GOV,,-1.52838427947598,202002,1,https://www.dw.com/en/munich-security-conference-german-foreign-minister-calls-for-european-defense-union-within-next-10-years/a-52375318
+WORLD HEALTH ORGANIZATION,DEU,GOV,,-1.52838427947598,202002,1,https://www.dw.com/en/munich-security-conference-german-foreign-minister-calls-for-european-defense-union-within-next-10-years/a-52375318
+WORLD HEALTH ORGANIZATION,DEU,GOV,,-1.40548762420244,202002,1,https://www.dw.com/en/munich-security-conference-steinmeier-warns-of-destructive-dynamic-in-world-politics/a-52375318
+WORLD HEALTH ORGANIZATION,DEU,GOV,,-1.40548762420244,202002,1,https://www.dw.com/en/munich-security-conference-steinmeier-warns-of-destructive-dynamic-in-world-politics/a-52375318
+SOCIAL WELFARE MINIST,IND,GOV,,-2.91666666666667,202002,2,http://www.kashmirtimes.in/newsdet.aspx?q=99253
+HEALTH OFFICIAL,IND,GOV,HLH,-3.40136054421768,202002,1,https://www.cityspidey.com/news/11381/corona-scare-17-with-history-of-travel-to-china-hospitalised-in-delhi
+WORLD HEALTH ORGANIZATION,IRN,GOV,HLH,2.86396181384248,202002,1,https://reliefweb.int/report/iraq/who-delivers-ambulances-strengthen-referral-pathways-kurdistan-region-iraq
+WORLD HEALTH ORGANIZATION,IRN,GOV,HLH,1.12155388471177,202002,1,http://humanitariannews.org/20200217/iraq-who-delivers-ambulances-strengthen-referral-pathways-kurdistan-region-iraq
+HEALTH OFFICIAL,JPN,GOV,,-3.4242803426355,202002,8,https://www.reuters.com/article/china-health-hawaii-idUSL1N2AF020
+HEALTH OFFICIAL,JPN,GOV,,-3.31035571298918,202002,2,https://finance.yahoo.com/news/japanese-man-diagnosed-coronavirus-visiting-034600448.html
+HEALTH OFFICIAL,JPN,GOV,,-2.51177394034537,202002,1,https://www.scmp.com/print/news/asia/east-asia/article/3050783/japanese-tourist-may-have-spread-coronavirus-hawaii-us-prepares
+MEDICAL OFFICIAL,JPN,GOV,,-2.29377372778061,202002,2,https://uk.reuters.com/article/uk-china-health-japan-cruiseship/u-s-flies-338-americans-home-from-cruise-ship-including-14-with-coronavirus-idUKKBN20B0UE
+MEDICAL OFFICIAL,JPN,GOV,,-2.79892576480203,202002,5,https://isp.netscape.com/news/story/0002/20200217/KBN20B0U9_6
+MEDICAL OFFICIAL,JPN,GOV,,-2.33533293856149,202002,2,https://www.reuters.com/article/us-china-health-japan-cruiseship-usa/u-s-flies-338-americans-home-from-cruise-ship-including-14-with-coronavirus-idUSKBN20B0U9
+MEDICAL OFFICIAL,JPN,GOV,,-2.62725779967159,202002,1,https://isp.netscape.com/news/story/0002/20200217/KBN20B0U9_6
+CANADA,JPN,GOV,,-1.94805194805195,202002,1,https://www.norfolktoday.ca/2020/02/14/myfm-talks-with-rose-yerex-a-port-dover-woman-quarantined-aboard-the-diamond-princess/
+CANADA,JPN,GOV,,-1.94805194805195,202002,1,https://www.norfolktoday.ca/2020/02/14/myfm-talks-with-rose-yerex-a-port-dover-woman-quarantined-aboard-the-diamond-princess/
+HEALTH MINIST,JPN,GOV,,-5.32544378698225,202002,1,https://www.kulr8.com/news/world/the-latest-eu-says-new-virus-poses-serious-danger/article_41518f3c-9f7c-5709-8e38-620a864124fa.html
+ISRAELI,JPN,GOV,,-2.60736196319018,202002,1,https://www.haaretz.com/israel-news/three-israelis-infected-with-coronavirus-evacuated-from-cruise-ship-1.8535307
+MEDICAL OFFICIAL,JPN,GOV,,-2.18068535825546,202002,1,https://uk.reuters.com/article/us-china-health-japan-cruiseship/u-s-flies-338-americans-home-from-cruise-ship-including-14-with-coronavirus-idUKKBN20B0U9
+MEDICAL OFFICIAL,JPN,GOV,,-2.18068535825546,202002,1,https://in.reuters.com/article/us-china-health-japan-cruiseship/u-s-flies-338-americans-home-from-cruise-ship-including-14-with-coronavirus-idINKBN20B0U9
+ICRC,LBY,GOV,,-4.52327887628571,202002,4,https://reliefweb.int/report/libya/libya-civilians-face-deep-suffering-long-conflict-fighting-forces-schools-health
+MINIST OF HEALTH,NGA,GOV,HLH,4.19354838709678,202002,1,http://bentelevision.com/coronavirus-ecowas-step-up-measures/
+MINIST OF HEALTH,NGA,GOV,HLH,4.19354838709678,202002,1,http://bentelevision.com/coronavirus-ecowas-step-up-measures/
+SINGAPORE,SGP,GOV,LAB,-1.34529147982062,202002,1,https://news.mb.com.ph/2020/02/16/singapore-has-now-72-cases-of-covid-19/
+MILITARY,SYR,GOV,MED,-5.21468749039425,202002,6,https://www.lmtonline.com/news/world/article/Syria-military-hails-advance-against-rebels-in-15061741.php
+MILITARY,SYR,GOV,MED,-4.33299505802578,202002,127,https://www.nhregister.com/news/world/article/Syria-military-hails-advance-against-rebels-in-15061741.php
+MILITARY,SYR,GOV,MED,-4.52276198328142,202002,27,https://www.sentinel-standard.com/zz/news/20200217/after-gains-in-northern-syria-assad-predicts-total-victory
+MINIST OF HEALTH,UKR,GOV,HLH,-1.88679245283019,202002,1,https://112.international/society/health-ministry-publishes-data-on-coronavirus-in-ukraine-48633.html
+MINIST OF HEALTH,UKR,GOV,HLH,-1.88679245283019,202002,1,https://112.international/society/health-ministry-publishes-data-on-coronavirus-in-ukraine-48633.html
+HEALTH OFFICIAL,JPN,GOV,,-3.08747855917667,202002,1,https://www.reuters.com/article/china-health-hawaii-idUSL1N2AF020
+HEALTH OFFICIAL,JPN,GOV,,-3.28151986183074,202002,1,https://finance.yahoo.com/news/japanese-man-diagnosed-coronavirus-visiting-034600448.html
+MEDICAL OFFICIAL,JPN,GOV,,-3.05010893246187,202002,1,http://www.ejinsight.com/20200218-us-flies-338-americans-home-from-cruise-ship/
+MEDICAL OFFICIAL,JPN,GOV,,-3.05010893246187,202002,1,http://www.ejinsight.com/20200218-us-flies-338-americans-home-from-cruise-ship/
+DAVID PARIRENYATWA,ZWE,GOV,HLH,-4.50011250281257,202002,2,https://www.herald.co.zw/just-in-parirenyatwa-must-explain-himself-court/
+GHULAM NABI AZAD,IND,GOV,BUS,0.210084033613446,202001,6,https://www.moneycontrol.com/news/politics/govt-holds-all-party-meeting-ahead-of-budget-session-4880861.html
+GHULAM NABI AZAD,IND,GOV,BUS,0.210084033613446,202001,6,https://www.moneycontrol.com/news/politics/govt-holds-all-party-meeting-ahead-of-budget-session-4880861.html
+MINIST OF PUBLIC HEALTH,AFG,GOV,,-2.28136882129278,202002,1,https://tolonews.com/afghanistan/health-ministry-ready-evacuate-43-afghans-wuhan-china
+HEALTH MINIST,MYS,GOV,HLH,-1.90072665803166,202001,2,https://www.msn.com/en-my/news/national/health-minister-registration-of-students-from-wuhan-suspended-temporarily/ar-BBZvTAg
+HEALTH MINIST,MYS,GOV,HLH,-2.21729490022173,202001,1,https://www.malaymail.com/news/malaysia/2020/01/31/health-minister-registration-of-students-from-wuhan-suspended-temporarily/1833363
+MINIST OF HEALTH,NGA,GOV,,-0.71174377224199,202001,1,https://www.vanguardngr.com/2020/01/fg-tells-nigerians-not-to-travel-to-china-in-new-travel-advisory/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.76190476190476,202001,1,http://www.ecns.cn/news/society/2020-01-30/detail-ifztewca0589312.shtml
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.76190476190476,202001,1,http://www.ecns.cn/news/society/2020-01-30/detail-ifztewca0589312.shtml
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.12698412698413,202001,1,https://www.imt.ie/news/source-novel-coronavirus-remains-unknown-deaths-rise-29-01-2020/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.12698412698413,202001,1,https://www.imt.ie/news/source-novel-coronavirus-remains-unknown-deaths-rise-29-01-2020/
+HEALTH OFFICIAL,IRL,GOV,HLH,-2.49053356282272,202001,1,https://www.belfasttelegraph.co.uk/news/uk/coronavirus-first-uk-cases-are-members-of-same-family-and-undergoing-treatment-in-newcastle-england-38913191.html
+HEALTH OFFICIAL,IRL,GOV,HLH,-2.49053356282272,202001,1,https://www.belfasttelegraph.co.uk/news/uk/coronavirus-first-uk-cases-are-members-of-same-family-and-undergoing-treatment-in-newcastle-england-38913191.html
+HEALTH MINIST,GHA,GOV,,0.72289156626506,202001,1,https://www.modernghana.com/news/981768/now-i-can-sleep-after-ambulance-promise-fulfilled-health.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.0066889632107,202001,1,https://www.politico.eu/article/coronavirus-who-declares-global-emergency/
+NAVAL,USA,GOV,,-2.61780104712041,202002,1,https://www.guampdn.com/story/news/local/2020/02/01/karimy-liwis-woman-santa-rita-car-accident-guam-naval-hospital/4631900002/
+HEALTH MINIST,GRC,GOV,,1.36054421768707,202002,2,https://greece.greekreporter.com/2020/02/02/greece-intensifies-preparations-for-potential-coronavirus-cases/
+GHULAM NABI AZAD,IND,GOV,BUS,-0.59701492537313,202001,1,https://zeenews.india.com/india/ready-to-discuss-all-issues-pm-narendra-modi-at-all-party-meeting-ahead-of-budget-session-2260106.html
+GHULAM NABI AZAD,IND,GOV,BUS,-0.28735632183908,202001,2,http://www.kashmirtimes.in/newsdet.aspx?q=98842
+JAMAICA,JAM,GOV,AGR,0.18148820326679,202001,1,http://www.caribbean360.com/news/caricom-countries-taking-preventive-measures-against-new-coronavirus
+JAMAICA,JAM,GOV,AGR,0.18148820326679,202001,1,http://www.caribbean360.com/news/caricom-countries-taking-preventive-measures-against-new-coronavirus
+JAMAICAN,JAM,GOV,AGR,3.03030303030303,202001,1,https://www.cnc3.co.tt/morning-brew/jamaican-health-minister-talks-about-coronavirus-health-scare
+JAMAICA,JAM,GOV,AGR,0.18148820326679,202001,1,http://www.caribbean360.com/news/caricom-countries-taking-preventive-measures-against-new-coronavirus
+JAMAICA,JAM,GOV,AGR,0.18148820326679,202001,1,http://www.caribbean360.com/news/caricom-countries-taking-preventive-measures-against-new-coronavirus
+MINIST OF PUBLIC HEALTH,CHN,GOV,,0.601202404809619,202001,1,http://nna-leb.gov.lb/en/show-news/111939/Minister-of-Health-meets-Chinese-Ambassador-confirms-no-Coronavirus-cases-among-Lebanese-in-China
+MINIST OF PUBLIC HEALTH,CHN,GOV,,0.601202404809619,202001,1,http://nna-leb.gov.lb/en/show-news/111939/Minister-of-Health-meets-Chinese-Ambassador-confirms-no-Coronavirus-cases-among-Lebanese-in-China
+DOCTORS WITHOUT BORDERS,NGA,GOV,,-4.43349753694582,202002,1,https://learningenglish.voanews.com/a/million-nigerians-beyond-humanitarian-access/5265816.html
+DOCTORS WITHOUT BORDERS,NGA,GOV,,-4.43349753694582,202002,1,https://learningenglish.voanews.com/a/million-nigerians-beyond-humanitarian-access/5265816.html
+JAMAICA,JAM,GOV,AGR,-2.32896652110626,202002,1,https://www.thestkittsnevisobserver.com/coronavirus-caribbean-nations-begining-to-ban-chinese-travel/
+INTRAHEALTH INTERNATIONAL,USA,GOV,DEV,10.8695652173913,202001,1,https://www.newvision.co.ug/new_vision/news/1514269/notice-intrahealth-international
+WORLD HEALTH ORGANIZATION,GBR,GOV,,-5.9915164369035,202001,1,https://www.dw.com/en/how-africa-is-preparing-for-the-coronavirus/a-52190336
+WORLD HEALTH ORGANIZATION,GBR,GOV,,-3.4134007585335,202001,1,https://allafrica.com/stories/202001300004.html
+MINIST OF HEALTH,ARE,GOV,,3.76085034952555,202002,2,http://www.gdnonline.com/Details/759979
+MINIST OF HEALTH,ARE,GOV,,3.76085034952555,202002,2,http://www.gdnonline.com/Details/759979
+NASA,USA,GOV,,1.80094786729858,202001,1,http://www.spacedaily.com/reports/From_Antarctica_to_space_telemedicine_at_the_limit_999.html
+FRANCE,FRA,GOV,,-0.49261083743842,202002,1,https://www.brusselstimes.com/all-news/belgium-all-news/health/93173/second-plane-of-wuhan-repatriates-lands-at-istres-with-belgians-on-board/
+HEALTH MINIST,USA,NGO,HLH,5.09259259259259,202001,1,http://www.tribune242.com/news/2020/jan/30/sands-signs-deal-us-foundation-aid-dorian-recovery/
+BULGARIA,BGR,GOV,,1.77514792899409,202001,1,https://sofiaglobe.com/2020/01/31/coronavirus-three-bulgarians-being-evacuated-from-wuhan-to-arrive-in-sofia-on-february-1/
+HEALTH MINIST,BGR,GOV,,1.77514792899409,202001,1,https://sofiaglobe.com/2020/01/31/coronavirus-three-bulgarians-being-evacuated-from-wuhan-to-arrive-in-sofia-on-february-1/
+WORLD HEALTH ORGANIZATION,CAN,GOV,HLH,-0.26178010471205,202001,1,https://www.kisstimmins.com/2020/01/31/no-coronavirus-cases-in-the-north-but-the-health-unit-says-it-could-happen-at-some-point/
+WORLD HEALTH ORGANIZATION,CAN,GOV,HLH,-1.25,202001,1,https://www.ctvnews.ca/health/a-parent-s-guide-to-addressing-children-s-anxieties-about-the-coronavirus-1.4788407
+MINIST OF HEALTH,CHN,GOV,,-0.76530612244898,202001,1,https://www.who.int/dg/speeches/detail/press-briefing-on-who-mission-to-china-and-novel-coronavirus-outbreak
+MINIST OF HEALTH,CHN,GOV,,0,202001,1,https://www.manilatimes.net/2020/02/01/news/top-stories/xi-assures-of-chinas-efforts-to-stop-virus/678770/
+WORLD HEALTH ORGANIZATION,JPN,GOV,,-6.25978090766823,202002,1,https://english.kyodonews.net/news/2020/02/df56a418be74-japan-takes-new-steps-targeting-foreigners-amid-coronavirus-outbreak.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.08396605663323,202001,3,https://time.com/5773396/u-s-response-to-coronavirus-grows-but-no-emergency-declaration-yet/
+HEALTH OFFICIAL,CHN,GOV,,-4.50424823247775,202001,5,https://www.voanews.com/science-health/coronavirus-outbreak/outbreak-death-toll-rises-132-chinas-xi-vows-defeat-devil
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-3.14696689831607,202001,9,https://ewn.co.za/2020/01/29/foreigners-flown-out-of-china-virus-epicentre-death-toll-hits-132
+WORLD HEALTH ORGANIZATION,CHN,GOV,,1.54272769879706,202001,2,http://www.womenofchina.cn/womenofchina/html1/news/Highlight/20013/9090-1.htm
+HEALTH OFFICIAL,CHN,GOV,,-1.96078431372549,202001,1,https://www.cairnspost.com.au/tests-confirm-source-of-deadly-coronavirus-outbreak-in-wuhan/news-story/381c166d5abb699e12712a3a28c6b593?nk=71fbca12ce733ca87b4a1f68d189e2a5-1580279529
+GERMAN,DEU,GOV,,-3.85964912280702,202001,1,https://www.reuters.com/article/us-china-health-germany/german-minister-four-workers-infected-with-coronavirus-showing-mild-symptoms-idUSKBN1ZS10V
+MINIST OF PUBLIC HEALTH,CHN,GOV,,0.601202404809619,202001,1,http://nna-leb.gov.lb/en/show-news/111939/Minister-of-Health-meets-Chinese-Ambassador-confirms-no-Coronavirus-cases-among-Lebanese-in-China
+WORLD HEALTH ORGANIZATION,GBR,GOV,,-5.9915164369035,202001,1,https://www.dw.com/en/how-africa-is-preparing-for-the-coronavirus/a-52190336
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-0.77639751552795,202001,1,https://www.peoplesworld.org/article/chinas-coronavirus-response-shows-whats-possible-when-people-come-before-profits/
+WORLD HEALTH ORGANIZATION,CAN,GOV,HLH,-1.25,202001,1,https://www.ctvnews.ca/health/a-parent-s-guide-to-addressing-children-s-anxieties-about-the-coronavirus-1.4788407
+HEALTH OFFICIAL,CHN,GOV,,-1.96078431372549,202001,1,https://www.cairnspost.com.au/tests-confirm-source-of-deadly-coronavirus-outbreak-in-wuhan/news-story/381c166d5abb699e12712a3a28c6b593?nk=b9c0ff4d2af85b6c9f3e1422ac7acb5f-1580392168
+CHINESE,CHN,GOV,,-2.63157894736842,202001,1,https://www.theguardian.com/world/2020/jan/30/wilbur-ross-coronavirus-outbreak-comment
+HEALTH OFFICIAL,CHN,GOV,,-1.96078431372549,202001,1,https://www.ntnews.com.au/news/tests-confirm-source-of-deadly-coronavirus-outbreak-in-wuhan/news-story/381c166d5abb699e12712a3a28c6b593?nk=fd9c1aceb80042cafd9524a25071e1a1-1580438885
+HEALTH MINIST,MYS,GOV,HLH,-1.58415841584158,202001,1,https://www.msn.com/en-my/news/national/health-minister-registration-of-students-from-wuhan-suspended-temporarily/ar-BBZvTAg
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.66272189349113,202002,1,https://www.euronews.com/2020/02/02/italian-scientists-isolate-dna-sequence-of-coronavirus
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.18234165067179,202002,1,https://asia.nikkei.com/Spotlight/Coronavirus-outbreak/China-faces-more-travel-curbs-as-coronavirus-spreads
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.90456431535269,202001,1,http://www.ecns.cn/news/2020-01-29/detail-ifzsyram6093690.shtml
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.23680510571299,202001,50,https://ca.news.yahoo.com/chinas-hubei-province-center-virus-224943565.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-3.40340236166095,202001,20,https://www.hindustantimes.com/india-news/death-toll-reaches-131-in-china-s-virus-epicentre-840-new-cases-seen-official/story-2A2TYA08E8m8fhkJMU4UMO.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,1.5710402896007,202001,5,http://www.china.org.cn/china/2020-01/29/content_75655829.htm
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.20625100405479,202001,2,https://www.voanews.com/science-health/coronavirus-outbreak/us-japan-evacuate-citizens-china-coronavirus-outbreak-toll
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.90456431535269,202001,1,http://www.ecns.cn/news/2020-01-29/detail-ifzsyram6093690.shtml
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.79704797047971,202001,1,http://english.chosun.com/site/data/html_dir/2020/01/30/2020013000524.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,1.53748681704419,202001,2,https://www.globaltimes.cn/content/1177974.shtml
+WORLD HEALTH ORGANIZATION,CHN,GOV,,0.105310034170887,202001,3,https://www.globaltimes.cn/content/1177974.shtml
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.75904353157572,202001,1,https://fpmag.net/fpmag/january-2020/who-meets-xi-jinping-then-calls-emergency-meet-for-today-on-new-global-info/amp/
+GERMAN,DEU,GOV,,0,202001,1,https://www.reuters.com/article/us-china-health-germany/german-minister-expect-to-agree-coronavirus-evacuation-soon-idUSKBN1ZS1I5
+HEALTH DEPARTMENT,CHN,GOV,,-2.14132762312634,202001,1,https://newsinfo.inquirer.net/1222313/stop-hate-campaign-vs-chinese-people-romualdez-says
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.90353697749197,202001,1,https://www.theguardian.com/business/2020/feb/01/fears-global-economic-slowdown-coronavirus-follows-trade-war
+WORLD HEALTH ORGANIZATION,GBR,GOV,,-5.9915164369035,202001,1,https://www.dw.com/en/how-africa-is-preparing-for-the-coronavirus/a-52190336
+WORLD HEALTH ORGANIZATION,GBR,GOV,,-3.4134007585335,202001,1,https://allafrica.com/stories/202001300004.html
+WORLD HEALTH ORGANIZATION,GBR,GOV,,-3.4134007585335,202001,1,https://allafrica.com/stories/202001300004.html
+GERMAN,DEU,GOV,,-1.70426065162907,202001,2,https://www.reuters.com/article/us-china-health-germany/german-minister-four-workers-infected-with-coronavirus-showing-mild-symptoms-idUSKBN1ZS10V
+GERMAN,DEU,GOV,,-4.21052631578948,202001,1,https://www.oann.com/german-minister-four-workers-infected-with-coronavirus-showing-mild-symptoms/
+GERMAN,DEU,GOV,,4.10879543016788,202002,1,https://www.reuters.com/article/us-china-health-germany-g7-idUSKBN1ZW0RI
+GERMAN,DEU,GOV,,4.10879543016788,202002,1,https://www.reuters.com/article/us-china-health-germany-g7-idUSKBN1ZW0RI
+GERMANY,DEU,GOV,,4.21686746987952,202002,1,https://www.reuters.com/article/us-china-health-germany-g7-idUSKBN1ZW0RI
+DOCTORS WITHOUT BORDERS,GRC,GOV,,-9.0483619344774,202001,1,https://www.msf.ie/article/greece-denies-healthcare-severely-sick-refugee-children-lesbos
+GHULAM NABI AZAD,IND,GOV,BUS,0.90909090909091,202001,1,https://www.timesnownews.com/india/article/narendra-modi-govt-holds-all-party-meeting-ahead-of-budget-session/547025
+GHULAM NABI AZAD,IND,GOV,BUS,0.90909090909091,202001,1,https://www.timesnownews.com/india/article/narendra-modi-govt-holds-all-party-meeting-ahead-of-budget-session/547025
+GHULAM NABI AZAD,IND,GOV,BUS,-1.05962684294957,202001,3,https://zeenews.india.com/economy/budget-session-of-parliament-commences-today-fm-nirmala-sitharaman-to-table-economic-survey-2019-20-2260177.html
+GHULAM NABI AZAD,IND,GOV,BUS,-1.05962684294957,202001,3,https://zeenews.india.com/economy/budget-session-of-parliament-commences-today-fm-nirmala-sitharaman-to-table-economic-survey-2019-20-2260177.html
+HEALTH DEPARTMENT,IND,GOV,HLH,-3.53260869565218,202002,1,https://www.ndtv.com/india-news/coronavirus-second-case-of-coronavirus-reported-in-kerala-patient-in-isolation-at-hospital-says-gove-2173466
+WORLD HEALTH ORGANIZATION,JPN,GOV,,-6.25978090766823,202002,1,https://english.kyodonews.net/news/2020/02/df56a418be74-japan-takes-new-steps-targeting-foreigners-amid-coronavirus-outbreak.html
+WORLD HEALTH ORGANIZATION,JPN,GOV,,-6.61157024793388,202002,1,https://japantoday.com/category/national/Japan-bars-entry-of-foreign-travelers-from-China
+HEALTH MINIST,JAM,GOV,AGR,-1.26050420168067,202001,1,http://jamaica-gleaner.com/article/lead-stories/20200128/health-ministrys-handheld-temperature-machine-stolen-airport
+HEALTH MINIST,MYS,GOV,HLH,-1.58415841584158,202001,1,https://www.msn.com/en-my/news/national/health-minister-registration-of-students-from-wuhan-suspended-temporarily/ar-BBZvTAg
+HEALTH MINIST,MYS,GOV,HLH,-1.58415841584158,202001,1,https://www.msn.com/en-my/news/national/health-minister-registration-of-students-from-wuhan-suspended-temporarily/ar-BBZvTAg
+MINIST OF HEALTH,NGA,GOV,,-0.95602294455067,202001,1,https://www.withinnigeria.com/2020/01/30/fg-tells-nigerians-not-to-travel-to-china-in-new-travel-advisory/
+MINIST OF HEALTH,NGA,GOV,,-0.83388335839633,202001,2,https://www.vanguardngr.com/2020/01/fg-tells-nigerians-not-to-travel-to-china-in-new-travel-advisory/
+MINIST OF HEALTH,NGA,GOV,,-1.42208553509442,202001,3,https://www.vanguardngr.com/2020/01/coronavirus-nido-coordinator-urges-nigerians-to-heed-fg-chinese-authorities-advice/
+HEALTH MINIST,PAK,GOV,,-1.5625,202001,1,https://www.thenews.com.pk/latest/605970-four-pakistani-students-diagnosed-with-coronavirus-dr-zafar-mirza
+MINIST OF HEALTH,CHN,GOV,,0,202001,1,https://www.manilatimes.net/2020/02/01/news/top-stories/xi-assures-of-chinas-efforts-to-stop-virus/678770/
+MINIST OF HEALTH,AFR,GOV,,-3.52035629568669,202002,2,https://www.iol.co.za/weekend-argus/news/no-need-to-evacuate-citizens-from-china-as-coronavirus-puts-sa-on-high-alert-41943106
+MINIST OF HEALTH,ZAF,GOV,,-3.52035629568669,202002,2,https://www.iol.co.za/weekend-argus/news/no-need-to-evacuate-citizens-from-china-as-coronavirus-puts-sa-on-high-alert-41943106
+ASTRAZENECA,USA,MNC,HLH,0.37105751391465,202001,1,https://www.medscape.com/viewarticle/924496
+ELI LILLY,GBR,MNC,HLH,0.37105751391465,202001,1,https://www.medscape.com/viewarticle/924496
+ASTRAZENECA,USA,MNC,HLH,0.37105751391465,202001,1,https://www.medscape.com/viewarticle/924496
+ELI LILLY,GBR,MNC,HLH,0.37105751391465,202001,1,https://www.medscape.com/viewarticle/924496
+WORLD HEALTH ORGANIZATION,USA,GOV,,-5.61282932416953,202001,1,https://www.delawareonline.com/story/news/world/2020/01/21/china-coronavirus-outbreak-symptoms-transmission-cdc-sars/4528555002/
+HEALTH DEPARTMENT,USA,GOV,,-3.99920255183412,202002,2,https://www.kens5.com/article/news/community/lackland-afb-designated-one-of-four-potential-quarantine-sites-in-us-amid-coronavirus-outbreak/273-5f50aabe-3781-4c52-bade-d3c9c9673997
+HEALTH DEPARTMENT,USA,GOV,,-2.82186948853615,202002,3,https://www.kiiitv.com/article/news/community/lackland-afb-designated-one-of-four-potential-quarantine-sites-in-us-amid-coronavirus-outbreak/503-5f50aabe-3781-4c52-bade-d3c9c9673997
+MEDICAL OFFICIAL,YEM,GOV,,-3.69318181818182,202001,1,http://www.china.org.cn/world/Off_the_Wire/2020-01/31/content_75660044.htm
+RED CROSS,GRD,GOV,MED,0,202001,1,https://www.weny.com/story/41587314/winters-chill-on-the-elders
+HEALTH MINIST,GBR,GOV,,1.41287284144427,202001,1,https://www.walesonline.co.uk/news/health/ambulance-station-pontprennau-cardiff-gething-17603222
+DONVILLE INNISS,BRB,GOV,,-5.62770562770563,202001,1,http://www.timescaribbeanonline.com/former-barbados-govt-minister-convicted-in-ny/
+HEALTH MINIST,IRL,GOV,HLH,-0.0933706816059701,202001,1,https://www.lifesitenews.com/news/canadian-hospice-tells-govt-itll-forgo-750k-in-public-funds-rather-than-kill-sick-patients
+NOVARTIS,USA,MNC,HLH,3.88888888888889,202001,1,https://www.europeanpharmaceuticalreview.com/article/111051/the-biggest-pharmaceutical-industry-ma-deals-of-2019/
+MINIST OF HEALTH,MDV,GOV,,5.38922155688623,202001,1,https://www.newdelhitimes.com/india-provides-maldives-with-30000-doses-of-measles-and-rubella-mr-vaccine/
+MINIST OF HEALTH,MDV,GOV,,4.79704797047971,202001,1,http://idrw.org/india-delivers-30000-doses-of-vaccines-to-maldives-after-measles-outbreak/
+MINIST OF HEALTH,MDV,GOV,,4.79704797047971,202001,1,http://idrw.org/india-delivers-30000-doses-of-vaccines-to-maldives-after-measles-outbreak/
+MINIST OF HEALTH,MDV,GOV,,5.0994498518832,202001,2,https://reliefweb.int/report/maldives/maldives-requests-urgent-supply-measles-vaccines-india-responds-quickly
+HEALTH MINIST,CHN,GOV,,1.45348837209302,202001,1,https://propakistani.pk/2020/01/23/pakistan-health-ministry-sets-up-emergency-cells-after-coronavirus-outbreak/
+HEALTH MINIST,CHN,GOV,,1.45348837209302,202001,1,https://propakistani.pk/2020/01/23/pakistan-health-ministry-sets-up-emergency-cells-after-coronavirus-outbreak/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.9190031152648,202001,1,https://www.bworldonline.com/senators-seek-state-response-to-coronavirus/
+MALAYSIA,SGP,GOV,HLH,2.15633423180593,202001,1,https://www.channelnewsasia.com/news/asia/wuhan-virus-8-chinese-nationals-singapore-johor-bahru-malaysia-12325404
+MINIST OF HEALTH,TTO,GOV,,0,202001,1,http://www.news.gov.tt/content/minister-health-visits-airport-observe-infectious-disease-protocols
+DOCTORS WITHOUT BORDERS,SSD,GOV,HLH,-0.90497737556561,202001,1,https://radiotamazuj.org/en/news/article/msf-hands-over-incinerator-to-health-ministry-in-juba
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.9190031152648,202001,1,https://www.bworldonline.com/senators-seek-state-response-to-coronavirus/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.9190031152648,202001,1,https://www.bworldonline.com/senators-seek-state-response-to-coronavirus/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-3.78912685337726,202001,1,https://www.globalsecurity.org/security/library/news/2020/01/sec-200122-rferl03.htm
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.19580419580419,202001,1,https://www.rferl.org/a/who-hails-china-virus-fight-may-declare-global-emergency/30392358.html
+SAUDI ARABIA,SAU,GOV,,-3.53697749196142,202001,1,https://www.msn.com/en-in/news/other/china-coronavirus-indian-nurse-in-saudi-arabia-doesnt-have-wuhan-virus-government-clarifies/ar-BBZhlLb
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.58715596330275,202001,1,https://www.bworldonline.com/cebu-pacific-hong-kong-flight-told-to-see-doctor/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.58715596330275,202001,1,https://www.bworldonline.com/cebu-pacific-hong-kong-flight-told-to-see-doctor/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.22498274672187,202001,2,http://english.ahram.org.eg/NewsContent/2/9/359952/World/International/What-we-know-so-far-about-the-new-China-virus.aspx
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.41852521599357,202001,2,https://www.sciencealert.com/here-s-what-scientists-know-so-far-about-the-novel-coronavirus-from-china
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.67593880389429,202001,2,https://www.azcentral.com/story/news/nation/2020/01/23/coronavirus-wuhan-china-quarantine-vaccine/4551112002/
+HEALTH OFFICIAL,CHN,GOV,,-6.71378091872791,202001,1,https://www.politico.com/news/2020/01/24/coronavirus-united-states-103580
+CHINESE,CHN,GOV,,-5.31914893617021,202001,1,https://www.straitstimes.com/asia/east-asia/wuhan-virus-china-says-new-virus-adapting-and-mutating
+HEALTH MINIST,CHN,GOV,,3.98230088495575,202001,1,https://akipress.com/news:633380:Health_Minister_meets_Chinese_Ambassador_over_coronavirus_issue/
+RED CROSS,CMR,GOV,,-7.31707317073171,202001,1,https://www.dw.com/en/us-accuses-cameroon-of-targeted-killings-against-english-speaking-separatists/a-43845621
+MILITARY,EGY,GOV,,-7.52688172043011,202001,13,https://www.sfgate.com/news/world/article/Son-Former-Egyptian-president-Mubarak-undergoes-15000878.php
+MILITARY,EGY,GOV,,-3.26704545454545,202001,1,https://www.thenational.ae/world/mena/egypt-s-el-sisi-offers-upbeat-memory-of-2011-revolution-on-anniversary-1.969420
+DOCTORS WITHOUT BORDERS,GRC,GOV,,-8.90538033395174,202001,1,https://reliefweb.int/report/greece/greece-denies-healthcare-severely-ill-refugee-children-lesvos
+HEALTH MINIST,IND,GOV,,-0.26846846846847,202001,2,http://www.canindia.com/novel-coronavirus-reaches-indo-nepal-border/
+HEALTH DEPARTMENT,IND,GOV,,-0.0580720092915299,202001,1,https://www.firstpost.com/politics/delhi-assembly-election-2020-aap-bike-ambulance-scheme-finds-many-takers-from-poorer-constituencies-in-delhi-but-hardly-makes-a-dent-in-core-bjp-votebank-7927291.html
+MALDIVIAN,MDV,GOV,HLH,1.04529616724739,202001,1,https://www.wionews.com/india-news/after-emergency-request-india-sends-30-thousand-measles-vaccine-to-maldives-within-72-hours-276189
+HEALTH MINIST,CHN,GOV,,-4.94117647058824,202001,1,https://www.hindustantimes.com/world-news/human-transmission-confirmed-arrivals-from-china-under-lens/story-5iytAQ8uCXeFtj3DXe8clK.html
+MINIST OF HEALTH,KGZ,GOV,HLH,1.00671140939597,202001,1,https://akipress.com/news:633380:China_coronavirus__No_visa_restrictions_imposed_on_foreigners_in_China/
+MALAYSIA,SGP,GOV,HLH,2.15633423180593,202001,1,https://www.channelnewsasia.com/news/asia/wuhan-virus-8-chinese-nationals-singapore-johor-bahru-malaysia-12325404
+CBM INTERNATIONAL,NGA,GOV,,3.06406685236769,202001,1,http://venturesafrica.com/yale-university-announces-african-partnerships-and-projects-in-a-recent-press-briefing/
+MINIST OF HEALTH,NGA,GOV,,-2.46113840263844,202001,2,https://tribuneonlineng.com/lassa-fever-29-deaths-195-confirmed-cases-reported-in-11-states-%E2%80%95-ncdc/
+MINIST OF HEALTH,NZL,GOV,,0.92807424593967,202001,1,https://www.stuff.co.nz/national/health/119012457/pacific-islanders-under-rse-scheme-now-eligible-for-mmr-vaccine
+FIRDOUS ASHIQ AWAN,PAK,GOV,,-1.71133599352617,202001,5,http://dunyanews.tv/en/Pakistan/529455-Govt-rejects-Transparency-International-report-corruption-
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-3.78912685337726,202001,1,https://www.globalsecurity.org/security/library/news/2020/01/sec-200122-rferl03.htm
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.19580419580419,202001,1,https://www.rferl.org/a/who-hails-china-virus-fight-may-declare-global-emergency/30392358.html
+HOSPITAL,AUS,GOV,HLH,-2.67584291470313,202001,11,https://www.gattonstar.com.au/news/lnps-dairy-petition-exposes-double-standard/3927363/
+MINIST OF HEALTH,TTO,GOV,,0,202001,1,http://www.news.gov.tt/content/minister-health-visits-airport-observe-infectious-disease-protocols
+MINIST OF HEALTH,TTO,GOV,,0,202001,1,http://www.news.gov.tt/content/minister-health-visits-airport-observe-infectious-disease-protocols
+MINIST OF HEALTH,USA,GOV,,7.11610486891386,202001,1,https://www.pmldaily.com/news/2020/01/minister-aceng-hails-us-govt-for-supporting-ugandas-health-sector.html
+GLAXOSMITHKLINE,MAR,GOV,EDU,4.71200185356812,202001,4,https://www.gov.uk/government/speeches/minister-hails-uk-morocco-future
+GLAXOSMITHKLINE,MAR,GOV,EDU,4.68594217347956,202001,1,https://allafrica.com/stories/202001230217.html
+SCHOOL,USA,GOV,EDU,-4.92424242424243,202001,1,https://www.channel3000.com/i/should-they-stay-or-should-they-go-kids-with-flu-pose-parental-puzzle/
+HEALTH OFFICIAL,USA,GOV,HLH,-4.55659605405381,202001,5,https://www.nbcphiladelphia.com/tag/opioid-crisis/
+WORLD HEALTH ORGANIZATION,USA,GOV,,-5.92503022974607,202001,4,https://www.naplesnews.com/story/news/world/2020/01/21/china-coronavirus-outbreak-symptoms-transmission-cdc-sars/4528555002/
+WORLD HEALTH ORGANIZATION,USA,GOV,,-5.21945432977461,202001,1,https://www.delawareonline.com/story/news/health/2020/01/23/coronavirus-outbreak-airport-screenings-new-york-cdc/4551880002/
+NOVARTIS,VNM,GOV,HLH,4.04040404040404,202001,1,https://www.vir.com.vn/novartis-announces-new-legal-entity-to-expand-in-vietnam-73378.html
+VIETNAM,CHE,MNC,HLH,4.04040404040404,202001,1,https://www.vir.com.vn/novartis-announces-new-legal-entity-to-expand-in-vietnam-73378.html
+HEALTH MINIST,CAN,GOV,HLH,-1.4308426073132,202001,1,https://www.therecord.com/opinion-story/9805103-it-s-time-to-make-canadian-health-care-sustainable/
+HEALTH MINIST,ISR,GOV,,2.47933884297521,202001,1,https://www.jpost.com/HEALTH-SCIENCE/Hadassah-Hospital-announces-plans-to-open-branch-in-Beit-Shemesh-614033
+MINIST OF HEALTH,NGA,GOV,,1.82186234817813,202001,1,https://guardian.ng/features/ehanire-promises-to-prioritise-ncdc-development-as-important-asset-for-nigeria/
+MINIST FOR HEALTH,NGA,GOV,,2.20292083817175,202001,2,https://www.vanguardngr.com/2020/01/public-health-is-priority-for-fg-ehanire/
+HEALTH DEPARTMENT,USA,GOV,,-3.10304449648712,202001,1,https://buffalonews.com/2020/01/13/nursing-home-cited-after-maggots-found-on-89-year-old-womans-wound/
+HEALTH DEPARTMENT,USA,GOV,,-3.10304449648712,202001,1,https://buffalonews.com/2020/01/13/nursing-home-cited-after-maggots-found-on-89-year-old-womans-wound/
+YITZHAK HERZOG,GRC,GOV,,0,202001,1,http://www.israelnationalnews.com/News/Flash.aspx/484583
+ICRC,VEN,GOV,,-0.25706940874036,202001,1,https://www.plenglish.com/index.php?o=rn&id=50890&SEO=venezuela-and-the-red-cross-monitor-protection-for-blockade-victims
+INTERNATIONAL FEDERATION OF RED CROSS AND RED CRESCENT,GMB,GOV,,4.03458213256484,202001,1,https://www.freedomnewspaper.com/2020/01/14/red-cross-presents-new-ambulance-services-to-president-barrow/
+ICRC,USA,GOV,,-3.8422649140546,202001,1,https://www.trtworld.com/magazine/kashmiris-suffer-further-as-icrc-stops-humanitarian-work-32965
+ICRC,VEN,GOV,,-0.25380710659899,202001,1,https://www.plenglish.com/index.php?o=rn&id=50969&SEO=venezuela-and-the-red-cross-monitor-protection-for-blockade-victims
+INTERNATIONAL FEDERATION OF RED CROSS AND RED CRESCENT,GMB,GOV,,4.09356725146199,202001,1,http://thepoint.gm/africa/gambia/article/red-cross-presents-new-ambulance-services-to-president-barrow
+GERMAN,DEU,GOV,,-1.66087443380713,202001,16,https://www.lmtonline.com/news/medical/article/German-parliament-to-decide-on-new-rules-for-14979683.php
+OPERATION SMILE,USA,NGO,HLH,4.54545454545454,202001,1,https://news.illinoisstate.edu/2020/01/operation-smile-at-isu-interdisciplinary-group-for-future-professionals/
+HEALTH OFFICIAL,USA,GOV,HLH,-2.7906976744186,202001,1,https://www.nbcdfw.com/tag/opioid-crisis/
+WORLD HEALTH ORGANIZATION,YEM,GOV,,1.44675925925926,202001,1,https://reliefweb.int/report/yemen/briefing-special-envoy-united-nations-secretary-general-yemen-open-session-un-0
+WORLD HEALTH ORGANIZATION,YEM,GOV,,1.44675925925926,202001,1,https://reliefweb.int/report/yemen/briefing-special-envoy-united-nations-secretary-general-yemen-open-session-un-0
+WORLD HEALTH ORGANIZATION,YEM,GOV,,-0.788084521890745,202001,2,http://www.xinhuanet.com/english/2020-01/17/c_138711129.htm
+DONVILLE INNISS,BRB,GOV,,-5.75221238938053,202001,1,https://www.caribbeanlifenews.com/stories/2020/1/barbadian-donville-inniss-guilty-2020-01-24-ga-cl.html
+PFIZER,USA,MNC,HLH,-1.4324693042292,202001,1,https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0227914
+WORLD HEALTH ORGANIZATION,LKA,GOV,,-11.049723756906,202001,1,https://www.newsfirst.lk/2020/01/17/mystery-china-virus-who-informs-sl-to-be-cautious/
+WORLD HEALTH ORGANIZATION,LKA,GOV,,-11.049723756906,202001,1,https://www.newsfirst.lk/2020/01/17/mystery-china-virus-who-informs-sl-to-be-cautious/
+JAPAN,CHN,GOV,,-0.72463768115942,202001,1,https://asia.nikkei.com/Business/Business-trends/New-China-virus-spurs-24-hour-output-of-surgical-masks-in-Japan
+ADMINISTRATION,USA,GOV,,1.96078431372549,202001,1,https://www.kjas.com/news/local_news/article_8a1e0c66-33d9-11ea-a5bb-3fc3331d01aa.html
+SCHOOL,USA,GOV,EDU,-4.51167992359734,202001,6,https://www.news8000.com/i/should-they-stay-or-should-they-go-kids-with-flu-pose-parental-puzzle/
+WORLD HEALTH ORGANIZATION,YEM,GOV,,-0.124442573830786,202001,2,http://english.chinamil.com.cn/view/2020-01/17/content_9719308.htm
+FIRDOUS ASHIQ AWAN,PAK,GOV,,-0.84507042253521,202001,1,http://dunyanews.tv/en/Pakistan/528554-Political-dwarves-are-talking-about-toppling-govt-Firdous-Ashiq-Awan
+FIRDOUS ASHIQ AWAN,PAK,GOV,,-0.84507042253521,202001,1,http://dunyanews.tv/en/Pakistan/528554-Political-dwarves-are-talking-about-toppling-govt-Firdous-Ashiq-Awan
+SCHOOL,USA,GOV,EDU,-4.84743877650247,202001,32,https://www.pantagraph.com/lifestyles/parenting/should-they-stay-or-should-they-go-kids-with-flu/article_8149a1c2-cf56-521b-b2a7-585ecb7a9558.html
+NGUYEN THI KIM NGAN,CHN,GOV,,8.21428571428571,202001,1,https://en.nhandan.org.vn/politics/external-relations/item/8335202-greetings-for-70th-anniversary-of-vietnam-china-diplomatic-ties.html
+HEALTH MINIST,SAU,GOV,,-0.26666666666666,202001,1,https://www.malaymail.com/news/malaysia/2020/01/19/dzulkefly-updates-on-malaysias-influenza-outbreak-will-only-come-from-healt/1829505
+SCHOOL,USA,GOV,EDU,-6.07142857142857,202001,1,https://www.gazettetimes.com/lifestyles/parenting/should-they-stay-or-should-they-go-kids-with-flu/article_06cebb2d-0e2d-5791-bd2d-0bd83f4b1ee9.html
+HEALTH MINIST,NPL,GOV,,4.09356725146199,202001,1,https://myrepublica.nagariknetwork.com/news/minister-dhakal-princess-astrid-of-belgium-jointly-inaugurate-tuberculosis-center-in-kailali/
+ICRC,USA,GOV,,-3.8422649140546,202001,1,https://www.trtworld.com/magazine/kashmiris-suffer-further-as-icrc-stops-humanitarian-work-32965
+GHULAM NABI AZAD,IND,GOV,MED,1.08108108108108,202001,1,https://www.business-standard.com/article/pti-stories/azad-soni-to-attend-first-j-k-congress-executive-meet-since-article-370-nullification-120011301557_1.html
+ANDREW LANSLEY,GBR,GOV,MED,-6.33802816901409,202001,1,https://www.thetimes.co.uk/edition/comment/the-times-view-on-efforts-to-expose-a-whistleblower-at-an-nhs-hospital-healthy-disclosure-6xmnlrdrj
+HEALTH MINIST,SAU,GOV,,-0.28409090909091,202001,1,https://www.thesundaily.my/local/only-health-ministry-issues-press-statements-on-influenza-dr-dzulkefly-XX1909101
+HEALTH MINIST,SAU,GOV,,-0.275378787878785,202001,2,https://www.thesundaily.my/local/only-health-ministry-issues-press-statements-on-influenza-dr-dzulkefly-XX1909101
+WORLD HEALTH ORGANIZATION,CAN,GOV,DEV,4.06698564593302,202001,1,https://reliefweb.int/report/world/canada-who-africa-seek-stronger-collaboration
+PFIZER,USA,MNC,HLH,-1.4324693042292,202001,1,https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0227914
+RED CROSS,USA,GOV,,-1.63505559189012,202001,1,https://www.dw.com/en/womens-march-thousands-protest-against-donald-trump/a-52056068
+MINIST OF PUBLIC HEALTH,AFG,GOV,,-2.28136882129278,202002,1,https://tolonews.com/index.php/afghanistan/health-ministry-ready-evacuate-43-afghans-wuhan-china
+GERMAN,FRA,GOV,HLH,4.31390774785359,202002,4,https://www.reuters.com/article/china-health-g7-germany-idUSS8N28N08R
+HEALTH MINIST,CHN,GOV,,-0.5181347150259,202002,1,https://www.thestar.com.my/news/nation/2020/02/03/health-minister-praises-chinese-authorities-for-swift-action-in-wuhan
+MINIST OF HEALTH,ARE,GOV,,5.09860422496366,202002,3,http://www.gdnonline.com/Details/760128
+MINIST OF HEALTH,ARE,GOV,,5.25003281270507,202002,2,http://www.gdnonline.com/Details/760128
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.60377358490566,202001,1,https://www.msn.com/en-nz/money/other/fears-of-global-economic-slowdown-as-virus-follows-trade-war/ar-BBZAfwR
+GERMAN,DEU,GOV,,4.29593373493976,202002,1,https://in.reuters.com/article/us-china-health-germany-g7/g7-countries-seeking-unified-approach-to-coronavirus-germanys-spahn-idINKBN1ZW0RI
+GERMAN,DEU,GOV,,4.21686746987952,202002,1,https://in.reuters.com/article/us-china-health-germany-g7/g7-countries-seeking-unified-approach-to-coronavirus-germanys-spahn-idINKBN1ZW0RI
+MINIST OF HEALTH,AFR,GOV,,-3.2258064516129,202002,1,https://www.msn.com/en-za/news/other/no-need-to-evacuate-citizens-from-china-as-coronavirus-puts-sa-on-high-alert/ar-BBZzaeH
+MINIST OF HEALTH,ZAF,GOV,,-3.2258064516129,202002,1,https://www.msn.com/en-za/news/other/no-need-to-evacuate-citizens-from-china-as-coronavirus-puts-sa-on-high-alert/ar-BBZzaeH
+UNITED STATES,USA,GOV,HLH,-0.68846815834767,202002,1,https://californiaglobe.com/section-2/white-house-holds-press-briefing-on-coronavirus-after-u-s-government-orders-the-first-quarantine-in-half-a-century/
+GERMAN,FRA,GOV,HLH,4.16666666666667,202002,1,https://www.businesstimes.com.sg/government-economy/g-7-health-ministers-agree-on-coordinated-approach-to-coronavirus-germany
+GERMAN,FRA,GOV,HLH,3.87596899224806,202002,1,https://www.nytimes.com/reuters/2020/02/04/world/europe/03reuters-china-health-g7-germany.html
+MALAYSIA,SGP,GOV,,-2.59740259740259,202002,1,https://www.thejakartapost.com/seasia/2020/02/04/malaysian-citizen-infected-with-novel-coronavirus-after-traveling-from-singapore.html
+MALAYSIA,SGP,GOV,,-2.59740259740259,202002,1,https://www.thejakartapost.com/seasia/2020/02/04/malaysian-citizen-infected-with-novel-coronavirus-after-traveling-from-singapore.html
+BRAZIL,BRA,GOV,,-0.31201248049922,202002,1,https://www.msn.com/en-au/news/other/brazil-to-declare-emergency-quarantine-people-returning-from-coronavirus-hit-wuhan/ar-BBZBg9o
+WALGREEN,USA,GOV,,-0.78125,202002,1,http://www.nydailynews.com/news/national/ny-walgreens-phony-pharmacist-settlement-20200204-2v653ujlwvcpzopsjvlxkyifki-story.html
+HEALTH MINIST,BRB,GOV,,-2.15053763440861,202002,1,https://www.cbc.bb/2020/02/05/coronavirus-isolation-facilities-are-ready/
+BANGLADESH,BGD,GOV,,1.8970189701897,202002,1,https://www.daily-sun.com/post/459845/BOU-holds-view-exchange-meeting-with-teachers-in-Rangpur-
+HEALTH OFFICIAL,GRC,GOV,HLH,1.06382978723404,202002,1,https://neoskosmos.com/en/157778/revolutionary-car-t-cell-therapy-for-cancer-patients-available-in-greece/
+HEALTH MINIST,IND,GOV,,-4.25531914893617,202002,4,https://www.aninews.in/news/lifestyle/quirky/amuls-new-doodle-on-homecoming-of-indians-from-coronavirus-hit-wuhan20200205220416/
+HEALTH MINIST,UGA,GOV,,-6.37583892617449,202002,2,https://www.monitor.co.ug/News/National/Shs25-billion-earmarked-fight-coronavirus-Uganda/688334-5445006-bp1822/
+HEALTH MINIST,UGA,GOV,,-6.37583892617449,202002,2,https://www.monitor.co.ug/News/National/Shs25-billion-earmarked-fight-coronavirus-Uganda/688334-5445006-bp1822/
+HEALTH DEPARTMENT,USA,GOV,HLH,-4.67836257309942,202002,1,https://www.middletownpress.com/news/article/Wisconsin-confirms-first-case-of-new-coronavirus-15032677.php
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.17101147028154,202002,1,http://en.people.cn/n3/2020/0206/c90000-9654842.html
+HEALTH MINIST,IND,GOV,,-4.25531914893617,202002,3,https://www.shanghainews.net/news/263934026/amul-new-doodle-on-homecoming-of-indians-from-coronavirus-hit-wuhan
+KERALA,IND,GOV,,-4.81927710843374,202002,1,https://www.ndtv.com/india-news/amuls-new-ad-features-indians-evacuated-from-coronavirus-hit-china-2175701
+UNITED KINGDOM,GBR,GOV,,11.6279069767442,202002,1,https://www.stiripesurse.ro/health-minister-costache-british-ambassador-noble-discuss-latest-healthcare-legislative-changes_1429061.html
+HEALTH MINIST,GBR,GOV,,11.6279069767442,202002,1,https://www.stiripesurse.ro/health-minister-costache-british-ambassador-noble-discuss-latest-healthcare-legislative-changes_1429061.html
+UNITED STATES,USA,GOV,HLH,-1.94369973190348,202002,1,https://www.timesgazette.com/news/45485/students-test-negative-for-virus
+HEALTH DEPARTMENT,USA,GOV,HLH,2.47933884297521,202002,1,https://www.12newsnow.com/article/news/crime/southeast-texas-health-officials-remain-on-alert-as-doctors-await-results-of-mans-coronavirus-test/502-d4a455e5-3986-431f-8031-dadb783377f9
+HEALTH DEPARTMENT,USA,GOV,,-2.79792746113989,202002,1,https://www.houstonpublicmedia.org/articles/news/energy-environment/2020/02/06/359682/after-an-explosion-how-does-the-houston-area-know-if-the-air-is-safe/
+HEALTH DEPARTMENT,USA,GOV,HLH,-4.84088000731252,202002,5,https://www.westport-news.com/news/article/Wisconsin-confirms-first-case-of-new-coronavirus-15032677.php
+WORLD HEALTH ASSEMBLY,CAN,GOV,,-0.588591509870605,202002,1,https://asia.nikkei.com/Spotlight/Coronavirus-outbreak/Taiwan-turns-aggressive-over-WHO-exclusion-as-coronavirus-spreads2
+HEALTH OFFICIAL,CAN,GOV,HLH,-0.351218822734469,202002,34,http://www.pentictonherald.ca/news/national_news/article_384b1376-b1f4-5492-ac9f-aad360e9a214.html
+JAPANESE,JPN,GOV,,-2.85412262156448,202002,1,https://tribune.net.ph/index.php/2020/02/08/capas-as-quarantine-secure-against-ncov-contagion/
+MALAYSIA,SAU,GOV,,-4.22535211267606,202002,1,https://www.albawaba.com/editors-choice/73-year-old-thai-tells-she-beat-coronavirus-1337500
+HEALTH MINIST,CHN,GOV,,6.71641791044776,202002,1,https://myrepublica.nagariknetwork.com/news/nepal-gifts-100-000-protective-masks-to-china/
+NEPAL,CHN,GOV,,6.71641791044776,202002,1,https://myrepublica.nagariknetwork.com/news/nepal-gifts-100-000-protective-masks-to-china/
+HEALTH OFFICIAL,USA,GOV,,-2.81383508124906,202002,3,https://www.nj.com/news/2020/02/cruise-passengers-to-be-screened-for-coronavirus-after-royal-caribbean-ship-docks-in-nj.html
+HEALTH OFFICIAL,USA,GOV,HLH,-3.07062436028659,202002,1,http://www.mcall.com/health/mc-hea-coronavirus-stigma-fear-20200207-brplkr4fizdqbc63zkykmf7tmq-story.html
+HEALTH DEPARTMENT,USA,GOV,HLH,-5.31496062992126,202002,1,https://www.ironmountaindailynews.com/news/local-news/2020/02/wisconsin-confirms-first-case-of-new-virus-from-china/
+MINIST OF HEALTH,CHN,GOV,,-3.53846153846154,202002,1,https://thehimalayantimes.com/nepal/nepalis-in-china-make-frantic-pleas-to-return-home/
+HEALTH MINIST,AUS,GOV,,0.54836958790865,202002,2,https://www.msn.com/en-au/news/other/katherine-gp-shortage-increases-waiting-times-frustration-for-patients-and-doctors/ar-BBZNlhI
+ONTARIO,CAN,GOV,,3.37349397590361,202002,1,https://www.prweb.com/releases/camrt_alarmed_at_ontario_government_decision_to_axe_key_funding_program/prweb16891461.htm
+THAILAND,THA,GOV,,-5.3133514986376,202002,1,https://www.standard.co.uk/news/world/thailand-shooting-soldier-manhunt-korat-a4357191.html
+HEALTH MINIST,AUS,GOV,,0.55813953488372,202002,1,https://www.msn.com/en-au/news/other/katherine-gp-shortage-increases-waiting-times-frustration-for-patients-and-doctors/ar-BBZNugI
+HEALTH MINIST,SAU,GOV,,-1.66898470097357,202002,1,https://www.malaymail.com/news/malaysia/2020/02/09/health-dg-malaysias-coronavirus-victim-tally-increases-to-17-latest-case-is/1835886
+HEALTH MINIST,SAU,GOV,,-1.66898470097357,202002,1,https://www.malaymail.com/news/malaysia/2020/02/09/health-dg-malaysias-coronavirus-victim-tally-increases-to-17-latest-case-is/1835886
+HEALTH OFFICIAL,USA,GOV,HLH,-2.09125475285171,202002,1,https://www.msn.com/en-us/health/medical/coronavirus-cases-jump-to-more-than-34000-as-health-officials-caution-of-overreaction-and-stigma/ar-BBZNCYJ
+LATVIA,UZB,GOV,,5.75221238938054,202002,1,http://uza.uz/en/society/uzbekistan-latvia-share-experience-in-social-protection-of-t-10-02-2020
+RED CROSS,AUS,GOV,,-0.46948356807512,202002,1,https://www.adelaidenow.com.au/news/south-australia/milk-bank-for-premature-babies-now-open-at-womens-and-childrens-hospital-and-flinders-medical-centre/news-story/5eb48ae267b0b6b8f09bb6a04f2578a7?nk=8dcd5f1fbc0e476e9df327e9194b0b7b-1581342574
+HEALTH MINIST,JPN,GOV,,-5.08521018372232,202002,34,https://abcnews.go.com/Health/wireStory/latest-eu-virus-poses-danger-68881292
+HEALTH MINIST,JPN,GOV,,-3.61016815462279,202002,2,https://www.trtworld.com/asia/novel-coronavirus-deaths-overtake-sars-toll-66-more-cases-on-japan-ship-33645
+JAPAN,JPN,GOV,,-5.35372848948374,202002,1,https://www.ajc.com/news/coronavirus-death-toll-rises-above-900-cruise-ship-remains-quarantined/61vFFlXINbalHVS2VuYgzM/
+HEALTH OFFICIAL,CHN,GOV,HLH,-4.79452054794521,202002,1,https://www.news24.com/SouthAfrica/News/coronavirus-two-in-kzn-isolated-20200207
+HEALTH MINIST,ARG,GOV,,-0.38819875776397,202002,1,https://www.lifesitenews.com/news/argentine-bishop-praises-trumps-extraordinary-pro-life-commitment
+HEALTH MINIST,JPN,GOV,,-6.56565656565656,202002,1,https://newsinfo.inquirer.net/1227482/who-warns-of-bigger-fire-as-ncov-death-toll-passes-1000
+HEALTH MINIST,JPN,GOV,,-6.56565656565656,202002,1,https://newsinfo.inquirer.net/1227482/who-warns-of-bigger-fire-as-ncov-death-toll-passes-1000
+SINGAPORE,MYS,GOV,HLH,-1.47420147420148,202002,1,https://www.theonlinecitizen.com/2020/02/12/singapore-and-malaysia-to-set-up-joint-working-group-to-combat-coronavirus-epidemic/
+SINGAPORE,MYS,GOV,HLH,-1.47420147420148,202002,1,https://www.theonlinecitizen.com/2020/02/12/singapore-and-malaysia-to-set-up-joint-working-group-to-combat-coronavirus-epidemic/
+MALAYSIA,SGP,GOV,HLH,-1.47420147420148,202002,1,https://www.theonlinecitizen.com/2020/02/12/singapore-and-malaysia-to-set-up-joint-working-group-to-combat-coronavirus-epidemic/
+MALAYSIA,SGP,GOV,HLH,-1.47420147420148,202002,1,https://www.theonlinecitizen.com/2020/02/12/singapore-and-malaysia-to-set-up-joint-working-group-to-combat-coronavirus-epidemic/
+SINGAPORE,SGP,GOV,LAB,-1.47420147420148,202002,1,https://www.theonlinecitizen.com/2020/02/12/singapore-and-malaysia-to-set-up-joint-working-group-to-combat-coronavirus-epidemic/
+SINGAPORE,SGP,GOV,LAB,-1.47420147420148,202002,1,https://www.theonlinecitizen.com/2020/02/12/singapore-and-malaysia-to-set-up-joint-working-group-to-combat-coronavirus-epidemic/
+MILITARY,SOM,GOV,,-0.53475935828877,202002,1,https://ghanavibes.com/some-pastors-have-mental-problems-they-should-be-at-psychiatric-hospital-seeking-attention-rawlings/
+MINIST OF HEALTH,NGA,GOV,,0.067084078711985,202002,2,https://www.vanguardngr.com/2020/02/nigeria-gets-3-centres-to-test-for-coronavirus/
+MINIST OF HEALTH,NGA,GOV,,0,202002,1,https://tribuneonlineng.com/breaking-nigeria-gets-three-centres-to-test-for-coronavirus/
+HEALTH MINIST,CHN,GOV,,6.71641791044776,202002,1,https://myrepublica.nagariknetwork.com/news/nepal-gifts-100-000-protective-masks-to-china/
+HEALTH MINIST,CAN,GOV,,-0.70323488045007,202002,1,https://ipolitics.ca/2020/02/03/health-canada-rolled-out-766000-emergency-ad-campaign-to-combat-youth-vaping/
+HEALTH MINIST,FRA,GOV,HLH,-2.43905400155399,202002,2,https://www.business-standard.com/article/pti-stories/g7-ministers-to-discuss-coronavirus-monday-france-120020301458_1.html
+HEALTH MINIST,FRA,GOV,HLH,-2.43905400155399,202002,2,https://www.business-standard.com/article/pti-stories/g7-ministers-to-discuss-coronavirus-monday-france-120020301458_1.html
+HEALTH MINIST,FRA,GOV,HLH,-2.43905400155399,202002,2,https://www.business-standard.com/article/pti-stories/g7-ministers-to-discuss-coronavirus-monday-france-120020301458_1.html
+FRENCH,DEU,GOV,HLH,4.31390774785359,202002,4,https://www.reuters.com/article/china-health-g7-germany-idUSS8N28N08R
+FRENCH,DEU,GOV,HLH,4.16666666666667,202002,1,https://www.businesstimes.com.sg/government-economy/g-7-health-ministers-agree-on-coordinated-approach-to-coronavirus-germany
+FRENCH,DEU,GOV,HLH,3.87596899224806,202002,1,https://www.nytimes.com/reuters/2020/02/04/world/europe/03reuters-china-health-g7-germany.html
+FRANCE,DEU,GOV,HLH,4.31390774785359,202002,4,https://www.reuters.com/article/china-health-g7-germany-idUSS8N28N08R
+GERMANY,DEU,GOV,,4.21686746987952,202002,1,https://in.reuters.com/article/us-china-health-germany-g7/g7-countries-seeking-unified-approach-to-coronavirus-germanys-spahn-idINKBN1ZW0RI
+FRANCE,DEU,GOV,HLH,4.16666666666667,202002,1,https://www.businesstimes.com.sg/government-economy/g-7-health-ministers-agree-on-coordinated-approach-to-coronavirus-germany
+FRANCE,DEU,GOV,HLH,3.87596899224806,202002,1,https://www.nytimes.com/reuters/2020/02/04/world/europe/03reuters-china-health-g7-germany.html
+PFIZER,GBR,MNC,HLH,-1.68918918918919,202002,1,https://www.fool.com/investing/2020/02/06/glaxosmithkline-cutting-up-to-720-jobs-at-european.aspx?source=iedfolrf0000001
+SOCIAL WELFARE MINIST,IND,GOV,,-2.99785867237687,202002,1,https://www.outlookindia.com/website/story/india-news-arvind-kejriwal-to-take-oath-as-delhi-cm-on-february-16-at-ramlila-maidan/347177
+HEALTH MINIST,UGA,GOV,,-6.04026845637583,202002,1,https://www.monitor.co.ug/News/National/Shs25-billion-earmarked-fight-coronavirus-Uganda/688334-5445006-bp1822/
+HEALTH MINIST,UGA,GOV,,-6.71140939597315,202002,1,https://allafrica.com/stories/202002050806.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5,202002,1,https://fox4kc.com/2020/02/10/global-death-toll-for-wuhan-coronavirus-tops-1000-people/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5,202002,1,https://fox4kc.com/2020/02/10/global-death-toll-for-wuhan-coronavirus-tops-1000-people/
+HEALTH DEPARTMENT,USA,GOV,HLH,2.47933884297521,202002,1,https://www.12newsnow.com/article/news/crime/southeast-texas-health-officials-remain-on-alert-as-doctors-await-results-of-mans-coronavirus-test/502-d4a455e5-3986-431f-8031-dadb783377f9
+HEALTH DEPARTMENT,USA,GOV,HLH,2.47933884297521,202002,1,https://www.12newsnow.com/article/news/crime/southeast-texas-health-officials-remain-on-alert-as-doctors-await-results-of-mans-coronavirus-test/502-d4a455e5-3986-431f-8031-dadb783377f9
+ANTIGUA AND BARBUDA,ATG,GOV,BUS,-2.16450216450217,202002,1,https://barbadostoday.bb/2020/02/04/caricom-ministers-agree-on-response-to-coronavirus-misinformation/
+WORLD HEALTH ORGANIZATION,KHM,GOV,,-3.92857142857143,202002,1,https://qz.com/1799914/xi-jinping-appears-in-public-after-long-absence-during-coronavirus/
+CHINA,CHN,GOV,,2.39529546758463,202002,2,https://www.business-standard.com/article/pti-stories/nepal-gifts-100-000-masks-to-china-to-help-overcome-shortage-120020701108_1.html
+HEALTH OFFICIAL,CHN,GOV,HLH,-0.17513134851139,202002,1,https://www.winnipegfreepress.com/arts-and-life/life/health/cp-newsalert-two-more-presumptive-cases-of-the-coronavirus-in-british-columbia-567632902.html
+HEALTH MINIST,CHN,GOV,,2.40151695673216,202002,5,https://www.business-standard.com/article/pti-stories/nepal-gifts-100-000-masks-to-china-to-help-overcome-shortage-120020701108_1.html
+CHINA,CHN,GOV,,3.35820895522388,202002,1,https://www.indiatvnews.com/news/world/nepal-gifts-100-000-masks-to-china-to-help-overcome-shortage-586769
+CHINA,CHN,GOV,,1.92939244663383,202002,2,https://www.outlookindia.com/newsscroll/nepal-gifts-100000-masks-to-china-to-help-overcome-shortage/1728638
+HEALTH MINIST,CHN,GOV,,2.33918128654971,202002,1,https://in.news.yahoo.com/nepal-gifts-100-000-masks-105113356.html
+CHINA,CHN,GOV,,2.33918128654971,202002,1,https://in.news.yahoo.com/nepal-gifts-100-000-masks-105113356.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.14384021101297,202002,13,https://www.cnn.com/2020/02/09/asia/wuhan-coronavirus-update-intl-hnk/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.14384021101297,202002,13,https://www.cnn.com/2020/02/09/asia/wuhan-coronavirus-update-intl-hnk/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,0.361709057361233,202002,3,https://www.usatoday.com/story/opinion/2020/02/11/pompeo-azar-coronavirus-response-cdc-who-protects-americans-column/4712857002/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.31313131313131,202002,1,http://www.caribbean360.com/news/jamaican-moved-to-isolation-with-elevated-temperature-after-trip-to-china-amid-coronavirus-fears
+HEALTH OFFICIAL,CHN,GOV,,-10.3448275862069,202002,1,http://www.taipeitimes.com/News/front/archives/2020/02/12/2003730818
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-7.25806451612903,202002,1,https://www.thedailyherald.sx/regional/jamaican-moved-to-isolation-after-china-trip-amid-coronavirus-fears
+GLAXOSMITHKLINE,ISR,MNC,HLH,-1.01010101010101,202002,1,https://www.openpr.com/news/1920094/multiple-dose-container-market-rising-trends-analysis-with
+RED CROSS,USA,GOV,,-3.95778364116095,202002,1,https://www.wtae.com/article/4-people-taken-to-the-hospital-after-fire-in-beaver-county/30868198
+CANADA,CAN,GOV,,-1.5006821282401,202002,1,https://www.theglobeandmail.com/canada/toronto/article-chinese-restaurants-in-gta-see-large-drop-in-sales-in-weeks-after/
+HEALTH OFFICIAL,CHN,GOV,,-2.60162601626017,202002,1,https://www.newshub.co.nz/home/politics/2020/02/coronavirus-simon-bridges-calls-china-s-consul-general-s-comments-concerning-regrettable.html
+WORLD HEALTH ORGANIZATION,PHL,GOV,,-0.8,202002,1,https://ph.news.yahoo.com/pres-duterte-meet-inter-agency-135416739.html
+WORLD HEALTH ORGANIZATION,PHL,GOV,,-0.8,202002,1,https://ph.news.yahoo.com/pres-duterte-meet-inter-agency-135416739.html
+HEALTH OFFICIAL,CHN,GOV,HLH,-6.15437490647913,202002,3,http://www.polity.org.za/article/sa-man-suspected-of-having-coronavirus-cleared-and-ready-to-be-discharged-2020-02-05
+HEALTH OFFICIAL,CHN,GOV,HLH,-5.80645161290323,202002,1,https://www.dailysun.co.za/News/limpopo-man-cleared-of-coronavirus-20200206
+HEALTH MINIST,CHN,GOV,,6.71641791044776,202002,1,https://myrepublica.nagariknetwork.com/news/nepal-gifts-100-000-protective-masks-to-china/
+EMIRATI,CHN,GOV,,-4.85714285714286,202002,1,https://www.kaaltv.com/news/the-latest-us-funneling-flights-from-china-to-11-airports/5638531/
+HEALTH MINIST,CAN,GOV,,-1.5006821282401,202002,1,https://www.theglobeandmail.com/canada/toronto/article-chinese-restaurants-in-gta-see-large-drop-in-sales-in-weeks-after/
+HEALTH MINIST,CHN,GOV,,2.0746887966805,202002,1,https://dailytimes.com.pk/553617/yasmin-rashid-lauds-chinese-govt-for-containing-coronavirus/
+HEALTH MINIST,CHE,MNC,HLH,-2.60869565217392,202002,1,https://www.bmj.com/content/368/bmj.m580
+GERMANY,FRA,GOV,HLH,4.31390774785359,202002,4,https://www.reuters.com/article/china-health-g7-germany-idUSS8N28N08R
+GERMAN,DEU,GOV,,4.375,202002,1,https://uk.reuters.com/article/uk-china-health-g7-germany/g7-health-ministers-agree-on-coordinated-approach-to-coronavirus-germany-idUKKBN1ZX2IO
+GERMANY,FRA,GOV,HLH,4.16666666666667,202002,1,https://www.businesstimes.com.sg/government-economy/g-7-health-ministers-agree-on-coordinated-approach-to-coronavirus-germany
+GERMANY,FRA,GOV,HLH,3.87596899224806,202002,1,https://www.nytimes.com/reuters/2020/02/04/world/europe/03reuters-china-health-g7-germany.html
+GLAXOSMITHKLINE,USA,MNC,HLH,-1.68918918918919,202002,1,https://www.fool.com/investing/2020/02/06/glaxosmithkline-cutting-up-to-720-jobs-at-european.aspx?source=iedfolrf0000001
+HEALTH MINIST,JPN,GOV,,-5.35372848948374,202002,1,https://www.ajc.com/news/coronavirus-death-toll-rises-above-900-cruise-ship-remains-quarantined/61vFFlXINbalHVS2VuYgzM/
+HEALTH MINIST,CHN,GOV,,-6.81818181818182,202002,1,https://www.dailysabah.com/turkey/2020/02/07/coronavirus-not-detected-in-61-people-under-observation-in-turkey-health-minister-says
+MINIST OF HEALTH,CHN,GOV,,3.77952755905512,202002,1,http://www.thebahamasweekly.com/publish/bis-news-updates/Chinese_Ambassador_H_E_Huang_Qinguo_makes_courtesy_call_on_Minister_of_Health_the_Hon_Dr_Duane_Sands64751.shtml
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-6.21165644171779,202002,1,https://www.aljazeera.com/news/2020/02/wuhan-turns-social-media-vent-anger-coronavirus-response-200203085324619.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-1.55610155610156,202002,1,https://asia.nikkei.com/Editor-s-Picks/China-up-close/Party-s-half-baked-admission-misses-Xi-s-biggest-problem
+HEALTH DEPARTMENT,PHL,GOV,,-2.02839756592292,202002,1,https://www.cnnphilippines.com/news/2020/2/6/novel-coronavirus-Chinese-influx-Philippines-red-flag.html
+HEALTH MINIST,SGP,GOV,LAB,0.24732069249794,202002,1,https://www.theonlinecitizen.com/2020/02/06/kok-ming-cheang-please-do-not-make-people-of-singapore-sacrificial-lambs-due-to-political-considerations-that-may-take-priority-over-their-safety-and-health/
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-1.23762376237624,202002,1,https://www.republicworld.com/world-news/rest-of-the-world-news/first-coronavirus-infected-person-in-thailand-has-been-cured.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.92747288729578,202002,2,https://uk.reuters.com/article/uk-china-health-doctor/light-a-candle-death-of-chinese-doctor-sparks-mourning-anger-idUKKBN2002W5
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.92747288729578,202002,2,https://uk.reuters.com/article/uk-china-health-doctor/light-a-candle-death-of-chinese-doctor-sparks-mourning-anger-idUKKBN2002W5
+HEALTH MINIST,CHN,GOV,,-6.81818181818182,202002,1,https://www.dailysabah.com/turkey/2020/02/07/coronavirus-not-detected-in-61-people-under-observation-in-turkey-health-minister-says
+MINIST OF HEALTH,CHN,GOV,,3.77952755905512,202002,1,http://www.thebahamasweekly.com/publish/bis-news-updates/Chinese_Ambassador_H_E_Huang_Qinguo_makes_courtesy_call_on_Minister_of_Health_the_Hon_Dr_Duane_Sands64751.shtml
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.48449256690375,202002,2,https://www.stltoday.com/business/china-cautiously-returns-to-work-as-wuhan-coronavirus-death-toll/article_79f374ae-5623-5501-a29d-6a82fe77dde5.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.23042304230423,202002,1,https://www.stltoday.com/business/china-cautiously-returns-to-work-as-wuhan-coronavirus-death-toll/article_79f374ae-5623-5501-a29d-6a82fe77dde5.html
+MINIST OF HEALTH,CHN,GOV,,3.77952755905512,202002,1,http://www.thebahamasweekly.com/publish/bis-news-updates/Chinese_Ambassador_H_E_Huang_Qinguo_makes_courtesy_call_on_Minister_of_Health_the_Hon_Dr_Duane_Sands64751.shtml
+MINIST OF HEALTH,CHN,GOV,,3.77952755905512,202002,1,http://www.thebahamasweekly.com/publish/bis-news-updates/Chinese_Ambassador_H_E_Huang_Qinguo_makes_courtesy_call_on_Minister_of_Health_the_Hon_Dr_Duane_Sands64751.shtml
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.73856209150327,202002,1,https://www.medscape.com/viewarticle/924931
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-5.71428571428572,202002,1,https://www.thejakartapost.com/news/2020/02/12/joining-hands-fight-2019-ncov-epidemic-part-1-2.html
+HEALTH MINIST,CHN,GOV,,3.35820895522388,202002,1,https://www.indiatvnews.com/news/world/nepal-gifts-100-000-masks-to-china-to-help-overcome-shortage-586769
+HEALTH OFFICIAL,CHN,GOV,,-4.8643592142189,202002,1,https://www.msn.com/en-us/health/other/us-plans-more-coronavirus-evacuation-flights-from-china-this-week/ar-BBZAL1G
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-2.67686424474188,202002,1,https://www.cnbc.com/2020/02/06/coronavirus-latest-updates.html
+NEW YORK,CHN,GOV,,-4.89375605354986,202002,2,https://wadk.com/world-news/8becfd711deaf2bc4d1208a609282525
+NEW YORK,CHN,GOV,,-4.89891283356861,202002,3,https://wkjc.com/world-news/8becfd711deaf2bc4d1208a609282525
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-1.2913413077805,202002,2,http://sl.chineseembassy.org/eng/./xwdt/t1740143.htm
+WORLD HEALTH ORGANIZATION,CHN,GOV,,1.20481927710843,202002,1,http://sl.chineseembassy.org/eng/./xwdt/t1740143.htm
+CHINESE,CHN,GOV,,-5.71428571428571,202002,1,https://www.aljazeera.com/news/2020/02/wuhan-coronavirus-outbreak-threatening-xi-hold-power-200204011647281.html
+EMIRATI,CHN,GOV,,-3.60612313625594,202002,45,https://www.sfgate.com/news/medical/article/The-Latest-US-funneling-flights-from-China-to-11-15042396.php
+EMIRATI,CHN,GOV,,-4.31034482758621,202002,1,https://www.houstonchronicle.com/news/medical/article/The-Latest-US-funneling-flights-from-China-to-11-15042396.php
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.15647921760392,202002,9,https://www.calcuttanews.net/news/263991982/tajikistan-chinese-diplomats-snarled-in-anti-coronavirus-measures
+EMIRATI,CHN,GOV,,-3.58422939068101,202002,1,https://www.thetelegraph.com/news/medical/article/The-Latest-US-funneling-flights-from-China-to-11-15042396.php
+HEALTH DEPARTMENT,LCA,GOV,,-4.34782608695652,202002,1,https://www.wifr.com/content/news/One-local-community-college-starts-the-conversation-on-active-intruder-violence-568262091.html
+WORLD HEALTH ORGANIZATION,DZA,GOV,,-3.94944707740916,202002,1,https://www.thecitizen.co.tz/news/1840340-5470712-afltk0/
+HEALTH MINIST,ISR,GOV,MED,-1.86335403726708,202002,1,https://www.jpost.com/Israel-News/Rivlin-holds-t%C3%AAte-%C3%A0-t%C3%AAte-with-Health-Ministry-on-coronavirus-in-Australia-618892
+MEXICO,MEX,GOV,,-4.39560439560439,202002,1,https://www.reporter.bz/2020/02/28/alert-corona-virus-detected-in-a-neighboring-country/
+WELFARE MINIST,LKA,GOV,,0.684931506849315,202002,1,https://www.business-standard.com/article/pti-stories/karaikal-sri-lanka-ferry-service-to-be-introduced-soon-mos-120022701629_1.html
+WELFARE MINIST,LKA,GOV,,0.684931506849315,202002,1,https://www.business-standard.com/article/pti-stories/karaikal-sri-lanka-ferry-service-to-be-introduced-soon-mos-120022701629_1.html
+MINIST OF HEALTH,CHN,GOV,,1.31578947368421,202002,1,http://www.xinhuanet.com/english/2020-02/27/c_138824640.htm
+HEALTH MINIST,JPN,GOV,,-4.14746543778801,202002,1,http://www.israelnationalnews.com/News/News.aspx/276561
+HEALTH OFFICIAL,CHN,GOV,,-1.33333333333334,202002,1,https://cnnphilippines.com:443/world/2020/2/27/WHO-rest-of-the-world-greatest-concern.html
+MINIST OF HEALTH,CHN,GOV,,1.69971671388102,202002,1,http://www.xinhuanet.com/english/2020-02/28/c_138825068.htm
+HEALTH DEPARTMENT,USA,GOV,,-3.34661984796973,202002,15,https://www.ctpost.com/news/education/article/High-school-closed-a-second-day-over-new-virus-15092260.php
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-3.15315315315315,202002,1,https://english.kyodonews.net/news/2020/02/550147e201b1-world-at-decisive-point-in-bid-to-contain-coronavirus-who.html
+HEALTH DEPARTMENT,USA,GOV,,-3.3807855795856,202002,13,https://www.stamfordadvocate.com/news/education/article/High-school-closed-a-second-day-over-new-virus-15092260.php
+BRISTOL MYERS SQUIBB,USA,MNC,HLH,2.96367112810708,202003,1,https://www.marketwatch.com/press-release/ependymoma-drug-market-technological-trends-in-2020-2029-boehringer-ingelheim-gmbh-bristol-myers-squibb-company-cavion-llc-2020-03-01
+IRELAND,IRL,GOV,,-0.58945065629558,202003,3,https://www.thetelegraphandargus.co.uk/news/national/18273135.school-closed-confirmed-contact-irelands-first-coronavirus-patient/
+MARIE STOPES,ETH,GOV,,-5.4006968641115,202002,1,https://www.ethiopiaobserver.com/2020/02/28/ebc-journalist-reportedly-tried-to-blackmail-marie-stopes-over-ongoing-reporting/
+MARIE STOPES,ETH,GOV,,-5.4006968641115,202002,1,https://www.ethiopiaobserver.com/2020/02/28/ebc-journalist-reportedly-tried-to-blackmail-marie-stopes-over-ongoing-reporting/
+WORLD HEALTH ORGANIZATION,ITA,GOV,HLH,-4.83641536273115,202002,1,https://mynorthwest.com/1736147/italy-seeks-to-calm-fears-in-europe-as-cases-deaths-rise/
+AFGHANISTAN,IRN,GOV,,-3.84615384615385,202002,1,https://thediplomat.com/2020/02/coronavirus-in-afghanistan-a-need-for-regional-health-cooperation/
+HEALTH OFFICIAL,ITA,GOV,,-1.98863636363636,202003,1,https://www.channelstv.com/2020/03/01/coronavirus-patient-is-well-taken-care-of-sanwo-olu/
+INDONESIA,JPN,GOV,,-2.82503348661815,202002,2,https://www.dailymail.co.uk/news/article-8045997/Cruise-ship-carrying-6-100-turned-away-two-ports-coronavirus.html
+MINIST OF HEALTH,JPN,GOV,,3.53982300884956,202002,1,https://asianews.network/2020/02/27/japan-provides-protective-gear-for-use-in-battling-coronavirus/
+INDONESIA,JPN,GOV,,-2.22882615156018,202002,1,https://www.dailymail.co.uk/news/article-8050569/Miami-cruise-ship-blocked-two-ports-coronavirus-fears-arrives-Mexico.html
+HEALTH MINIST,JPN,GOV,,-4.14746543778801,202002,1,http://www.israelnationalnews.com/News/News.aspx/276561
+JAPAN,JPN,GOV,,-4.14746543778801,202002,1,http://www.israelnationalnews.com/News/News.aspx/276561
+HEALTH MINIST,JPN,GOV,,-3.34928229665072,202003,1,https://www.sbs.com.au/news/every-precaution-is-being-taken-contingency-plans-rolled-out-in-wa-after-australia-s-first-coronavirus-death-recorded
+JAPAN,JPN,GOV,,-3.34928229665072,202003,1,https://www.sbs.com.au/news/every-precaution-is-being-taken-contingency-plans-rolled-out-in-wa-after-australia-s-first-coronavirus-death-recorded
+HEALTH MINIST,JAM,GOV,AGR,7.89473684210526,202002,1,http://rjrnewsonline.com/local/more-cuban-health-professionals-coming-to-jamaica
+SOUTH KOREA,KOR,GOV,,-2.98507462686567,202003,1,https://ewn.co.za/2020/03/01/minister-mkhize-to-shed-light-on-how-south-africans-in-wuhan-will-be-repatriated
+BRITAIN,GBR,GOV,,-5.34124629080119,202002,1,https://www.today.ng/news/world/european-governments-drafting-pandemic-contingency-plans-282629
+HEALTH OFFICIAL,USA,GOV,,-4.87106017191977,202002,1,https://www.businessinsider.com/trump-wings-press-conference-on-coronavirus-puts-pence-in-charge-2020-2
+HEALTH MINIST,USA,GOV,,5.03875968992248,202002,1,https://www.lusakatimes.com/2020/02/29/health-minister-thanks-the-us-government-on-support-in-the-fight-against-hiv-aids/
+BRISTOL MYERS SQUIBB,USA,MNC,HLH,2.96367112810708,202003,1,https://www.marketwatch.com/press-release/ependymoma-drug-market-technological-trends-in-2020-2029-boehringer-ingelheim-gmbh-bristol-myers-squibb-company-cavion-llc-2020-03-01
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-8.13704496788008,202003,1,https://www.rt.com/business/482048-who-global-markets-panic/
+AUSTRALIA,AUS,GOV,,-4.52173913043478,202003,1,https://www.9news.com.au/health/aust-s-first-virus-death-after-wa-man-dies/c5128893-fb5b-4d87-977e-d7a891fdea34
+HEALTH MINIST,AUS,GOV,,-4.52173913043478,202003,1,https://www.9news.com.au/health/aust-s-first-virus-death-after-wa-man-dies/c5128893-fb5b-4d87-977e-d7a891fdea34
+AUSTRALIA,AUS,GOV,,-2.83163578169635,202003,3,https://www.9news.com.au/health/aust-s-first-virus-death-after-wa-man-dies/c5128893-fb5b-4d87-977e-d7a891fdea34
+HEALTH MINIST,AUS,GOV,,-2.83163578169635,202003,3,https://www.9news.com.au/health/aust-s-first-virus-death-after-wa-man-dies/c5128893-fb5b-4d87-977e-d7a891fdea34
+GERMANY,ITA,GOV,HLH,-1.20603015075377,202002,1,http://www.xinhuanet.com/english/2020-02/27/c_138824930.htm
+GERMAN,ITA,GOV,HLH,-1.20603015075377,202002,1,http://www.xinhuanet.com/english/2020-02/27/c_138824930.htm
+HEALTH OFFICIAL,BRA,GOV,HLH,-4.19161676646707,202002,1,https://www.theepochtimes.com/brazil-confirms-first-case-of-new-coronavirus-in-latin-america_3251414.html
+MINIST OF HEALTH,CAN,GOV,,-2.23880597014926,202002,1,https://www.straight.com/life/1364901/more-canadian-queer-men-experienced-more-efforts-change-sexual-or-gender-identity
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.30906389301634,202002,1,https://www.naturalnews.com/2020-02-27-open-borders-politicians-europe-contributing-spread-coronavirus.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.30906389301634,202002,1,https://www.naturalnews.com/2020-02-27-open-borders-politicians-europe-contributing-spread-coronavirus.html
+WORLD HEALTH ORGANIZATION,CHN,GOV,,-4.54237288135593,202002,1,https://www.citizen-times.com/story/news/local/2020/02/28/no-confirmed-asheville-coronavirus-cases-but-officials-say-get-ready/4901704002/
+IRAN,IRN,GOV,,-5.79710144927537,202002,2,https://www.bbc.co.uk/news/world-middle-east-51677530
+HEALTH MINIST,CHN,GOV,,0.56899004267425,202002,1,https://allafrica.com/stories/202002260498.html
+MILITARY,EGY,GOV,,-10.2439024390244,202002,1,https://radyonatin.com/story.php?storyid=39883
+HEALTH OFFICIAL,IRL,GOV,,-0.394447138296315,202002,2,https://www.msn.com/en-ie/news/other/covid-19-case-in-republic-of-ireland-here-are-the-main-points-you-need-to-know-this-morning/ar-BB10AdhA
+IRELAND,IRL,GOV,,-0.809338911390599,202003,96,https://www.prestwichandwhitefieldguide.co.uk/news/national/18272898.coronavirus-risk-remains-low-ireland---senior-health-official/
+MINIST FOR HEALTH,IRL,GOV,HLH,-2.69905533063428,202003,1,https://www.msn.com/en-ie/news/newsireland/coronavirus-risk-remains-low-in-ireland-%e2%80%93-senior-health-official/ar-BB10AM94
+MINIST FOR HEALTH,IRL,GOV,HLH,-2.69905533063428,202003,1,https://www.msn.com/en-ie/news/newsireland/coronavirus-risk-remains-low-in-ireland-%e2%80%93-senior-health-official/ar-BB10AM94
+WORLD HEALTH ORGANIZATION,ITA,GOV,HLH,-5.00027279091933,202002,12,https://www.seattlepi.com/news/world/article/Italy-seeks-to-calm-fears-in-Europe-as-cases-15085327.php
+HEALTH OFFICIAL,USA,GOV,,-3.9811226174029,202002,2,https://www.bnnbloomberg.ca/trump-s-crisis-management-put-to-the-test-1.1396631
+HEALTH OFFICIAL,USA,GOV,,-3.83351588170865,202002,1,https://nz.news.yahoo.com/trump-crisis-management-put-test-110541205.html
+WORLD HEALTH ORGANIZATION,IRN,GOV,,-3.67504835589942,202002,1,https://www.gulftoday.ae/news/2020/02/26/irans-deputy-health-minister-iraj-harirchi-infected-by-coronavirus
+HEALTH OFFICIAL,ISR,GOV,,-1.83066361556064,202002,1,https://www.middleeastmonitor.com/20200227-coronavirus-reaches-palestine/
+WORLD HEALTH ORGANIZATION,ITA,GOV,HLH,-4.94801344608675,202002,12,https://medicalxpress.com/news/2020-02-italy-calm-europe-cases-deaths.html
+WORLD HEALTH ORGANIZATION,ITA,GOV,HLH,-4.94004215441849,202002,13,https://medicalxpress.com/news/2020-02-italy-calm-europe-cases-deaths.html
+WORLD HEALTH ORGANIZATION,ITA,GOV,HLH,-4.94004215441849,202002,13,https://medicalxpress.com/news/2020-02-italy-calm-europe-cases-deaths.html
+WORLD HEALTH ORGANIZATION,ITA,GOV,HLH,-4.94004215441849,202002,13,https://medicalxpress.com/news/2020-02-italy-calm-europe-cases-deaths.html
+WORLD HEALTH ORGANIZATION,ITA,GOV,HLH,-5.41233257877196,202002,15,https://www.wtvm.com/2020/02/26/globe-braces-long-battle-against-coronavirus-cases-spread/
+WORLD HEALTH ORGANIZATION,ITA,GOV,HLH,-7.73006431645631,202002,7,https://www.wtvm.com/2020/02/26/globe-braces-long-battle-against-coronavirus-cases-spread/
+WORLD HEALTH ORGANIZATION,ITA,GOV,HLH,-4.15704387990762,202002,1,https://medicalxpress.com/news/2020-02-italy-calm-europe-cases-deaths.html
+WORLD HEALTH ORGANIZATION,ITA,GOV,HLH,-4.15704387990762,202002,1,https://medicalxpress.com/news/2020-02-italy-calm-europe-cases-deaths.html
+WORLD HEALTH ORGANIZATION,ITA,GOV,HLH,-4.05675343149824,202002,46,https://www.ktvb.com/article/news/nation-world/pope-observes-usual-ash-wednesday-customs-in-time-of-virus/277-a9ff3dfe-d390-4fe6-8d91-cdd241337aa3
+WORLD HEALTH ORGANIZATION,ITA,GOV,HLH,-7.74336283185841,202002,2,https://www.newschannel6now.com/2020/02/26/globe-braces-long-battle-against-coronavirus-cases-spread/
+WORLD HEALTH ORGANIZATION,ITA,GOV,HLH,-5.7231530619596,202002,9,https://www.wnep.com/article/news/health/coronavirus/countries-take-harsh-containment-steps-as-news-virus-spreads/523-d9effa5f-e6b6-406a-94b6-8168cdc32d9b
+HEALTH MINIST,ITA,GOV,,-7.53012048192771,202002,1,https://www.dailystar.co.uk/news/latest-news/covid-19-half-million-brits-21579183
+HEALTH MINIST,ITA,GOV,,-7.53012048192771,202002,1,https://www.dailystar.co.uk/news/latest-news/covid-19-half-million-brits-21579183
+HEALTH OFFICIAL,IRN,GOV,,-5.92105263157895,202003,1,https://news2.onlinenigeria.com/news/general/817591-coronavirus-iranian-mp-who-tested-positive-for-virus-dies.html
+HEALTH OFFICIAL,IRN,GOV,,-5.92105263157895,202003,1,https://news2.onlinenigeria.com/news/general/817591-coronavirus-iranian-mp-who-tested-positive-for-virus-dies.html
+HEALTH MINIST,ITA,GOV,,0.81743869209809,202002,1,http://famagusta-gazette.com/2020/02/26/italys-pm-confident-in-containing-effect-of-measures-against-coronavirus/
+HEALTH MINIST,ITA,GOV,,0.81743869209809,202002,1,http://famagusta-gazette.com/2020/02/26/italys-pm-confident-in-containing-effect-of-measures-against-coronavirus/
+WORLD HEALTH ORGANIZATION,ITA,GOV,HLH,-4.15704387990762,202002,1,https://medicalxpress.com/news/2020-02-italy-calm-europe-cases-deaths.html
+HEALTH MINIST,LBR,GOV,,0.56899004267425,202002,1,https://allafrica.com/stories/202002260498.html
+WORLD HEALTH ORGANIZATION,MOZ,GOV,HLH,-4.33673469387756,202002,1,http://venturesafrica.com/mozambique-confirms-another-cholera-outbreak/
+WORLD HEALTH ORGANIZATION,MOZ,GOV,HLH,-4.33673469387756,202002,1,http://venturesafrica.com/mozambique-confirms-another-cholera-outbreak/
+HEALTH OFFICIAL,IRN,GOV,,-5.92105263157895,202003,1,https://news2.onlinenigeria.com/news/general/817591-coronavirus-iranian-mp-who-tested-positive-for-virus-dies.html
+MINIST OF HEALTH,NGA,GOV,,6.32911392405063,202002,1,https://www.channelstv.com/2020/02/28/live-health-minister-addresses-nigerians-on-confirmed-case-of-coronavirus/
+MINIST OF HEALTH,NGA,GOV,,6.32911392405063,202002,1,https://www.channelstv.com/2020/02/28/live-health-minister-addresses-nigerians-on-confirmed-case-of-coronavirus/
+HEALTH DEPARTMENT,PHL,GOV,,-1.6,202002,1,https://www.rappler.com/nation/252860-second-case-coronavirus-filipino-hong-kong
+HEALTH DEPARTMENT,PHL,GOV,,-1.6,202002,1,https://www.rappler.com/nation/252860-second-case-coronavirus-filipino-hong-kong
+HEALTH DEPARTMENT,PHL,GOV,,0,202002,1,http://www.canadianinquirer.net/2020/02/27/pinay-in-hong-kong-tests-positive-for-covid-19/
+HEALTH DEPARTMENT,PHL,GOV,,0,202002,1,http://www.canadianinquirer.net/2020/02/27/pinay-in-hong-kong-tests-positive-for-covid-19/
+HEALTH DEPARTMENT,PHL,GOV,,0,202002,1,http://www.canadianinquirer.net/2020/02/27/pinay-in-hong-kong-tests-positive-for-covid-19/
+WORLD HEALTH ORGANIZATION,SAU,GOV,,-4.44545907355139,202002,2,https://www.jpost.com/Israel-News/Kahlon-Israel-coordinating-with-PA-to-contain-coronavirus-outbreak-619399
+WORLD HEALTH ASSEMBLY,CHE,GOV,,1.75953079178886,202003,1,https://uk.reuters.com/article/uk-china-health-swiss-kisses/no-kissing-please-were-swiss-minister-urges-over-coronavirus-idUKKBN20O1P0
+WORLD HEALTH ORGANIZATION,CHE,GOV,,-4.65753424657534,202002,1,https://scroll.in/latest/954496/coronavirus-china-reports-29-more-deaths-the-lowest-number-in-nearly-a-month
+UGANDA,UGA,GOV,,-1.89393939393939,202002,1,https://reliefweb.int/report/uganda/uganda-s-minister-health-commends-who-and-gavi-supporting-countries-eliminate-vaccine
+BRITAIN,GBR,GOV,,-4.50552981884754,202002,13,https://www.voanews.com/science-health/coronavirus-outbreak/european-governments-drafting-pandemic-contingency-plans
+UNITED KINGDOM,GBR,GOV,,-1.3372956909361,202002,1,https://www.scotsman.com/news/politics/scottish-drugs-deaths-conference-calls-on-uk-government-to-back-consumption-rooms-1-5096152
+HEALTH MINIST,GBR,GOV,,-1.3372956909361,202002,1,https://www.scotsman.com/news/politics/scottish-drugs-deaths-conference-calls-on-uk-government-to-back-consumption-rooms-1-5096152
+HEALTH MINIST,GBR,GOV,,-1.3372956909361,202002,1,https://www.scotsman.com/news/politics/scottish-drugs-deaths-conference-calls-on-uk-government-to-back-consumption-rooms-1-5096152
+WORLD HEALTH ORGANIZATION,USA,GOV,,-1.78276530149588,202002,6,https://krdo.com/health/2020/02/28/california-patient-with-unknown-origin-of-coronavirus-is-in-serious-condition-official-says/
+WORLD HEALTH ORGANIZATION,USA,GOV,,-1.85711987432454,202002,3,https://www.1280wnam.com/news/cdc-aims-to-have-all-state-and-local-health-departments-testing-for-coronavirus-by-end-of-next-week/
+WORLD HEALTH ORGANIZATION,USA,GOV,,-1.82231990956138,202002,18,https://www.rockdalenewtoncitizen.com/features/health_wellness/report-new-coronavirus-case-in-california-is-thought-to-be/article_0e027673-197e-578b-a97d-6987b5e508e2.html
+HEALTH OFFICIAL,USA,GOV,,-3.9811226174029,202002,2,https://www.bnnbloomberg.ca/trump-s-crisis-management-put-to-the-test-1.1396631
+HEALTH OFFICIAL,USA,GOV,,-3.83351588170865,202002,1,https://nz.news.yahoo.com/trump-crisis-management-put-test-110541205.html
+HEALTH OFFICIAL,USA,GOV,,-1.56847742922724,202002,1,https://www.msn.com/en-us/news/us/if-coronavirus-hits-kansas-city-area-officials-claim-theyre-prepared-but-are-they/ar-BB10wZaL
+HEALTH MINIST,USA,GOV,HLH,0.390917281292469,202002,2,https://vancouversun.com/news/local-news/eighth-case-of-covid-19-recorded-in-b-c-say-health-officials
+HEALTH OFFICIAL,USA,GOV,,-2.20721137534314,202002,3,https://www.stltoday.com/news/national/states-ramp-up-virus-preparations-try-to-reassure-public/article_4885ce2a-e198-5ac4-b5f8-4f85d19a157e.html
+HEALTH OFFICIAL,USA,GOV,,-2.87578120526164,202002,8,https://cumberlink.com/news/national/states-ramp-up-virus-preparations-try-to-reassure-public/article_9c9fc154-a78b-5977-bc06-9c4243812a2e.html
+HEALTH OFFICIAL,USA,GOV,,-2.2181146025878,202002,1,https://www.columbiamissourian.com/news/state_news/hope-for-the-best-prepare-for-the-worst-state-health/article_d8abc930-58d3-11ea-ad0a-970968345896.html
+HEALTH OFFICIAL,USA,GOV,,-4.1856132764668,202002,3,https://finance.yahoo.com/news/trump-seeks-united-coronavirus-front-050100936.html
+HEALTH OFFICIAL,USA,GOV,,-1.94791138193672,202002,6,http://www.startribune.com/states-ramp-up-virus-preparations-try-to-reassure-public/568252912/
+HEALTH OFFICIAL,USA,GOV,,-10.4309811203961,202002,2,https://www.rawstory.com/2020/02/coronavirus-is-exposing-the-pathologies-and-sheer-incompetence-of-trumps-administration-conservative/
+HEALTH OFFICIAL,USA,GOV,,-2.55200187260609,202002,5,https://poststar.com/news/national/states-ramp-up-virus-preparations-try-to-reassure-public/article_372313ca-269a-592d-971d-4a34fb8073c3.html
+HEALTH OFFICIAL,USA,GOV,,-5.92592592592593,202003,1,https://www.cnn.com/asia/live-news/coronavirus-outbreak-03-01-20-intl-hnk/
+HEALTH OFFICIAL,USA,GOV,,1.12994350282486,202002,1,https://thehill.com/policy/healthcare/484719-azar-downplays-chance-trump-will-appoint-coronavirus-czar
+HEALTH OFFICIAL,USA,GOV,,-5.47945205479452,202002,1,https://www.theage.com.au/world/asia/coronavirus-outbreak-live-italy-iran-record-covid-19-cases-as-virus-infects-thousands-around-globe-20200227-p544st.html
+HEALTH OFFICIAL,USA,GOV,,-0.77720207253886,202002,2,http://www.arirang.co.kr/News/News_View.asp?sys_lang=Eng&nseq=253232
+HEALTH DEPARTMENT,USA,GOV,,-2.41935483870968,202002,1,https://www.wsaz.com/content/news/No-confirmed-cases-of-coronavirus-locally-despite-rumors-568235041.html
+HEALTH OFFICIAL,USA,GOV,,-3.83351588170865,202002,1,https://nz.news.yahoo.com/trump-crisis-management-put-test-110541205.html
+WORLD HEALTH ORGANIZATION,USA,GOV,,-6.41543133135098,202002,2,https://www.msn.com/en-us/news/us/pentagon-races-to-counter-coronavirus-threat-on-military-forces/ar-BB10ziKv
+HEALTH MINIST,USA,GOV,HLH,0,202002,1,https://a1plus.am/en/article/360787
+HEALTH OFFICIAL,USA,GOV,,-1.97368421052631,202002,1,https://www.kbia.org/post/hope-best-prepare-worst-state-health-official-attends-coronavirus-briefings
+PLANNED PARENTHOOD FEDERATION,USA,GOV,,-1.16642863334037,202002,5,http://thecatholicspirit.com/news/nation-and-world/appeals-court-upholds-trump-administrations-title-x-protect-life-rule/
+HEALTH OFFICIAL,USA,GOV,HLH,-1.73160173160173,202002,1,https://www.lehighvalleylive.com/news/2020/02/some-lehigh-valley-travelers-are-being-checked-for-coronavirus-who-would-lead-an-outbreak-response.html
+HEALTH OFFICIAL,USA,GOV,HLH,-2.86475818429673,202002,2,https://www.kgns.tv/content/news/How-schools-are-fighting-against-sickness--568225031.html
+HEALTH OFFICIAL,USA,GOV,,2.442035029191,202002,1,https://ktsmradio.iheart.com/content/2020-02-27-governor-abbott-receives-briefing-on-coronavirus/
+HEALTH OFFICIAL,USA,GOV,,-2.17785843920145,202002,13,https://www.sfgate.com/news/us/article/States-ramp-up-virus-preparations-try-to-15089853.php
+HEALTH OFFICIAL,USA,GOV,,-2.1544744747849,202002,29,https://kvia.com/news/us-world/2020/02/27/states-ramp-up-virus-preparations-try-to-reassure-public/
+HEALTH DEPARTMENT,USA,GOV,,-1.66112956810631,202002,1,https://www.washingtontimes.com/news/2020/feb/27/bothell-high-school-closed-over-coronavirus-fears/
+HEALTH DEPARTMENT,USA,GOV,,-1.94536794038746,202002,7,https://www.heraldandnews.com/ap_news/oregon/suburban-seattle-high-school-closed-over-new-virus-concerns/article_0ae3035e-f392-58a0-baa7-02d08d40bfd7.html
+HEALTH DEPARTMENT,USA,GOV,,-1.99274100243432,202002,6,https://www.heraldandnews.com/ap_news/oregon/suburban-seattle-high-school-closed-over-new-virus-concerns/article_0ae3035e-f392-58a0-baa7-02d08d40bfd7.html
+HEALTH OFFICIAL,USA,GOV,,-2.09435478462805,202002,9,https://www.timesunion.com/news/us/article/States-ramp-up-virus-preparations-try-to-15089853.php
+HEALTH DEPARTMENT,USA,GOV,,-2.68577984263086,202002,12,https://www.registercitizen.com/news/education/article/High-school-north-of-Seattle-closed-over-virus-15089097.php
+HEALTH DEPARTMENT,USA,GOV,,-1.88362136166867,202002,16,https://www.registercitizen.com/news/education/article/High-school-north-of-Seattle-closed-over-virus-15089097.php
+HEALTH OFFICIAL,USA,GOV,,-1.84466019417476,202002,1,https://www.fox29.com/news/us-states-ramp-up-coronavirus-preparations-try-to-reassure-public-amid-growing-outbreak
+HEALTH OFFICIAL,USA,GOV,,-2.19000815122725,202002,5,https://infotel.ca/newsitem/us-virus-outbreak-us-states/cp966904059
+HEALTH OFFICIAL,USA,GOV,,-2.50865051903114,202002,3,https://www.mrt.com/news/us/article/States-ramp-up-virus-preparations-try-to-15089853.php
+HEALTH OFFICIAL,USA,GOV,,-2.5121473829011,202002,17,https://www.wfmz.com/news/states-ramp-up-virus-preparations-try-to-reassure-public/article_a2babbe8-24ff-5a9a-8793-8f32390a5667.html
